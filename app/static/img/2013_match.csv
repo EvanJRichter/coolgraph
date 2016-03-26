@@ -1,0 +1,197 @@
+From,To,data.count
+Cleveland Indians,Pittsburgh Pirates,2
+Pittsburgh Pirates,Cleveland Indians,2
+Oakland Athletics,Washington Nationals,5
+Seattle Mariners,Oakland Athletics,2
+Washington Nationals,Seattle Mariners,1
+Atlanta Braves,Arizona Diamondbacks,5
+Arizona Diamondbacks,Atlanta Braves,2
+Oakland Athletics,Houston Astros,4
+Houston Astros,Oakland Athletics,3
+Tampa Bay Rays,Kansas City Royals,1
+New York Yankees,Seattle Mariners,1
+Seattle Mariners,New York Yankees,2
+Tampa Bay Rays,Colorado Rockies,1
+Chicago Cubs,Arizona Diamondbacks,1
+Arizona Diamondbacks,Chicago Cubs,2
+Seattle Mariners,Boston Red Sox,1
+San Francisco Giants,Chicago White Sox,1
+Chicago White Sox,San Francisco Giants,1
+Philadelphia Phillies,Toronto Blue Jays,3
+Toronto Blue Jays,Philadelphia Phillies,2
+Baltimore Orioles,Boston Red Sox,1
+Philadelphia Phillies,Los Angeles Angels,1
+San Diego Padres,Chicago Cubs,1
+Oakland Athletics,Milwaukee Brewers,1
+Milwaukee Brewers,Oakland Athletics,1
+Arizona Diamondbacks,Pittsburgh Pirates,1
+Chicago White Sox,Arizona Diamondbacks,4
+Minnesota Twins,Houston Astros,1
+Houston Astros,Minnesota Twins,1
+Detroit Tigers,Tampa Bay Rays,1
+Milwaukee Brewers,Baltimore Orioles,2
+New York Yankees,Los Angeles Angels,2
+Los Angeles Angels,New York Yankees,1
+New York Mets,Los Angeles Angels,3
+Los Angeles Angels,Tampa Bay Rays,1
+Tampa Bay Rays,Los Angeles Angels,1
+San Francisco Giants,Baltimore Orioles,2
+Toronto Blue Jays,Chicago White Sox,1
+Tampa Bay Rays,Oakland Athletics,1
+Colorado Rockies,Los Angeles Dodgers,1
+Los Angeles Dodgers,Colorado Rockies,1
+Tampa Bay Rays,Texas Rangers,1
+Baltimore Orioles,Atlanta Braves,1
+Atlanta Braves,Baltimore Orioles,1
+Seattle Mariners,Colorado Rockies,1
+Colorado Rockies,Seattle Mariners,1
+Houston Astros,Cleveland Indians,1
+Cleveland Indians,Houston Astros,1
+Texas Rangers,Tampa Bay Rays,1
+Toronto Blue Jays,Oakland Athletics,1
+Pittsburgh Pirates,Atlanta Braves,1
+Los Angeles Angels,Baltimore Orioles,1
+Baltimore Orioles,Los Angeles Angels,1
+Oakland Athletics,Chicago White Sox,1
+Arizona Diamondbacks,Cincinnati Reds,2
+Cincinnati Reds,Arizona Diamondbacks,1
+Colorado Rockies,New York Yankees,3
+Kansas City Royals,Baltimore Orioles,2
+Chicago Cubs,New York Yankees,3
+Seattle Mariners,Detroit Tigers,1
+Milwaukee Brewers,Atlanta Braves,1
+Atlanta Braves,Milwaukee Brewers,1
+Washington Nationals,Chicago Cubs,2
+Chicago Cubs,Washington Nationals,4
+Colorado Rockies,Chicago White Sox,1
+Boston Red Sox,San Diego Padres,1
+Colorado Rockies,New York Mets,1
+New York Mets,Colorado Rockies,1
+Texas Rangers,New York Yankees,1
+Cleveland Indians,Philadelphia Phillies,1
+Seattle Mariners,Baltimore Orioles,3
+Baltimore Orioles,Seattle Mariners,2
+Baltimore Orioles,Chicago Cubs,2
+Chicago Cubs,Baltimore Orioles,2
+Chicago Cubs,Los Angeles Dodgers,1
+Los Angeles Dodgers,Chicago Cubs,1
+Chicago Cubs,Houston Astros,1
+Los Angeles Dodgers,Miami Marlins,3
+Miami Marlins,Los Angeles Dodgers,1
+,Boston Red Sox,1
+St. Louis Cardinals,Colorado Rockies,1
+Pittsburgh Pirates,Baltimore Orioles,1
+Baltimore Orioles,Pittsburgh Pirates,1
+Chicago White Sox,Boston Red Sox,2
+Boston Red Sox,Chicago White Sox,5
+Colorado Rockies,Cincinnati Reds,1
+Cincinnati Reds,Colorado Rockies,1
+Texas Rangers,Chicago Cubs,4
+Chicago Cubs,Texas Rangers,1
+Baltimore Orioles,Milwaukee Brewers,1
+Chicago Cubs,San Francisco Giants,1
+New York Yankees,Chicago Cubs,1
+Detroit Tigers,Houston Astros,2
+Houston Astros,Detroit Tigers,1
+Chicago White Sox,Tampa Bay Rays,1
+Los Angeles Angels,Atlanta Braves,1
+Atlanta Braves,Los Angeles Angels,1
+Cleveland Indians,St. Louis Cardinals,1
+St. Louis Cardinals,Cleveland Indians,1
+Arizona Diamondbacks,San Diego Padres,1
+San Diego Padres,Arizona Diamondbacks,2
+Boston Red Sox,Detroit Tigers,1
+Detroit Tigers,Boston Red Sox,2
+Baltimore Orioles,Houston Astros,2
+Houston Astros,Baltimore Orioles,1
+Minnesota Twins,Los Angeles Dodgers,1
+Kansas City Royals,Houston Astros,1
+Houston Astros,Kansas City Royals,1
+Los Angeles Angels,Oakland Athletics,1
+Oakland Athletics,Los Angeles Angels,1
+Seattle Mariners,Pittsburgh Pirates,1
+Texas Rangers,Chicago White Sox,1
+Chicago White Sox,Texas Rangers,1
+Minnesota Twins,Kansas City Royals,1
+Los Angeles Dodgers,Minnesota Twins,1
+Toronto Blue Jays,Kansas City Royals,1
+Houston Astros,Texas Rangers,1
+Diablos Rojos del Mexico,Houston Astros,2
+Miami Marlins,Pittsburgh Pirates,1
+Washington Nationals,Oakland Athletics,4
+Washington Nationals,Tampa Bay Rays,1
+Pittsburgh Pirates,New York Mets,2
+Boston Red Sox,Kansas City Royals,1
+New York Mets,Pittsburgh Pirates,2
+Kansas City Royals,Boston Red Sox,1
+Arizona Diamondbacks,Cleveland Indians,1
+Cleveland Indians,Arizona Diamondbacks,1
+Milwaukee Brewers,St. Louis Cardinals,1
+Boston Red Sox,Philadelphia Phillies,1
+Philadelphia Phillies,Boston Red Sox,1
+Minnesota Twins,Pittsburgh Pirates,2
+Pittsburgh Pirates,Minnesota Twins,3
+Philadelphia Phillies,Los Angeles Dodgers,1
+Los Angeles Dodgers,Philadelphia Phillies,1
+St. Louis Cardinals,Milwaukee Brewers,1
+Los Angeles Dodgers,Los Angeles Angels,1
+Atlanta Braves,Houston Astros,1
+Tampa Bay Rays,Washington Nationals,1
+Tampa Bay Rays,Chicago White Sox,3
+Pittsburgh Pirates,Boston Red Sox,1
+Atlanta Braves,Chicago White Sox,1
+Boston Red Sox,Los Angeles Dodgers,1
+Los Angeles Dodgers,Boston Red Sox,1
+San Diego Padres,Cleveland Indians,1
+New York Yankees,San Diego Padres,1
+San Diego Padres,New York Yankees,1
+Texas Rangers,Detroit Tigers,1
+Detroit Tigers,Texas Rangers,1
+St. Louis Cardinals,Los Angeles Angels,2
+Los Angeles Angels,St. Louis Cardinals,2
+Boston Red Sox,Milwaukee Brewers,1
+Milwaukee Brewers,Boston Red Sox,1
+San Diego Padres,Baltimore Orioles,1
+Baltimore Orioles,San Diego Padres,1
+San Diego Padres,Pittsburgh Pirates,2
+Pittsburgh Pirates,San Diego Padres,1
+Kansas City Royals,Chicago Cubs,1
+Detroit Tigers,Washington Nationals,1
+Washington Nationals,Detroit Tigers,3
+New York Yankees,Pittsburgh Pirates,1
+Arizona Diamondbacks,Tampa Bay Rays,1
+Tampa Bay Rays,Arizona Diamondbacks,2
+Cincinnati Reds,Tampa Bay Rays,1
+Oakland Athletics,Baltimore Orioles,2
+San Diego Padres,Oakland Athletics,1
+Oakland Athletics,San Diego Padres,1
+Houston Astros,Colorado Rockies,2
+Colorado Rockies,Houston Astros,1
+Oakland Athletics,Texas Rangers,2
+Texas Rangers,Oakland Athletics,2
+Baltimore Orioles,Oakland Athletics,1
+Milwaukee Brewers,Kansas City Royals,1
+Kansas City Royals,Milwaukee Brewers,1
+Arizona Diamondbacks,Los Angeles Angels,2
+Colorado Rockies,Oakland Athletics,2
+Oakland Athletics,Colorado Rockies,1
+Arizona Diamondbacks,Chicago White Sox,2
+Los Angeles Angels,Arizona Diamondbacks,2
+San Diego Padres,Houston Astros,2
+Pittsburgh Pirates,New York Yankees,1
+New York Mets,Los Angeles Dodgers,1
+Houston Astros,San Diego Padres,2
+Chicago Cubs,Miami Marlins,1
+Miami Marlins,Chicago Cubs,1
+Toronto Blue Jays,Los Angeles Angels,1
+Miami Marlins,Seattle Mariners,1
+Seattle Mariners,Miami Marlins,1
+Colorado Rockies,Cleveland Indians,1
+Minnesota Twins,Atlanta Braves,1
+Atlanta Braves,Minnesota Twins,1
+Baltimore Orioles,Kansas City Royals,1
+Colorado Rockies,Boston Red Sox,1
+Boston Red Sox,Colorado Rockies,2
+Cleveland Indians,Colorado Rockies,1
+Texas Rangers,Pittsburgh Pirates,1
+Pittsburgh Pirates,Texas Rangers,1

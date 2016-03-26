@@ -1,0 +1,434 @@
+name,from_team,team,player_id,note,transaction_id,year
+David Carpenter,Atlanta Braves,New York Yankees,502304,Atlanta Braves traded LHP Chasen Shreve and RHP David Carpenter to New York Yankees for LHP Manny Banuelos.,213889,2015
+Chasen Shreve,Atlanta Braves,New York Yankees,592741,Atlanta Braves traded LHP Chasen Shreve and RHP David Carpenter to New York Yankees for LHP Manny Banuelos.,213889,2015
+Manny Banuelos,New York Yankees,Atlanta Braves,544365,Atlanta Braves traded LHP Chasen Shreve and RHP David Carpenter to New York Yankees for LHP Manny Banuelos.,213889,2015
+Kyle Kubitza,Atlanta Braves,Los Angeles Angels,605323,Atlanta Braves traded 3B Kyle Kubitza and Nate Hyatt to Los Angeles Angels for LHP Ricardo Sanchez.,214012,2015
+Ricardo Sanchez,Los Angeles Angels,Atlanta Braves,645307,Atlanta Braves traded 3B Kyle Kubitza and Nate Hyatt to Los Angeles Angels for LHP Ricardo Sanchez.,214012,2015
+Nate Hyatt,Atlanta Braves,Los Angeles Angels,571801,Atlanta Braves traded 3B Kyle Kubitza and Nate Hyatt to Los Angeles Angels for LHP Ricardo Sanchez.,214012,2015
+Yunel Escobar,Tampa Bay Rays,Oakland Athletics,488862,"Tampa Bay Rays traded 2B Ben Zobrist and SS Yunel Escobar to Oakland Athletics for CF Boog Powell, SS Daniel Robertson, C John Jaso and cash.",214091,2015
+John Jaso,Oakland Athletics,Tampa Bay Rays,444379,"Tampa Bay Rays traded 2B Ben Zobrist and SS Yunel Escobar to Oakland Athletics for CF Boog Powell, SS Daniel Robertson, C John Jaso and cash.",214091,2015
+Ben Zobrist,Tampa Bay Rays,Oakland Athletics,450314,"Tampa Bay Rays traded 2B Ben Zobrist and SS Yunel Escobar to Oakland Athletics for CF Boog Powell, SS Daniel Robertson, C John Jaso and cash.",214091,2015
+Daniel Robertson,Oakland Athletics,Tampa Bay Rays,621002,"Tampa Bay Rays traded 2B Ben Zobrist and SS Yunel Escobar to Oakland Athletics for CF Boog Powell, SS Daniel Robertson, C John Jaso and cash.",214091,2015
+Boog Powell,Oakland Athletics,Tampa Bay Rays,621471,"Tampa Bay Rays traded 2B Ben Zobrist and SS Yunel Escobar to Oakland Athletics for CF Boog Powell, SS Daniel Robertson, C John Jaso and cash.",214091,2015
+Chris Martin,Colorado Rockies,New York Yankees,455119,Colorado Rockies traded RHP Chris Martin to New York Yankees for cash.,214257,2015
+Andrew Thurman,Houston Astros,Atlanta Braves,592806,"Atlanta Braves traded DH Evan Gattis and RHP James Hoyt to Houston Astros for RHP Mike Foltynewicz, 3B Rio Ruiz and RHP Andrew Thurman.",214338,2015
+Lars Huijer,Seattle Mariners,Chicago Cubs,609044,Chicago Cubs traded LHP Mike Kickham to Seattle Mariners for RHP Lars Huijer.,214312,2015
+Mike Kickham,Chicago Cubs,Seattle Mariners,592464,Chicago Cubs traded LHP Mike Kickham to Seattle Mariners for RHP Lars Huijer.,214312,2015
+Yunel Escobar,Oakland Athletics,Washington Nationals,488862,Washington Nationals traded RHP Tyler Clippard to Oakland Athletics for 3B Yunel Escobar.,214337,2015
+Tyler Clippard,Washington Nationals,Oakland Athletics,461325,Washington Nationals traded RHP Tyler Clippard to Oakland Athletics for 3B Yunel Escobar.,214337,2015
+Mike Foltynewicz,Houston Astros,Atlanta Braves,592314,"Atlanta Braves traded DH Evan Gattis and RHP James Hoyt to Houston Astros for RHP Mike Foltynewicz, 3B Rio Ruiz and RHP Andrew Thurman.",214338,2015
+James Hoyt,Atlanta Braves,Houston Astros,624586,"Atlanta Braves traded DH Evan Gattis and RHP James Hoyt to Houston Astros for RHP Mike Foltynewicz, 3B Rio Ruiz and RHP Andrew Thurman.",214338,2015
+Evan Gattis,Atlanta Braves,Houston Astros,594828,"Atlanta Braves traded DH Evan Gattis and RHP James Hoyt to Houston Astros for RHP Mike Foltynewicz, 3B Rio Ruiz and RHP Andrew Thurman.",214338,2015
+Rio Ruiz,Houston Astros,Atlanta Braves,547004,"Atlanta Braves traded DH Evan Gattis and RHP James Hoyt to Houston Astros for RHP Mike Foltynewicz, 3B Rio Ruiz and RHP Andrew Thurman.",214338,2015
+Dan Butler,Boston Red Sox,Washington Nationals,576788,Washington Nationals traded LHP Danny Rosenbaum to Boston Red Sox for C Dan Butler.,214308,2015
+Danny Rosenbaum,Washington Nationals,Boston Red Sox,572095,Washington Nationals traded LHP Danny Rosenbaum to Boston Red Sox for C Dan Butler.,214308,2015
+Dexter Fowler,Houston Astros,Chicago Cubs,451594,Chicago Cubs traded RHP Dan Straily and 3B Luis Valbuena to Houston Astros for CF Dexter Fowler.,214432,2015
+Luis Sardinas,Texas Rangers,Milwaukee Brewers,596143,"Milwaukee Brewers traded cash and RHP Yovani Gallardo to Texas Rangers for RHP Corey Knebel, SS Luis Sardinas and RHP Marcos Diplan.",214433,2015
+Marcos Diplan,Texas Rangers,Milwaukee Brewers,650959,"Milwaukee Brewers traded cash and RHP Yovani Gallardo to Texas Rangers for RHP Corey Knebel, SS Luis Sardinas and RHP Marcos Diplan.",214433,2015
+Yovani Gallardo,Milwaukee Brewers,Texas Rangers,451596,"Milwaukee Brewers traded cash and RHP Yovani Gallardo to Texas Rangers for RHP Corey Knebel, SS Luis Sardinas and RHP Marcos Diplan.",214433,2015
+Luis Valbuena,Chicago Cubs,Houston Astros,472528,Chicago Cubs traded RHP Dan Straily and 3B Luis Valbuena to Houston Astros for CF Dexter Fowler.,214432,2015
+Dan Straily,Chicago Cubs,Houston Astros,573185,Chicago Cubs traded RHP Dan Straily and 3B Luis Valbuena to Houston Astros for CF Dexter Fowler.,214432,2015
+Corey Knebel,Texas Rangers,Milwaukee Brewers,608349,"Milwaukee Brewers traded cash and RHP Yovani Gallardo to Texas Rangers for RHP Corey Knebel, SS Luis Sardinas and RHP Marcos Diplan.",214433,2015
+Gonzalez Germen,New York Yankees,Texas Rangers,542674,New York Yankees traded RHP Gonzalez Germen to Texas Rangers for cash.,214455,2015
+Carlos Corporan,Houston Astros,Texas Rangers,449786,Houston Astros traded C Carlos Corporan to Texas Rangers for RHP Akeem Bostick.,214469,2015
+Akeem Bostick,Texas Rangers,Houston Astros,641384,Houston Astros traded C Carlos Corporan to Texas Rangers for RHP Akeem Bostick.,214469,2015
+Hiram Martinez,Texas Rangers,Tigres de Quintana Roo,596848,Texas Rangers traded 3B Hiram Martinez to Tigres de Quintana Roo for cash.,215020,2015
+Daniel Rodriguez,Atlanta Braves,Baltimore Orioles,496073,Atlanta Braves traded LHP Hector Daniel Rodriguez to Baltimore Orioles for cash.,214627,2015
+Mike Marjama,Chicago White Sox,Tampa Bay Rays,605357,Chicago White Sox traded C Mike Marjama to Tampa Bay Rays for Player To Be Named Later.,214869,2015
+Stephen Tarpley,Baltimore Orioles,Pittsburgh Pirates,605501,Pittsburgh Pirates traded LF Travis Snider to Baltimore Orioles for LHP Stephen Tarpley and Player To Be Named Later.,214778,2015
+Travis Snider,Pittsburgh Pirates,Baltimore Orioles,501983,Pittsburgh Pirates traded LF Travis Snider to Baltimore Orioles for LHP Stephen Tarpley and Player To Be Named Later.,214778,2015
+Robbie Ross Jr.,Texas Rangers,Boston Red Sox,543726,Boston Red Sox traded RHP Anthony Ranaudo to Texas Rangers for LHP Robbie Ross Jr..,214769,2015
+Anthony Ranaudo,Boston Red Sox,Texas Rangers,519168,Boston Red Sox traded RHP Anthony Ranaudo to Texas Rangers for LHP Robbie Ross Jr..,214769,2015
+Jose Briceno,Colorado Rockies,Atlanta Braves,593993,Atlanta Braves traded RHP David Hale and RHP Gus Schlosser to Colorado Rockies for C Jose Briceno and C Chris O'Dowd.,214946,2015
+Gus Schlosser,Atlanta Braves,Colorado Rockies,534576,Atlanta Braves traded RHP David Hale and RHP Gus Schlosser to Colorado Rockies for C Jose Briceno and C Chris O'Dowd.,214946,2015
+David Hale,Atlanta Braves,Colorado Rockies,571735,Atlanta Braves traded RHP David Hale and RHP Gus Schlosser to Colorado Rockies for C Jose Briceno and C Chris O'Dowd.,214946,2015
+Chris O'Dowd,Colorado Rockies,Atlanta Braves,573069,Atlanta Braves traded RHP David Hale and RHP Gus Schlosser to Colorado Rockies for C Jose Briceno and C Chris O'Dowd.,214946,2015
+Mike Ohlman,Baltimore Orioles,St. Louis Cardinals,572000,Baltimore Orioles traded C Mike Ohlman to St. Louis Cardinals for cash.,215096,2015
+Steve Lombardozzi,Baltimore Orioles,Pittsburgh Pirates,543459,Baltimore Orioles traded Steve Lombardozzi to Pittsburgh Pirates for cash.,215097,2015
+Tyler Ybarra,Toronto Blue Jays,Colorado Rockies,543950,Colorado Rockies traded LHP Jayson Aquino to Toronto Blue Jays for LHP Tyler Ybarra.,215131,2015
+Jayson Aquino,Colorado Rockies,Toronto Blue Jays,593969,Colorado Rockies traded LHP Jayson Aquino to Toronto Blue Jays for LHP Tyler Ybarra.,215131,2015
+Yency Almonte,Los Angeles Angels,Chicago White Sox,622075,Los Angeles Angels traded RHP Yency Almonte to Chicago White Sox.,215122,2015
+Arquimedes Caminero,Miami Marlins,Pittsburgh Pirates,491708,Miami Marlins traded RHP Arquimedes Caminero to Pittsburgh Pirates for cash.,215120,2015
+Bryton Trepagnier,Pittsburgh Pirates,Atlanta Braves,595443,Atlanta Braves traded 3B Edward Salcedo to Pittsburgh Pirates for RHP Bryton Trepagnier.,215182,2015
+Edward Salcedo,Atlanta Braves,Pittsburgh Pirates,581685,Atlanta Braves traded 3B Edward Salcedo to Pittsburgh Pirates for RHP Bryton Trepagnier.,215182,2015
+Steven Brault,Baltimore Orioles,Pittsburgh Pirates,643230,Baltimore Orioles traded LHP Steven Brault to Pittsburgh Pirates. The PTBN in the January 27 trade,216415,2015
+Jackson Williams,Los Angeles Angels,San Francisco Giants,519425,Los Angeles Angels traded C Jackson Williams to San Francisco Giants for cash.,217417,2015
+Mike Blanke,Chicago White Sox,Arizona Diamondbacks,571499,Chicago White Sox traded C Michael Blanke to Arizona Diamondbacks for cash.,217813,2015
+Sean Furney,Arizona Diamondbacks,Atlanta Braves,641592,Arizona Diamondbacks traded RHP Sean Furney to Atlanta Braves for cash.,218457,2015
+Neftali Soto,Cincinnati Reds,Chicago White Sox,519304,Cincinnati Reds traded 1B Neftali Soto to Chicago White Sox for cash.,217860,2015
+Mike McDade,Texas Rangers,Baltimore Orioles,519005,Texas Rangers traded 1B Mike McDade to Baltimore Orioles for Future Considerations.,218070,2015
+Dan Johnson,Houston Astros,Cincinnati Reds,430681,Houston Astros traded 1B Dan Johnson to Cincinnati Reds for Player To Be Named Later.,218096,2015
+Devin Lohman,Cincinnati Reds,Philadelphia Phillies,518948,Cincinnati Reds traded SS Devin Lohman to Philadelphia Phillies for Player To Be Named Later.,218098,2015
+Sam Freeman,St. Louis Cardinals,Texas Rangers,518693,St. Louis Cardinals traded LHP Sam Freeman to Texas Rangers for Player To Be Named Later.,218330,2015
+Cory Mazzoni,New York Mets,San Diego Padres,543508,San Diego Padres traded LHP Alex Torres to New York Mets for RHP Cory Mazzoni and Player To Be Named Later.,218483,2015
+Sandy Leon,Washington Nationals,Boston Red Sox,506702,Washington Nationals traded C Sandy Leon to Boston Red Sox for cash.,218461,2015
+Matt den Dekker,New York Mets,Washington Nationals,544925,New York Mets traded CF Matt den Dekker to Washington Nationals for LHP Jerry Blevins.,218503,2015
+Jerry Blevins,Washington Nationals,New York Mets,460283,New York Mets traded CF Matt den Dekker to Washington Nationals for LHP Jerry Blevins.,218503,2015
+Alex Torres,San Diego Padres,New York Mets,456776,San Diego Padres traded LHP Alex Torres to New York Mets for RHP Cory Mazzoni and Player To Be Named Later.,218483,2015
+Elliot Johnson,Texas Rangers,Los Angeles Dodgers,471107,Texas Rangers traded 2B Elliot Johnson to Los Angeles Dodgers for cash.,218703,2015
+Mike Montgomery,Tampa Bay Rays,Seattle Mariners,543557,Seattle Mariners traded RHP Erasmo Ramirez to Tampa Bay Rays for LHP Mike Montgomery.,218698,2015
+Audry Perez,Colorado Rockies,Baltimore Orioles,542233,Colorado Rockies traded C Audry Perez to Baltimore Orioles for cash.,218649,2015
+Erasmo Ramirez,Seattle Mariners,Tampa Bay Rays,541640,Seattle Mariners traded RHP Erasmo Ramirez to Tampa Bay Rays for LHP Mike Montgomery.,218698,2015
+Gregorio Petit,Houston Astros,New York Yankees,463610,Houston Astros traded SS Gregorio Petit to New York Yankees for cash.,218978,2015
+Tony Zych,Chicago Cubs,Seattle Mariners,543964,Chicago Cubs traded RHP Tony Zych to Seattle Mariners for Player To Be Named Later.,221170,2015
+Hunter Morris,Milwaukee Brewers,Pittsburgh Pirates,519051,Milwaukee Brewers traded 1B Hunter Morris to Pittsburgh Pirates for Player To Be Named Later.,218986,2015
+Trevor Cahill,Arizona Diamondbacks,Atlanta Braves,502239,Arizona Diamondbacks traded cash and RHP Trevor Cahill to Atlanta Braves for LF Josh Elander.,219269,2015
+Josh Elander,Atlanta Braves,Arizona Diamondbacks,571645,Arizona Diamondbacks traded cash and RHP Trevor Cahill to Atlanta Braves for LF Josh Elander.,219269,2015
+Michael Bowden,Cincinnati Reds,Baltimore Orioles,476601,Cincinnati Reds traded RHP Michael Bowden to Baltimore Orioles for cash.,219823,2015
+Andrew Triggs,Kansas City Royals,Baltimore Orioles,592811,Kansas City Royals traded RHP Andrew Triggs to Baltimore Orioles for cash.,221695,2015
+Jordan Paroubeck,San Diego Padres,Atlanta Braves,641952,"Atlanta Braves traded RHP Craig Kimbrel and Melvin Upton Jr. to San Diego Padres for CF Cameron Maybin, LF Carlos Quentin, LF Jordan Paroubeck and RHP Matt Wisler.",220105,2015
+Carlos Quentin,San Diego Padres,Atlanta Braves,435041,"Atlanta Braves traded RHP Craig Kimbrel and Melvin Upton Jr. to San Diego Padres for CF Cameron Maybin, LF Carlos Quentin, LF Jordan Paroubeck and RHP Matt Wisler.",220105,2015
+Matt Wisler,San Diego Padres,Atlanta Braves,605538,"Atlanta Braves traded RHP Craig Kimbrel and Melvin Upton Jr. to San Diego Padres for CF Cameron Maybin, LF Carlos Quentin, LF Jordan Paroubeck and RHP Matt Wisler.",220105,2015
+Cameron Maybin,San Diego Padres,Atlanta Braves,457727,"Atlanta Braves traded RHP Craig Kimbrel and Melvin Upton Jr. to San Diego Padres for CF Cameron Maybin, LF Carlos Quentin, LF Jordan Paroubeck and RHP Matt Wisler.",220105,2015
+Craig Kimbrel,Atlanta Braves,San Diego Padres,518886,"Atlanta Braves traded RHP Craig Kimbrel and Melvin Upton Jr. to San Diego Padres for CF Cameron Maybin, LF Carlos Quentin, LF Jordan Paroubeck and RHP Matt Wisler.",220105,2015
+Melvin Upton Jr.,Atlanta Braves,San Diego Padres,425834,"Atlanta Braves traded RHP Craig Kimbrel and Melvin Upton Jr. to San Diego Padres for CF Cameron Maybin, LF Carlos Quentin, LF Jordan Paroubeck and RHP Matt Wisler.",220105,2015
+Victor Reyes,Atlanta Braves,Arizona Diamondbacks,622682,Atlanta Braves traded RF Victor Reyes to Arizona Diamondbacks for .,220571,2015
+Ben Rowen,Los Angeles Dodgers,Baltimore Orioles,594985,Baltimore Orioles traded C Brian Ward and RHP Ryan Webb to Los Angeles Dodgers for RHP Ben Rowen and C Chris O'Brien.,221808,2015
+Brian Ward,Baltimore Orioles,Los Angeles Dodgers,503424,Baltimore Orioles traded C Brian Ward and RHP Ryan Webb to Los Angeles Dodgers for RHP Ben Rowen and C Chris O'Brien.,221808,2015
+Ryan Webb,Baltimore Orioles,Los Angeles Dodgers,444436,Baltimore Orioles traded C Brian Ward and RHP Ryan Webb to Los Angeles Dodgers for RHP Ben Rowen and C Chris O'Brien.,221808,2015
+Chris O'Brien,Los Angeles Dodgers,Baltimore Orioles,605402,Baltimore Orioles traded C Brian Ward and RHP Ryan Webb to Los Angeles Dodgers for RHP Ben Rowen and C Chris O'Brien.,221808,2015
+Xavier Cedeno,Washington Nationals,Los Angeles Dodgers,458584,Washington Nationals traded LHP Xavier Cedeno to Los Angeles Dodgers for cash.,222899,2015
+Xavier Cedeno,Los Angeles Dodgers,Tampa Bay Rays,458584,Los Angeles Dodgers traded LHP Xavier Cedeno to Tampa Bay Rays for cash.,223430,2015
+Josh Hamilton,Los Angeles Angels,Texas Rangers,285078,Los Angeles Angels traded LF Josh Hamilton and cash to Texas Rangers for Player To Be Named Later.,223435,2015
+Andy Wilkins,Toronto Blue Jays,Los Angeles Dodgers,519421,Toronto Blue Jays traded 1B Andy Wilkins to Los Angeles Dodgers for cash.,224089,2015
+Matt West,Toronto Blue Jays,Los Angeles Dodgers,519411,Toronto Blue Jays traded RHP Matt West to Los Angeles Dodgers for cash.,224145,2015
+Ryan Jackson,Kansas City Royals,Los Angeles Angels,474249,Los Angeles Angels traded C Drew Butera to Kansas City Royals for SS Ryan Jackson.,224484,2015
+Drew Butera,Los Angeles Angels,Kansas City Royals,460077,Los Angeles Angels traded C Drew Butera to Kansas City Royals for SS Ryan Jackson.,224484,2015
+Chad Smith,Oakland Athletics,Los Angeles Angels,605477,Oakland Athletics traded RHP Chad Smith to Los Angeles Angels for cash.,224737,2015
+Edward Mujica,Boston Red Sox,Oakland Athletics,465629,Boston Red Sox traded RHP Edward Mujica and cash to Oakland Athletics for Player To Be Named Later.,224859,2015
+Jayson Aquino,Toronto Blue Jays,Pittsburgh Pirates,593969,Toronto Blue Jays traded LHP Jayson Aquino to Pittsburgh Pirates for cash.,224912,2015
+Blake Forsythe,Oakland Athletics,Philadelphia Phillies,574836,Oakland Athletics traded C Blake Forsythe to Philadelphia Phillies for cash.,225298,2015
+Ronald Torreyes,Houston Astros,Toronto Blue Jays,591720,Houston Astros traded SS Ronald Torreyes to Toronto Blue Jays for cash.,225460,2015
+Welington Castillo,Chicago Cubs,Seattle Mariners,456078,Chicago Cubs traded C Welington Castillo to Seattle Mariners for RHP Yoervis Medina.,225948,2015
+Chris Lee,Houston Astros,Baltimore Orioles,595296,Houston Astros traded LHP Chris Lee to Baltimore Orioles for Other Considerations.,226016,2015
+Yoervis Medina,Seattle Mariners,Chicago Cubs,500721,Chicago Cubs traded C Welington Castillo to Seattle Mariners for RHP Yoervis Medina.,225948,2015
+John Cornely,Atlanta Braves,Boston Red Sox,607405,Atlanta Braves traded RHP John Cornely to Boston Red Sox for cash.,226084,2015
+Blake Smith,Los Angeles Dodgers,Chicago White Sox,544930,Chicago White Sox traded LHP Eric Surkamp to Los Angeles Dodgers for RHP Blake Smith.,226416,2015
+Eric Surkamp,Chicago White Sox,Los Angeles Dodgers,474668,Chicago White Sox traded LHP Eric Surkamp to Los Angeles Dodgers for RHP Blake Smith.,226416,2015
+Carlos Peguero,Texas Rangers,Boston Red Sox,451713,Texas Rangers traded LF Carlos Peguero to Boston Red Sox for cash.,226964,2015
+Kirk Nieuwenhuis,New York Mets,Los Angeles Angels,543590,New York Mets traded CF Kirk Nieuwenhuis to Los Angeles Angels for cash.,226902,2015
+Ian Thomas,Atlanta Braves,Los Angeles Dodgers,621962,"Los Angeles Dodgers traded 3B Juan Uribe and RHP Chris Withrow to Atlanta Braves for 3B Alberto Callaspo, LHP Eric Stults, LHP Ian Thomas and RHP Juan Jaime.",226944,2015
+Chris Withrow,Los Angeles Dodgers,Atlanta Braves,519437,"Los Angeles Dodgers traded 3B Juan Uribe and RHP Chris Withrow to Atlanta Braves for 3B Alberto Callaspo, LHP Eric Stults, LHP Ian Thomas and RHP Juan Jaime.",226944,2015
+Alberto Callaspo,Atlanta Braves,Los Angeles Dodgers,430948,"Los Angeles Dodgers traded 3B Juan Uribe and RHP Chris Withrow to Atlanta Braves for 3B Alberto Callaspo, LHP Eric Stults, LHP Ian Thomas and RHP Juan Jaime.",226944,2015
+Juan Jaime,Atlanta Braves,Los Angeles Dodgers,462089,"Los Angeles Dodgers traded 3B Juan Uribe and RHP Chris Withrow to Atlanta Braves for 3B Alberto Callaspo, LHP Eric Stults, LHP Ian Thomas and RHP Juan Jaime.",226944,2015
+Juan Uribe,Los Angeles Dodgers,Atlanta Braves,346874,"Los Angeles Dodgers traded 3B Juan Uribe and RHP Chris Withrow to Atlanta Braves for 3B Alberto Callaspo, LHP Eric Stults, LHP Ian Thomas and RHP Juan Jaime.",226944,2015
+Eric Stults,Atlanta Braves,Los Angeles Dodgers,445590,"Los Angeles Dodgers traded 3B Juan Uribe and RHP Chris Withrow to Atlanta Braves for 3B Alberto Callaspo, LHP Eric Stults, LHP Ian Thomas and RHP Juan Jaime.",226944,2015
+Alexander Simon,Tampa Bay Rays,Chicago White Sox,606121,Tampa Bay Rays traded 1B Alexander Simon to Chicago White Sox for cash.,228979,2015
+P.J. Walters,Los Angeles Dodgers,Washington Nationals,502208,Los Angeles Dodgers traded RHP P.J. Walters to Washington Nationals for cash.,228316,2015
+Vidal Nuno,Arizona Diamondbacks,Seattle Mariners,573064,"Arizona Diamondbacks traded RF Mark Trumbo and LHP Vidal Nuno to Seattle Mariners for C Welington Castillo, RHP Dominic Leone, RF Gabriel Guerrero and SS Jack Reinheimer.",228679,2015
+Gabriel Guerrero,Seattle Mariners,Arizona Diamondbacks,602115,"Arizona Diamondbacks traded RF Mark Trumbo and LHP Vidal Nuno to Seattle Mariners for C Welington Castillo, RHP Dominic Leone, RF Gabriel Guerrero and SS Jack Reinheimer.",228679,2015
+Joe Gunkel,Boston Red Sox,Baltimore Orioles,641646,Baltimore Orioles traded LF Alejandro De Aza and cash to Boston Red Sox for RHP Joe Gunkel.,228657,2015
+Welington Castillo,Seattle Mariners,Arizona Diamondbacks,456078,"Arizona Diamondbacks traded RF Mark Trumbo and LHP Vidal Nuno to Seattle Mariners for C Welington Castillo, RHP Dominic Leone, RF Gabriel Guerrero and SS Jack Reinheimer.",228679,2015
+Dominic Leone,Seattle Mariners,Arizona Diamondbacks,608678,"Arizona Diamondbacks traded RF Mark Trumbo and LHP Vidal Nuno to Seattle Mariners for C Welington Castillo, RHP Dominic Leone, RF Gabriel Guerrero and SS Jack Reinheimer.",228679,2015
+Jack Reinheimer,Seattle Mariners,Arizona Diamondbacks,595373,"Arizona Diamondbacks traded RF Mark Trumbo and LHP Vidal Nuno to Seattle Mariners for C Welington Castillo, RHP Dominic Leone, RF Gabriel Guerrero and SS Jack Reinheimer.",228679,2015
+Mark Trumbo,Arizona Diamondbacks,Seattle Mariners,444432,"Arizona Diamondbacks traded RF Mark Trumbo and LHP Vidal Nuno to Seattle Mariners for C Welington Castillo, RHP Dominic Leone, RF Gabriel Guerrero and SS Jack Reinheimer.",228679,2015
+Alejandro De Aza,Baltimore Orioles,Boston Red Sox,457477,Baltimore Orioles traded LF Alejandro De Aza and cash to Boston Red Sox for RHP Joe Gunkel.,228657,2015
+Martin Medina,Chicago White Sox,Toronto Blue Jays,607358,Chicago White Sox traded C Martin Medina to Toronto Blue Jays for cash.,228939,2015
+Tony Renda,Washington Nationals,New York Yankees,573113,New York Yankees traded RHP David Carpenter to Washington Nationals for 2B Tony Renda.,229679,2015
+David Carpenter,New York Yankees,Washington Nationals,502304,New York Yankees traded RHP David Carpenter to Washington Nationals for 2B Tony Renda.,229679,2015
+Ronald Torreyes,Toronto Blue Jays,Los Angeles Dodgers,591720,Toronto Blue Jays traded SS Ronald Torreyes to Los Angeles Dodgers for cash.,229992,2015
+Brad Wieck,New York Mets,San Diego Padres,623364,New York Mets traded LHP Brad Wieck to San Diego Padres.,230188,2015
+Trea Turner,San Diego Padres,Washington Nationals,607208,San Diego Padres traded SS Trea Turner to Washington Nationals.,230244,2015
+Robert Strader,,Baltimore Orioles,621351,Baltimore Orioles signed LHP Robert Strader.,234591,2015
+Touki Toussaint,Arizona Diamondbacks,Atlanta Braves,657053,Arizona Diamondbacks traded RHP Bronson Arroyo and RHP Touki Toussaint to Atlanta Braves for 3B Phil Gosselin.,232868,2015
+Bronson Arroyo,Arizona Diamondbacks,Atlanta Braves,276520,Arizona Diamondbacks traded RHP Bronson Arroyo and RHP Touki Toussaint to Atlanta Braves for 3B Phil Gosselin.,232868,2015
+Phil Gosselin,Atlanta Braves,Arizona Diamondbacks,594838,Arizona Diamondbacks traded RHP Bronson Arroyo and RHP Touki Toussaint to Atlanta Braves for 3B Phil Gosselin.,232868,2015
+Kyle Winkler,Tampa Bay Rays,Los Angeles Angels,543937,Los Angeles Angels traded 1B Marc Krauss to Tampa Bay Rays for RHP Kyle Winkler.,234515,2015
+Marc Krauss,Los Angeles Angels,Tampa Bay Rays,571868,Los Angeles Angels traded 1B Marc Krauss to Tampa Bay Rays for RHP Kyle Winkler.,234515,2015
+Garrett Fulenchek,Atlanta Braves,Tampa Bay Rays,656440,Atlanta Braves traded RHP Garrett Fulenchek to Tampa Bay Rays for Other Considerations.,236131,2015
+Cody Martin,Atlanta Braves,Oakland Athletics,592533,Atlanta Braves traded RHP Cody Martin to Oakland Athletics for Other Considerations.,235869,2015
+Jordan Paroubeck,Atlanta Braves,Los Angeles Dodgers,641952,Atlanta Braves traded RHP Caleb Dirks and LF Jordan Paroubeck to Los Angeles Dodgers for Other Considerations.,235969,2015
+Caleb Dirks,Atlanta Braves,Los Angeles Dodgers,656375,Atlanta Braves traded RHP Caleb Dirks and LF Jordan Paroubeck to Los Angeles Dodgers for Other Considerations.,235969,2015
+Clayton Richard,Pittsburgh Pirates,Chicago Cubs,453385,Pittsburgh Pirates traded LHP Clayton Richard to Chicago Cubs for cash.,236133,2015
+Raffy Lopez,Chicago Cubs,Los Angeles Angels,607257,Chicago Cubs traded C Rafael Lopez to Los Angeles Angels for LHP Manuel Rondon and cash.,239173,2015
+Manuel Rondon,Los Angeles Angels,Chicago Cubs,642396,Chicago Cubs traded C Rafael Lopez to Los Angeles Angels for LHP Manuel Rondon and cash.,239173,2015
+Josh Taylor,Philadelphia Phillies,Arizona Diamondbacks,657031,"Philadelphia Phillies traded Future Considerations, RHP Chris Oliver and LHP Josh Taylor to Arizona Diamondbacks for Future Considerations.",236388,2015
+Chris Oliver,Philadelphia Phillies,Arizona Diamondbacks,607217,"Philadelphia Phillies traded Future Considerations, RHP Chris Oliver and LHP Josh Taylor to Arizona Diamondbacks for Future Considerations.",236388,2015
+Aaron Kurcz,Atlanta Braves,Oakland Athletics,594891,Atlanta Braves traded RHP Aaron Kurcz to Oakland Athletics for Future Considerations.,236540,2015
+Grant Dayton,Miami Marlins,Los Angeles Dodgers,594795,Los Angeles Dodgers traded LHP Chris Reed to Miami Marlins for LHP Grant Dayton.,237862,2015
+Chris Reed,Los Angeles Dodgers,Miami Marlins,607068,Los Angeles Dodgers traded LHP Chris Reed to Miami Marlins for LHP Grant Dayton.,237862,2015
+Shawn Haviland,Chicago White Sox,Colorado Rockies,543286,Chicago White Sox traded RHP Shawn Haviland to Colorado Rockies for cash.,240615,2015
+Aramis Ramirez,Milwaukee Brewers,Pittsburgh Pirates,133380,Milwaukee Brewers traded 3B Aramis Ramirez and cash to Pittsburgh Pirates for RHP Yhonathan Barrios.,239286,2015
+Yhonathan Barrios,Pittsburgh Pirates,Milwaukee Brewers,553872,Milwaukee Brewers traded 3B Aramis Ramirez and cash to Pittsburgh Pirates for RHP Yhonathan Barrios.,239286,2015
+Jacob Nottingham,Houston Astros,Oakland Athletics,641924,Oakland Athletics traded LHP Scott Kazmir to Houston Astros for RHP Daniel Mengden and C Jacob Nottingham.,239033,2015
+Scott Kazmir,Oakland Athletics,Houston Astros,431148,Oakland Athletics traded LHP Scott Kazmir to Houston Astros for RHP Daniel Mengden and C Jacob Nottingham.,239033,2015
+Daniel Mengden,Houston Astros,Oakland Athletics,596043,Oakland Athletics traded LHP Scott Kazmir to Houston Astros for RHP Daniel Mengden and C Jacob Nottingham.,239033,2015
+John Gant,New York Mets,Atlanta Braves,607231,"New York Mets traded RHP John Gant and RHP Rob Whalen to Atlanta Braves for 3B Juan Uribe, LF Kelly Johnson and cash.",239278,2015
+Rob Whalen,New York Mets,Atlanta Braves,547007,"New York Mets traded RHP John Gant and RHP Rob Whalen to Atlanta Braves for 3B Juan Uribe, LF Kelly Johnson and cash.",239278,2015
+Kelly Johnson,Atlanta Braves,New York Mets,430637,"New York Mets traded RHP John Gant and RHP Rob Whalen to Atlanta Braves for 3B Juan Uribe, LF Kelly Johnson and cash.",239278,2015
+Conor Gillaspie,Chicago White Sox,Los Angeles Angels,543216,Chicago White Sox traded 3B Conor Gillaspie to Los Angeles Angels for cash.,239161,2015
+Juan Uribe,Atlanta Braves,New York Mets,346874,"New York Mets traded RHP John Gant and RHP Rob Whalen to Atlanta Braves for 3B Juan Uribe, LF Kelly Johnson and cash.",239278,2015
+Steve Cishek,Miami Marlins,St. Louis Cardinals,518553,Miami Marlins traded RHP Steve Cishek to St. Louis Cardinals for Kyle Barraclough.,239188,2015
+Kyle Barraclough,St. Louis Cardinals,Miami Marlins,607457,Miami Marlins traded RHP Steve Cishek to St. Louis Cardinals for Kyle Barraclough.,239188,2015
+Johnny Cueto,Cincinnati Reds,Kansas City Royals,456501,"Cincinnati Reds traded RHP Johnny Cueto and cash to Kansas City Royals for LHP Brandon Finnegan, LHP Cody Reed and LHP John Lamb.",239491,2015
+Brandon Finnegan,Kansas City Royals,Cincinnati Reds,605232,"Cincinnati Reds traded RHP Johnny Cueto and cash to Kansas City Royals for LHP Brandon Finnegan, LHP Cody Reed and LHP John Lamb.",239491,2015
+John Lamb,Kansas City Royals,Cincinnati Reds,543424,"Cincinnati Reds traded RHP Johnny Cueto and cash to Kansas City Royals for LHP Brandon Finnegan, LHP Cody Reed and LHP John Lamb.",239491,2015
+Cody Reed,Kansas City Royals,Cincinnati Reds,642003,"Cincinnati Reds traded RHP Johnny Cueto and cash to Kansas City Royals for LHP Brandon Finnegan, LHP Cody Reed and LHP John Lamb.",239491,2015
+Shane Victorino,Boston Red Sox,Los Angeles Angels,425664,Boston Red Sox traded LF Shane Victorino and cash to Los Angeles Angels for 2B Josh Rutledge.,239656,2015
+Josh Rutledge,Los Angeles Angels,Boston Red Sox,592710,Boston Red Sox traded LF Shane Victorino and cash to Los Angeles Angels for 2B Josh Rutledge.,239656,2015
+Tyler Clippard,Oakland Athletics,New York Mets,461325,Oakland Athletics traded RHP Tyler Clippard and cash to New York Mets for RHP Casey Meisner.,239664,2015
+Casey Meisner,New York Mets,Oakland Athletics,641861,Oakland Athletics traded RHP Tyler Clippard and cash to New York Mets for RHP Casey Meisner.,239664,2015
+David DeJesus,Tampa Bay Rays,Los Angeles Angels,430203,Tampa Bay Rays traded LF David DeJesus to Los Angeles Angels for RHP Eduar Lopez.,239870,2015
+LaTroy Hawkins,Colorado Rockies,Toronto Blue Jays,115629,"Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",239731,2015
+Troy Tulowitzki,Colorado Rockies,Toronto Blue Jays,453064,"Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",239731,2015
+Miguel Castro,Toronto Blue Jays,Colorado Rockies,612434,"Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",239731,2015
+Jonathan Papelbon,Philadelphia Phillies,Washington Nationals,449097,Philadelphia Phillies traded RHP Jonathan Papelbon and cash to Washington Nationals for RHP Nick Pivetta.,239881,2015
+Jeff Hoffman,Toronto Blue Jays,Colorado Rockies,656546,"Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",239731,2015
+Eduar Lopez,Los Angeles Angels,Tampa Bay Rays,622333,Tampa Bay Rays traded LF David DeJesus to Los Angeles Angels for RHP Eduar Lopez.,239870,2015
+Nick Pivetta,Washington Nationals,Philadelphia Phillies,601713,Philadelphia Phillies traded RHP Jonathan Papelbon and cash to Washington Nationals for RHP Nick Pivetta.,239881,2015
+Jose Reyes,Toronto Blue Jays,Colorado Rockies,408314,"Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",239731,2015
+David Murphy,Cleveland Indians,Los Angeles Angels,461815,Cleveland Indians traded LF David Murphy to Los Angeles Angels for SS Eric Stamets.,239893,2015
+Eric Stamets,Los Angeles Angels,Cleveland Indians,608715,Cleveland Indians traded LF David Murphy to Los Angeles Angels for SS Eric Stamets.,239893,2015
+Ben Zobrist,Oakland Athletics,Kansas City Royals,450314,Oakland Athletics traded Ben Zobrist and cash to Kansas City Royals for RHP Aaron Brooks and LHP Sean Manaea.,239772,2015
+Sean Manaea,Kansas City Royals,Oakland Athletics,640455,Oakland Athletics traded Ben Zobrist and cash to Kansas City Royals for RHP Aaron Brooks and LHP Sean Manaea.,239772,2015
+Aaron Brooks,Kansas City Royals,Oakland Athletics,605156,Oakland Athletics traded Ben Zobrist and cash to Kansas City Royals for RHP Aaron Brooks and LHP Sean Manaea.,239772,2015
+Jesus Tinoco,Toronto Blue Jays,Colorado Rockies,622786,"Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",239731,2015
+Jayson Aquino,Pittsburgh Pirates,Cleveland Indians,593969,Pittsburgh Pirates traded LHP Jayson Aquino to Cleveland Indians for cash.,239980,2015
+Joe Blanton,Kansas City Royals,Pittsburgh Pirates,430599,Kansas City Royals traded RHP Joe Blanton to Pittsburgh Pirates for cash.,240040,2015
+Kevin Guzman,Los Angeles Dodgers,Miami Marlins,644177,"Miami Marlins traded RHP Mat Latos, Michael Morse and cash to Los Angeles Dodgers for RHP Victor Araujo, RHP Jeff Brigham and RHP Kevin Guzman.",240110,2015
+Mat Latos,Miami Marlins,Los Angeles Dodgers,502009,"Miami Marlins traded RHP Mat Latos, Michael Morse and cash to Los Angeles Dodgers for RHP Victor Araujo, RHP Jeff Brigham and RHP Kevin Guzman.",240110,2015
+Michael Morse,Miami Marlins,Los Angeles Dodgers,434604,"Miami Marlins traded RHP Mat Latos, Michael Morse and cash to Los Angeles Dodgers for RHP Victor Araujo, RHP Jeff Brigham and RHP Kevin Guzman.",240110,2015
+Victor Araujo,Los Angeles Dodgers,Miami Marlins,593624,"Miami Marlins traded RHP Mat Latos, Michael Morse and cash to Los Angeles Dodgers for RHP Victor Araujo, RHP Jeff Brigham and RHP Kevin Guzman.",240110,2015
+Jeff Brigham,Los Angeles Dodgers,Miami Marlins,656257,"Miami Marlins traded RHP Mat Latos, Michael Morse and cash to Los Angeles Dodgers for RHP Victor Araujo, RHP Jeff Brigham and RHP Kevin Guzman.",240110,2015
+Domingo Santana,Houston Astros,Milwaukee Brewers,570267,"Milwaukee Brewers traded CF Carlos Gomez, RHP Mike Fiers and Other Considerations to Houston Astros for RHP Adrian Houser, OF Brett Phillips, RF Domingo Santana and LHP Josh Hader.",240185,2015
+Brett Phillips,Houston Astros,Milwaukee Brewers,621433,"Milwaukee Brewers traded CF Carlos Gomez, RHP Mike Fiers and Other Considerations to Houston Astros for RHP Adrian Houser, OF Brett Phillips, RF Domingo Santana and LHP Josh Hader.",240185,2015
+Josh Hader,Houston Astros,Milwaukee Brewers,623352,"Milwaukee Brewers traded CF Carlos Gomez, RHP Mike Fiers and Other Considerations to Houston Astros for RHP Adrian Houser, OF Brett Phillips, RF Domingo Santana and LHP Josh Hader.",240185,2015
+Adrian Houser,Houston Astros,Milwaukee Brewers,605288,"Milwaukee Brewers traded CF Carlos Gomez, RHP Mike Fiers and Other Considerations to Houston Astros for RHP Adrian Houser, OF Brett Phillips, RF Domingo Santana and LHP Josh Hader.",240185,2015
+David Price,Detroit Tigers,Toronto Blue Jays,456034,"Detroit Tigers traded LHP David Price to Toronto Blue Jays for LHP Matt Boyd, LHP Daniel Norris and LHP Jairo Labourt.",240065,2015
+Brandon Moss,Cleveland Indians,St. Louis Cardinals,461235,Cleveland Indians traded 1B Brandon Moss to St. Louis Cardinals for LHP Rob Kaminsky.,240047,2015
+Rob Kaminsky,St. Louis Cardinals,Cleveland Indians,641739,Cleveland Indians traded 1B Brandon Moss to St. Louis Cardinals for LHP Rob Kaminsky.,240047,2015
+JaCoby Jones,Pittsburgh Pirates,Detroit Tigers,592444,Detroit Tigers traded RHP Joakim Soria to Pittsburgh Pirates for SS JaCoby Jones.,240180,2015
+Joakim Soria,Detroit Tigers,Pittsburgh Pirates,465657,Detroit Tigers traded RHP Joakim Soria to Pittsburgh Pirates for SS JaCoby Jones.,240180,2015
+Mike Fiers,Milwaukee Brewers,Houston Astros,571666,"Milwaukee Brewers traded CF Carlos Gomez, RHP Mike Fiers and Other Considerations to Houston Astros for RHP Adrian Houser, OF Brett Phillips, RF Domingo Santana and LHP Josh Hader.",240185,2015
+Carlos Gomez,Milwaukee Brewers,Houston Astros,460576,"Milwaukee Brewers traded CF Carlos Gomez, RHP Mike Fiers and Other Considerations to Houston Astros for RHP Adrian Houser, OF Brett Phillips, RF Domingo Santana and LHP Josh Hader.",240185,2015
+Jim Johnson,Atlanta Braves,Los Angeles Dodgers,462382,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Alex Wood,Atlanta Braves,Los Angeles Dodgers,622072,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Bronson Arroyo,Atlanta Braves,Los Angeles Dodgers,276520,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Jose Peraza,Atlanta Braves,Los Angeles Dodgers,606299,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Zack Bird,Los Angeles Dodgers,Atlanta Braves,621064,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Hector Olivera,Los Angeles Dodgers,Atlanta Braves,493343,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Paco Rodriguez,Los Angeles Dodgers,Atlanta Braves,572089,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Luis Avilan,Atlanta Braves,Los Angeles Dodgers,501593,"Atlanta Braves traded LHP Alex Wood, RHP Jim Johnson, LHP Luis Avilan, 2B Jose Peraza, RHP Bronson Arroyo and cash to Los Angeles Dodgers for 2B Hector Olivera, LHP Paco Rodriguez and RHP Zack Bird.",240120,2015
+Matt Boyd,Toronto Blue Jays,Detroit Tigers,571510,"Detroit Tigers traded LHP David Price to Toronto Blue Jays for LHP Matt Boyd, LHP Daniel Norris and LHP Jairo Labourt.",240065,2015
+Daniel Norris,Toronto Blue Jays,Detroit Tigers,596057,"Detroit Tigers traded LHP David Price to Toronto Blue Jays for LHP Matt Boyd, LHP Daniel Norris and LHP Jairo Labourt.",240065,2015
+Jairo Labourt,Toronto Blue Jays,Detroit Tigers,607951,"Detroit Tigers traded LHP David Price to Toronto Blue Jays for LHP Matt Boyd, LHP Daniel Norris and LHP Jairo Labourt.",240065,2015
+Mike Leake,Cincinnati Reds,San Francisco Giants,502190,Cincinnati Reds traded RHP Mike Leake to San Francisco Giants for 1B Adam Duvall and RHP Keury Mella.,240216,2015
+Adam Duvall,San Francisco Giants,Cincinnati Reds,594807,Cincinnati Reds traded RHP Mike Leake to San Francisco Giants for 1B Adam Duvall and RHP Keury Mella.,240216,2015
+Keury Mella,San Francisco Giants,Cincinnati Reds,622492,Cincinnati Reds traded RHP Mike Leake to San Francisco Giants for 1B Adam Duvall and RHP Keury Mella.,240216,2015
+Ramon Flores,New York Yankees,Seattle Mariners,570717,Seattle Mariners traded LF Dustin Ackley to New York Yankees for RHP Jose Ramirez and LF Ramon Flores.,240116,2015
+Dustin Ackley,Seattle Mariners,New York Yankees,554429,Seattle Mariners traded LF Dustin Ackley to New York Yankees for RHP Jose Ramirez and LF Ramon Flores.,240116,2015
+Jose Ramirez,New York Yankees,Seattle Mariners,542432,Seattle Mariners traded LF Dustin Ackley to New York Yankees for RHP Jose Ramirez and LF Ramon Flores.,240116,2015
+Justin Sellers,Pittsburgh Pirates,Chicago White Sox,451088,Pittsburgh Pirates traded SS Justin Sellers to Chicago White Sox.,240167,2015
+Zach Davies,Baltimore Orioles,Milwaukee Brewers,605200,Milwaukee Brewers traded LF Gerardo Parra to Baltimore Orioles for RHP Zach Davies.,240252,2015
+Gerardo Parra,Milwaukee Brewers,Baltimore Orioles,467827,Milwaukee Brewers traded LF Gerardo Parra to Baltimore Orioles for RHP Zach Davies.,240252,2015
+Felix Doubront,Toronto Blue Jays,Oakland Athletics,467094,Toronto Blue Jays traded LHP Felix Doubront to Oakland Athletics for cash.,240289,2015
+Michael Morse,Los Angeles Dodgers,Pittsburgh Pirates,434604,Los Angeles Dodgers traded 1B Michael Morse and cash to Pittsburgh Pirates for RF Jose Tabata.,240397,2015
+Sam Dyson,Miami Marlins,Texas Rangers,473879,Miami Marlins traded RHP Sam Dyson to Texas Rangers for C Tomas Telis and LHP Cody Ege.,240314,2015
+Cody Ege,Texas Rangers,Miami Marlins,643297,Miami Marlins traded RHP Sam Dyson to Texas Rangers for C Tomas Telis and LHP Cody Ege.,240314,2015
+Tomas Telis,Texas Rangers,Miami Marlins,542513,Miami Marlins traded RHP Sam Dyson to Texas Rangers for C Tomas Telis and LHP Cody Ege.,240314,2015
+Jose Tabata,Pittsburgh Pirates,Los Angeles Dodgers,467798,Los Angeles Dodgers traded 1B Michael Morse and cash to Pittsburgh Pirates for RF Jose Tabata.,240397,2015
+Yoenis Cespedes,Detroit Tigers,New York Mets,493316,Detroit Tigers traded LF Yoenis Cespedes to New York Mets for RHP Luis Cessa and RHP Michael Fulmer.,240326,2015
+Luis Cessa,New York Mets,Detroit Tigers,570666,Detroit Tigers traded LF Yoenis Cespedes to New York Mets for RHP Luis Cessa and RHP Michael Fulmer.,240326,2015
+Mark Lowe,Seattle Mariners,Toronto Blue Jays,450275,"Seattle Mariners traded RHP Mark Lowe to Toronto Blue Jays for LHP Rob Rasmussen, LHP Jacob Brentz and LHP Nick Wells.",240269,2015
+Jake Brentz,Toronto Blue Jays,Seattle Mariners,641394,"Seattle Mariners traded RHP Mark Lowe to Toronto Blue Jays for LHP Rob Rasmussen, LHP Jacob Brentz and LHP Nick Wells.",240269,2015
+Rob Rasmussen,Toronto Blue Jays,Seattle Mariners,519169,"Seattle Mariners traded RHP Mark Lowe to Toronto Blue Jays for LHP Rob Rasmussen, LHP Jacob Brentz and LHP Nick Wells.",240269,2015
+Nick Wells,Toronto Blue Jays,Seattle Mariners,657101,"Seattle Mariners traded RHP Mark Lowe to Toronto Blue Jays for LHP Rob Rasmussen, LHP Jacob Brentz and LHP Nick Wells.",240269,2015
+Chih-Wei Hu,Minnesota Twins,Tampa Bay Rays,629496,Tampa Bay Rays traded RHP Kevin Jepsen to Minnesota Twins for RHP Chih-Wei Hu and RHP Alexis Tapia.,240280,2015
+Alexis Tapia,Minnesota Twins,Tampa Bay Rays,629503,Tampa Bay Rays traded RHP Kevin Jepsen to Minnesota Twins for RHP Chih-Wei Hu and RHP Alexis Tapia.,240280,2015
+Kevin Jepsen,Tampa Bay Rays,Minnesota Twins,448178,Tampa Bay Rays traded RHP Kevin Jepsen to Minnesota Twins for RHP Chih-Wei Hu and RHP Alexis Tapia.,240280,2015
+Cole Hamels,Philadelphia Phillies,Texas Rangers,430935,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Jake Thompson,Texas Rangers,Philadelphia Phillies,622097,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Jake Diekman,Philadelphia Phillies,Texas Rangers,518617,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Alec Asher,Texas Rangers,Philadelphia Phillies,594742,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Jorge Alfaro,Texas Rangers,Philadelphia Phillies,595751,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Jerad Eickhoff,Texas Rangers,Philadelphia Phillies,595191,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Matt Harrison,Texas Rangers,Philadelphia Phillies,457448,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Nick Williams,Texas Rangers,Philadelphia Phillies,608384,"Philadelphia Phillies traded LHP Cole Hamels, LHP Jake Diekman and cash to Texas Rangers for Matt Harrison, C Jorge Alfaro, RHP Jerad Eickhoff, OF Nick Williams, RHP Alec Asher and RHP Jake Thompson.",240245,2015
+Adrian Sampson,Pittsburgh Pirates,Seattle Mariners,592716,Seattle Mariners traded LHP J.A. Happ to Pittsburgh Pirates for RHP Adrian Sampson.,240306,2015
+J.A. Happ,Seattle Mariners,Pittsburgh Pirates,457918,Seattle Mariners traded LHP J.A. Happ to Pittsburgh Pirates for RHP Adrian Sampson.,240306,2015
+Elliot Soto,Chicago Cubs,Miami Marlins,519303,Miami Marlins traded RHP Dan Haren and cash to Chicago Cubs for RHP Ivan Pineyro and SS Elliot Soto.,240296,2015
+Dan Haren,Miami Marlins,Chicago Cubs,429717,Miami Marlins traded RHP Dan Haren and cash to Chicago Cubs for RHP Ivan Pineyro and SS Elliot Soto.,240296,2015
+Ivan Pineyro,Chicago Cubs,Miami Marlins,606335,Miami Marlins traded RHP Dan Haren and cash to Chicago Cubs for RHP Ivan Pineyro and SS Elliot Soto.,240296,2015
+Jimmy Cordero,Toronto Blue Jays,Philadelphia Phillies,622772,Philadelphia Phillies traded LF Ben Revere and cash to Toronto Blue Jays for RHP Jimmy Cordero and RHP Alberto Tirado.,240294,2015
+Alberto Tirado,Toronto Blue Jays,Philadelphia Phillies,610143,Philadelphia Phillies traded LF Ben Revere and cash to Toronto Blue Jays for RHP Jimmy Cordero and RHP Alberto Tirado.,240294,2015
+Ben Revere,Philadelphia Phillies,Toronto Blue Jays,519184,Philadelphia Phillies traded LF Ben Revere and cash to Toronto Blue Jays for RHP Jimmy Cordero and RHP Alberto Tirado.,240294,2015
+Ryan Cook,Oakland Athletics,Boston Red Sox,475857,Oakland Athletics traded RHP Ryan Cook to Boston Red Sox for Player To Be Named Later.,240344,2015
+Malik Collymore,St. Louis Cardinals,Milwaukee Brewers,641471,Milwaukee Brewers traded RHP Jonathan Broxton and cash to St. Louis Cardinals for LF Malik Collymore.,240246,2015
+Jonathan Broxton,Milwaukee Brewers,St. Louis Cardinals,455009,Milwaukee Brewers traded RHP Jonathan Broxton and cash to St. Louis Cardinals for LF Malik Collymore.,240246,2015
+Junior Lake,Chicago Cubs,Baltimore Orioles,516809,Baltimore Orioles traded RHP Tommy Hunter to Chicago Cubs for RF Junior Lake.,240308,2015
+Tommy Hunter,Baltimore Orioles,Chicago Cubs,488984,Baltimore Orioles traded RHP Tommy Hunter to Chicago Cubs for RF Junior Lake.,240308,2015
+Michael Fulmer,New York Mets,Detroit Tigers,605242,Detroit Tigers traded LF Yoenis Cespedes to New York Mets for RHP Luis Cessa and RHP Michael Fulmer.,240326,2015
+Abraham Almonte,San Diego Padres,Cleveland Indians,501659,San Diego Padres traded CF Abraham Almonte to Cleveland Indians for LHP Marc Rzepczynski.,240329,2015
+Marc Rzepczynski,Cleveland Indians,San Diego Padres,519240,San Diego Padres traded CF Abraham Almonte to Cleveland Indians for LHP Marc Rzepczynski.,240329,2015
+Eric O'Flaherty,Oakland Athletics,New York Mets,447714,Oakland Athletics traded Eric O'Flaherty and cash to New York Mets for Player To Be Named Later.,241026,2015
+Gustavo Pierre,Philadelphia Phillies,Toronto Blue Jays,550012,Philadelphia Phillies traded 3B Gustavo Pierre to Toronto Blue Jays.,240885,2015
+Dawrin Frias,New York Mets,Oakland Athletics,570660,New York Mets traded RHP Dawrin Frias to Oakland Athletics.,241344,2015
+Nick Swisher,Cleveland Indians,Atlanta Braves,430897,"Atlanta Braves traded 3B Chris Johnson to Cleveland Indians for CF Michael Bourn, LF Nick Swisher and cash.",241305,2015
+Michael Bourn,Cleveland Indians,Atlanta Braves,456422,"Atlanta Braves traded 3B Chris Johnson to Cleveland Indians for CF Michael Bourn, LF Nick Swisher and cash.",241305,2015
+Mike Napoli,Boston Red Sox,Texas Rangers,435063,Boston Red Sox traded 1B Mike Napoli and cash to Texas Rangers for Player To Be Named Later.,241354,2015
+Chris Johnson,Atlanta Braves,Cleveland Indians,453400,"Atlanta Braves traded 3B Chris Johnson to Cleveland Indians for CF Michael Bourn, LF Nick Swisher and cash.",241305,2015
+Oliver Perez,Arizona Diamondbacks,Houston Astros,424144,Arizona Diamondbacks traded LHP Oliver Perez to Houston Astros for LHP Junior Garcia.,241362,2015
+Dawel Lugo,Toronto Blue Jays,Arizona Diamondbacks,608475,Arizona Diamondbacks traded SS Cliff Pennington and cash to Toronto Blue Jays for SS Dawel Lugo.,241393,2015
+Junior Garcia,Houston Astros,Arizona Diamondbacks,642371,Arizona Diamondbacks traded LHP Oliver Perez to Houston Astros for LHP Junior Garcia.,241362,2015
+Cliff Pennington,Arizona Diamondbacks,Toronto Blue Jays,460060,Arizona Diamondbacks traded SS Cliff Pennington and cash to Toronto Blue Jays for SS Dawel Lugo.,241393,2015
+Tyler Pastornicky,Texas Rangers,Philadelphia Phillies,543629,Texas Rangers traded 2B Tyler Pastornicky to Philadelphia Phillies for cash.,241607,2015
+Matt Buschmann,Cincinnati Reds,Baltimore Orioles,501936,Cincinnati Reds traded RHP Matt Buschmann to Baltimore Orioles for cash.,241829,2015
+Will Venable,San Diego Padres,Texas Rangers,461416,San Diego Padres traded CF Will Venable to Texas Rangers for C Marcus Greene Jr. and Player To Be Named Later.,242725,2015
+Marcus Greene Jr.,Texas Rangers,San Diego Padres,621522,San Diego Padres traded CF Will Venable to Texas Rangers for C Marcus Greene Jr. and Player To Be Named Later.,242725,2015
+Chase Utley,Philadelphia Phillies,Los Angeles Dodgers,400284,Philadelphia Phillies traded 2B Chase Utley and cash to Los Angeles Dodgers for RHP John Richy and 2B Darnell Sweeney.,242837,2015
+John Richy,Los Angeles Dodgers,Philadelphia Phillies,656892,Philadelphia Phillies traded 2B Chase Utley and cash to Los Angeles Dodgers for RHP John Richy and 2B Darnell Sweeney.,242837,2015
+Darnell Sweeney,Los Angeles Dodgers,Philadelphia Phillies,572182,Philadelphia Phillies traded 2B Chase Utley and cash to Los Angeles Dodgers for RHP John Richy and 2B Darnell Sweeney.,242837,2015
+Randy Wolf,Toronto Blue Jays,Detroit Tigers,150116,Toronto Blue Jays traded LHP Randy Wolf to Detroit Tigers for cash.,242945,2015
+Marlon Byrd,Cincinnati Reds,San Francisco Giants,407781,Cincinnati Reds traded LF Marlon Byrd and cash to San Francisco Giants for RHP Stephen Johnson.,242919,2015
+Stephen Johnson,San Francisco Giants,Cincinnati Reds,621283,Cincinnati Reds traded LF Marlon Byrd and cash to San Francisco Giants for RHP Stephen Johnson.,242919,2015
+Neal Cotts,Milwaukee Brewers,Minnesota Twins,425840,Milwaukee Brewers traded Neal Cotts to Minnesota Twins for Player To Be Named Later.,243088,2015
+Michael Choice,Texas Rangers,Cleveland Indians,574831,Texas Rangers traded RF Michael Choice to Cleveland Indians for cash.,243074,2015
+Jon Edwards,Texas Rangers,San Diego Padres,457754,Texas Rangers traded RHP Jon Edwards to San Diego Padres.,243021,2015
+Eric Young Jr.,Atlanta Braves,New York Mets,458913,Atlanta Braves traded LF Eric Young Jr. to New York Mets for cash.,243165,2015
+Fernando Rodney,Seattle Mariners,Chicago Cubs,407845,Seattle Mariners traded RHP Fernando Rodney to Chicago Cubs.,243707,2015
+Addison Reed,Arizona Diamondbacks,New York Mets,592665,Arizona Diamondbacks Traded RHP Addison Reed to New York Mets; St. Lucie Mets Traded Miller Diaz to Visalia Rawhide and Binghamton Mets Traded RHP Matt Koch to Mobile BayBears.,243935,2015
+Luis Ysla,San Francisco Giants,Boston Red Sox,644443,Boston Red Sox traded LF Alejandro De Aza to San Francisco Giants for LHP Luis Ysla.,244142,2015
+Chris Heisey,Toronto Blue Jays,Los Angeles Dodgers,502317,Toronto Blue Jays traded LF Chris Heisey to Los Angeles Dodgers for Player To Be Named Later.,244218,2015
+Alejandro De Aza,Boston Red Sox,San Francisco Giants,457477,Boston Red Sox traded LF Alejandro De Aza to San Francisco Giants for LHP Luis Ysla.,244142,2015
+Luis Valenzuela,Kansas City Royals,Atlanta Braves,623610,Atlanta Braves traded cash and LF Jonny Gomes to Kansas City Royals for SS Luis Valenzuela.,244151,2015
+Austin Jackson,Seattle Mariners,Chicago Cubs,457706,Seattle Mariners traded cash and CF Austin Jackson to Chicago Cubs for Future Considerations and Player To Be Named Later.,244130,2015
+Jonny Gomes,Atlanta Braves,Kansas City Royals,430404,Atlanta Braves traded cash and LF Jonny Gomes to Kansas City Royals for SS Luis Valenzuela.,244151,2015
+Justin Ruggiano,Seattle Mariners,Los Angeles Dodgers,448605,Seattle Mariners traded cash and RF Justin Ruggiano to Los Angeles Dodgers for Player To Be Named Later.,244143,2015
+Daniel Coulombe,Los Angeles Dodgers,Oakland Athletics,543056,Los Angeles Dodgers traded LHP Daniel Coulombe to Oakland Athletics for cash.,245258,2015
+Darwin Barney,Los Angeles Dodgers,Toronto Blue Jays,446381,Los Angeles Dodgers traded 2B Darwin Barney to Toronto Blue Jays for Player To Be Named Later.,245314,2015
+Jack Murphy,Toronto Blue Jays,Los Angeles Dodgers,571975,Toronto Blue Jays traded C Jack Murphy to Los Angeles Dodgers. PTBN in the September 13 trade,253787,2015
+Trevor Williams,Miami Marlins,Pittsburgh Pirates,592866,Pittsburgh Pirates traded RHP Richard Mitchell to Miami Marlins for RHP Trevor Williams.,247989,2015
+Richard Mitchell,Pittsburgh Pirates,Miami Marlins,622748,Pittsburgh Pirates traded RHP Richard Mitchell to Miami Marlins for RHP Trevor Williams.,247989,2015
+C.J. Riefenhauser,Tampa Bay Rays,Seattle Mariners,592677,"Seattle Mariners traded SS Brad Miller, 1B Logan Morrison and RHP Danny Farquhar to Tampa Bay Rays for RHP Nathan Karns, LHP C.J. Riefenhauser and CF Boog Powell.",249192,2015
+Boog Powell,Tampa Bay Rays,Seattle Mariners,621471,"Seattle Mariners traded SS Brad Miller, 1B Logan Morrison and RHP Danny Farquhar to Tampa Bay Rays for RHP Nathan Karns, LHP C.J. Riefenhauser and CF Boog Powell.",249192,2015
+Danny Farquhar,Seattle Mariners,Tampa Bay Rays,543144,"Seattle Mariners traded SS Brad Miller, 1B Logan Morrison and RHP Danny Farquhar to Tampa Bay Rays for RHP Nathan Karns, LHP C.J. Riefenhauser and CF Boog Powell.",249192,2015
+Logan Morrison,Seattle Mariners,Tampa Bay Rays,489149,"Seattle Mariners traded SS Brad Miller, 1B Logan Morrison and RHP Danny Farquhar to Tampa Bay Rays for RHP Nathan Karns, LHP C.J. Riefenhauser and CF Boog Powell.",249192,2015
+Nathan Karns,Tampa Bay Rays,Seattle Mariners,501992,"Seattle Mariners traded SS Brad Miller, 1B Logan Morrison and RHP Danny Farquhar to Tampa Bay Rays for RHP Nathan Karns, LHP C.J. Riefenhauser and CF Boog Powell.",249192,2015
+Brad Miller,Seattle Mariners,Tampa Bay Rays,543543,"Seattle Mariners traded SS Brad Miller, 1B Logan Morrison and RHP Danny Farquhar to Tampa Bay Rays for RHP Nathan Karns, LHP C.J. Riefenhauser and CF Boog Powell.",249192,2015
+Chris Herrmann,Minnesota Twins,Arizona Diamondbacks,543302,Minnesota Twins traded C Chris Herrmann to Arizona Diamondbacks for 1B Daniel Palka.,250032,2015
+Daniel Palka,Arizona Diamondbacks,Minnesota Twins,594953,Minnesota Twins traded C Chris Herrmann to Arizona Diamondbacks for 1B Daniel Palka.,250032,2015
+John Ryan Murphy,New York Yankees,Minnesota Twins,571974,Minnesota Twins traded CF Aaron Hicks to New York Yankees for C John Ryan Murphy.,250070,2015
+Aaron Hicks,Minnesota Twins,New York Yankees,543305,Minnesota Twins traded CF Aaron Hicks to New York Yankees for C John Ryan Murphy.,250070,2015
+Jose Pirela,New York Yankees,San Diego Padres,517369,New York Yankees traded 2B Jose Pirela to San Diego Padres for RHP Ronald Herrera.,250068,2015
+Ronald Herrera,San Diego Padres,New York Yankees,622703,New York Yankees traded 2B Jose Pirela to San Diego Padres for RHP Ronald Herrera.,250068,2015
+Chris Ellis,Los Angeles Angels,Atlanta Braves,595939,"Atlanta Braves traded SS Andrelton Simmons and C Jose Briceno to Los Angeles Angels for SS Erick Aybar, Sean Newcomb, RHP Chris Ellis and cash.",250104,2015
+Erick Aybar,Los Angeles Angels,Atlanta Braves,430947,"Atlanta Braves traded SS Andrelton Simmons and C Jose Briceno to Los Angeles Angels for SS Erick Aybar, Sean Newcomb, RHP Chris Ellis and cash.",250104,2015
+Sean Newcomb,Los Angeles Angels,Atlanta Braves,656794,"Atlanta Braves traded SS Andrelton Simmons and C Jose Briceno to Los Angeles Angels for SS Erick Aybar, Sean Newcomb, RHP Chris Ellis and cash.",250104,2015
+Nelson Ward,Seattle Mariners,San Diego Padres,596131,San Diego Padres traded RHP Joaquin Benoit to Seattle Mariners for RHP Enyel De Los Santos and SS Nelson Ward.,250090,2015
+Joaquin Benoit,San Diego Padres,Seattle Mariners,276542,San Diego Padres traded RHP Joaquin Benoit to Seattle Mariners for RHP Enyel De Los Santos and SS Nelson Ward.,250090,2015
+Enyel De Los Santos,Seattle Mariners,San Diego Padres,660853,San Diego Padres traded RHP Joaquin Benoit to Seattle Mariners for RHP Enyel De Los Santos and SS Nelson Ward.,250090,2015
+Andrelton Simmons,Atlanta Braves,Los Angeles Angels,592743,"Atlanta Braves traded SS Andrelton Simmons and C Jose Briceno to Los Angeles Angels for SS Erick Aybar, Sean Newcomb, RHP Chris Ellis and cash.",250104,2015
+Jose Briceno,Atlanta Braves,Los Angeles Angels,593993,"Atlanta Braves traded SS Andrelton Simmons and C Jose Briceno to Los Angeles Angels for SS Erick Aybar, Sean Newcomb, RHP Chris Ellis and cash.",250104,2015
+Logan Allen,Boston Red Sox,San Diego Padres,663531,"San Diego Padres traded RHP Craig Kimbrel to Boston Red Sox for 3B Carlos Asuaje, SS Javier Guerra, LHP Logan Allen and CF Manuel Margot.",250121,2015
+Javier Guerra,Boston Red Sox,San Diego Padres,642770,"San Diego Padres traded RHP Craig Kimbrel to Boston Red Sox for 3B Carlos Asuaje, SS Javier Guerra, LHP Logan Allen and CF Manuel Margot.",250121,2015
+Carlos Asuaje,Boston Red Sox,San Diego Padres,641319,"San Diego Padres traded RHP Craig Kimbrel to Boston Red Sox for 3B Carlos Asuaje, SS Javier Guerra, LHP Logan Allen and CF Manuel Margot.",250121,2015
+Manny Margot,Boston Red Sox,San Diego Padres,622534,"San Diego Padres traded RHP Craig Kimbrel to Boston Red Sox for 3B Carlos Asuaje, SS Javier Guerra, LHP Logan Allen and CF Manuel Margot.",250121,2015
+Craig Kimbrel,San Diego Padres,Boston Red Sox,518886,"San Diego Padres traded RHP Craig Kimbrel to Boston Red Sox for 3B Carlos Asuaje, SS Javier Guerra, LHP Logan Allen and CF Manuel Margot.",250121,2015
+Jeremy Hellickson,Arizona Diamondbacks,Philadelphia Phillies,476451,Arizona Diamondbacks traded RHP Jeremy Hellickson to Philadelphia Phillies for RHP Sam McWilliams.,250128,2015
+Sam McWilliams,Philadelphia Phillies,Arizona Diamondbacks,656726,Arizona Diamondbacks traded RHP Jeremy Hellickson to Philadelphia Phillies for RHP Sam McWilliams.,250128,2015
+Anthony Bass,Texas Rangers,Seattle Mariners,542914,"Texas Rangers traded CF Leonys Martin and RHP Anthony Bass to Seattle Mariners for RHP Tom Wilhelmsen, CF James Jones and Player To Be Named Later.",250155,2015
+Tom Wilhelmsen,Seattle Mariners,Texas Rangers,452666,"Texas Rangers traded CF Leonys Martin and RHP Anthony Bass to Seattle Mariners for RHP Tom Wilhelmsen, CF James Jones and Player To Be Named Later.",250155,2015
+James Jones,Seattle Mariners,Texas Rangers,571825,"Texas Rangers traded CF Leonys Martin and RHP Anthony Bass to Seattle Mariners for RHP Tom Wilhelmsen, CF James Jones and Player To Be Named Later.",250155,2015
+Leonys Martin,Texas Rangers,Seattle Mariners,547982,"Texas Rangers traded CF Leonys Martin and RHP Anthony Bass to Seattle Mariners for RHP Tom Wilhelmsen, CF James Jones and Player To Be Named Later.",250155,2015
+Francisco Rodriguez,Milwaukee Brewers,Detroit Tigers,408061,Milwaukee Brewers Traded RHP Francisco Rodriguez to Detroit Tigers and Lakeland Flying Tigers Traded 2B Javier Betancourt to Brevard County Manatees.,250228,2015
+Cy Sneed,Milwaukee Brewers,Houston Astros,605482,Houston Astros traded SS Jonathan Villar to Milwaukee Brewers for RHP Cy Sneed.,250334,2015
+Jonathan Villar,Houston Astros,Milwaukee Brewers,542340,Houston Astros traded SS Jonathan Villar to Milwaukee Brewers for RHP Cy Sneed.,250334,2015
+Ramon Flores,Seattle Mariners,Milwaukee Brewers,570717,Seattle Mariners traded LF Ramon Flores to Milwaukee Brewers for 2B Luis Sardinas.,250380,2015
+Spencer Patton,Texas Rangers,Chicago Cubs,607359,Texas Rangers traded RHP Spencer Patton to Chicago Cubs for 2B Frandy De La Rosa.,250440,2015
+Ian Krol,Detroit Tigers,Atlanta Braves,571871,Atlanta Braves traded CF Cameron Maybin to Detroit Tigers for LHP Ian Krol and LHP Gabe Speier.,250427,2015
+Cameron Maybin,Atlanta Braves,Detroit Tigers,457727,Atlanta Braves traded CF Cameron Maybin to Detroit Tigers for LHP Ian Krol and LHP Gabe Speier.,250427,2015
+Gabe Speier,Detroit Tigers,Atlanta Braves,642100,Atlanta Braves traded CF Cameron Maybin to Detroit Tigers for LHP Ian Krol and LHP Gabe Speier.,250427,2015
+Frandy De La Rosa,Chicago Cubs,Texas Rangers,620447,Texas Rangers traded RHP Spencer Patton to Chicago Cubs for 2B Frandy De La Rosa.,250440,2015
+Luis Sardinas,Milwaukee Brewers,Seattle Mariners,596143,Seattle Mariners traded LF Ramon Flores to Milwaukee Brewers for 2B Luis Sardinas.,250380,2015
+Liam Hendriks,Toronto Blue Jays,Oakland Athletics,521230,Oakland Athletics traded RHP Jesse Chavez to Toronto Blue Jays for RHP Liam Hendriks.,250491,2015
+Jesse Chavez,Oakland Athletics,Toronto Blue Jays,445926,Oakland Athletics traded RHP Jesse Chavez to Toronto Blue Jays for RHP Liam Hendriks.,250491,2015
+Tommy Kahnle,Colorado Rockies,Chicago White Sox,592454,Colorado Rockies traded RHP Tommy Kahnle to Chicago White Sox for RHP Yency Almonte.,250667,2015
+Yency Almonte,Chicago White Sox,Colorado Rockies,622075,Colorado Rockies traded RHP Tommy Kahnle to Chicago White Sox for RHP Yency Almonte.,250667,2015
+Kirby Yates,Tampa Bay Rays,Cleveland Indians,489446,Tampa Bay Rays traded RHP Kirby Yates to Cleveland Indians for cash.,250806,2015
+L.J. Hoes,Houston Astros,Baltimore Orioles,543321,Houston Astros traded LF L.J. Hoes to Baltimore Orioles for cash.,250803,2015
+Brendan McCurry,Oakland Athletics,Houston Astros,657680,Houston Astros traded 3B Jed Lowrie to Oakland Athletics for RHP Brendan McCurry.,250800,2015
+Allen Webster,Arizona Diamondbacks,Pittsburgh Pirates,543903,Arizona Diamondbacks traded RHP Allen Webster to Pittsburgh Pirates for cash.,250798,2015
+Wander Cabrera,Chicago Cubs,Colorado Rockies,660640,Chicago Cubs traded LHP Wander Cabrera to Colorado Rockies for LHP Rex Brothers.,250808,2015
+Rex Brothers,Colorado Rockies,Chicago Cubs,571521,Chicago Cubs traded LHP Wander Cabrera to Colorado Rockies for LHP Rex Brothers.,250808,2015
+Jed Lowrie,Houston Astros,Oakland Athletics,476704,Houston Astros traded 3B Jed Lowrie to Oakland Athletics for RHP Brendan McCurry.,250800,2015
+Steve Clevenger,Baltimore Orioles,Seattle Mariners,502182,Baltimore Orioles traded C Steve Clevenger to Seattle Mariners for RF Mark Trumbo and LHP C.J. Riefenhauser.,251176,2015
+Drew Pomeranz,Oakland Athletics,San Diego Padres,519141,"San Diego Padres traded LHP Marc Rzepczynski and 1B Yonder Alonso to Oakland Athletics for LHP Drew Pomeranz, LHP Jose Torres and Player To Be Named Later.",251150,2015
+Marc Rzepczynski,San Diego Padres,Oakland Athletics,519240,"San Diego Padres traded LHP Marc Rzepczynski and 1B Yonder Alonso to Oakland Athletics for LHP Drew Pomeranz, LHP Jose Torres and Player To Be Named Later.",251150,2015
+Jose Torres,Oakland Athletics,San Diego Padres,600526,"San Diego Padres traded LHP Marc Rzepczynski and 1B Yonder Alonso to Oakland Athletics for LHP Drew Pomeranz, LHP Jose Torres and Player To Be Named Later.",251150,2015
+Yonder Alonso,San Diego Padres,Oakland Athletics,475174,"San Diego Padres traded LHP Marc Rzepczynski and 1B Yonder Alonso to Oakland Athletics for LHP Drew Pomeranz, LHP Jose Torres and Player To Be Named Later.",251150,2015
+Patrick Kivlehan,Seattle Mariners,Texas Rangers,623182,Seattle Mariners traded 3B Patrick Kivlehan to Texas Rangers. PTBN in 11/16 trade,251170,2015
+Tony Cruz,St. Louis Cardinals,Kansas City Royals,488810,St. Louis Cardinals traded C Tony Cruz to Kansas City Royals for SS Jose Martinez.,251141,2015
+Jose Martinez,Kansas City Royals,St. Louis Cardinals,642686,St. Louis Cardinals traded C Tony Cruz to Kansas City Royals for SS Jose Martinez.,251141,2015
+Collin Cowgill,Los Angeles Angels,Cleveland Indians,518577,Los Angeles Angels traded LF Collin Cowgill to Cleveland Indians for cash.,251204,2015
+Francisco Pena,Kansas City Royals,Baltimore Orioles,506747,Kansas City Royals traded C Francisco Pena to Baltimore Orioles for cash.,251198,2015
+Hank Conger,Houston Astros,Tampa Bay Rays,474233,Houston Astros traded C Hank Conger to Tampa Bay Rays for cash.,251266,2015
+C.J. Riefenhauser,Seattle Mariners,Baltimore Orioles,592677,Baltimore Orioles traded C Steve Clevenger to Seattle Mariners for RF Mark Trumbo and LHP C.J. Riefenhauser.,251176,2015
+Mark Trumbo,Seattle Mariners,Baltimore Orioles,444432,Baltimore Orioles traded C Steve Clevenger to Seattle Mariners for RF Mark Trumbo and LHP C.J. Riefenhauser.,251176,2015
+Jose Ramirez,Seattle Mariners,Atlanta Braves,542432,Seattle Mariners traded RHP Jose Ramirez to Atlanta Braves for Player To Be Named Later and cash.,251310,2015
+Roenis Elias,Seattle Mariners,Boston Red Sox,606273,Boston Red Sox traded RHP Jonathan Aro and LHP Wade Miley to Seattle Mariners for RHP Carson Smith and LHP Roenis Elias.,251376,2015
+Carson Smith,Seattle Mariners,Boston Red Sox,605476,Boston Red Sox traded RHP Jonathan Aro and LHP Wade Miley to Seattle Mariners for RHP Carson Smith and LHP Roenis Elias.,251376,2015
+Jonathan Aro,Boston Red Sox,Seattle Mariners,608167,Boston Red Sox traded RHP Jonathan Aro and LHP Wade Miley to Seattle Mariners for RHP Carson Smith and LHP Roenis Elias.,251376,2015
+Wade Miley,Boston Red Sox,Seattle Mariners,489119,Boston Red Sox traded RHP Jonathan Aro and LHP Wade Miley to Seattle Mariners for RHP Carson Smith and LHP Roenis Elias.,251376,2015
+Adam Warren,New York Yankees,Chicago Cubs,476589,Chicago Cubs traded 2B Starlin Castro to New York Yankees for RHP Adam Warren and Player To Be Named Later.,251416,2015
+Jon Jay,St. Louis Cardinals,San Diego Padres,445055,San Diego Padres traded 2B Jedd Gyorko and cash to St. Louis Cardinals for CF Jon Jay.,251402,2015
+Jedd Gyorko,San Diego Padres,St. Louis Cardinals,576397,San Diego Padres traded 2B Jedd Gyorko and cash to St. Louis Cardinals for CF Jon Jay.,251402,2015
+Trey Cochran-Gill,Seattle Mariners,Oakland Athletics,605184,Oakland Athletics traded RHP Evan Scribner to Seattle Mariners for RHP Trey Cochran-Gill.,251430,2015
+Evan Scribner,Oakland Athletics,Seattle Mariners,519267,Oakland Athletics traded RHP Evan Scribner to Seattle Mariners for RHP Trey Cochran-Gill.,251430,2015
+Starlin Castro,Chicago Cubs,New York Yankees,516770,Chicago Cubs traded 2B Starlin Castro to New York Yankees for RHP Adam Warren and Player To Be Named Later.,251416,2015
+Chad Green,Detroit Tigers,New York Yankees,643338,New York Yankees traded LHP Justin Wilson to Detroit Tigers for RHP Chad Green and RHP Luis Cessa.,251533,2015
+Jon Niese,New York Mets,Pittsburgh Pirates,477003,Pittsburgh Pirates traded 2B Neil Walker to New York Mets for LHP Jon Niese.,251483,2015
+Neil Walker,Pittsburgh Pirates,New York Mets,435522,Pittsburgh Pirates traded 2B Neil Walker to New York Mets for LHP Jon Niese.,251483,2015
+Aaron Blair,Arizona Diamondbacks,Atlanta Braves,594760,"Atlanta Braves traded RHP Shelby Miller and LHP Gabe Speier to Arizona Diamondbacks for RF Ender Inciarte, RHP Aaron Blair and SS Dansby Swanson.",251466,2015
+Ender Inciarte,Arizona Diamondbacks,Atlanta Braves,542255,"Atlanta Braves traded RHP Shelby Miller and LHP Gabe Speier to Arizona Diamondbacks for RF Ender Inciarte, RHP Aaron Blair and SS Dansby Swanson.",251466,2015
+Dansby Swanson,Arizona Diamondbacks,Atlanta Braves,621020,"Atlanta Braves traded RHP Shelby Miller and LHP Gabe Speier to Arizona Diamondbacks for RF Ender Inciarte, RHP Aaron Blair and SS Dansby Swanson.",251466,2015
+Gabe Speier,Atlanta Braves,Arizona Diamondbacks,642100,"Atlanta Braves traded RHP Shelby Miller and LHP Gabe Speier to Arizona Diamondbacks for RF Ender Inciarte, RHP Aaron Blair and SS Dansby Swanson.",251466,2015
+Luis Cessa,Detroit Tigers,New York Yankees,570666,New York Yankees traded LHP Justin Wilson to Detroit Tigers for RHP Chad Green and RHP Luis Cessa.,251533,2015
+Justin Wilson,New York Yankees,Detroit Tigers,458677,New York Yankees traded LHP Justin Wilson to Detroit Tigers for RHP Chad Green and RHP Luis Cessa.,251533,2015
+Adam Lind,Milwaukee Brewers,Seattle Mariners,452252,"Milwaukee Brewers traded 1B Adam Lind to Seattle Mariners for RHP Carlos Herrera, RHP Daniel Missaki and RHP Freddy Peralta.",251470,2015
+Daniel Missaki,Seattle Mariners,Milwaukee Brewers,627392,"Milwaukee Brewers traded 1B Adam Lind to Seattle Mariners for RHP Carlos Herrera, RHP Daniel Missaki and RHP Freddy Peralta.",251470,2015
+Freddy Peralta,Seattle Mariners,Milwaukee Brewers,642547,"Milwaukee Brewers traded 1B Adam Lind to Seattle Mariners for RHP Carlos Herrera, RHP Daniel Missaki and RHP Freddy Peralta.",251470,2015
+Carlos Herrera,Seattle Mariners,Milwaukee Brewers,660667,"Milwaukee Brewers traded 1B Adam Lind to Seattle Mariners for RHP Carlos Herrera, RHP Daniel Missaki and RHP Freddy Peralta.",251470,2015
+Brett Lawrie,Oakland Athletics,Chicago White Sox,543434,Oakland Athletics traded 3B Brett Lawrie to Chicago White Sox for RHP J.B. Wendelken and LHP Zack Erwin.,251546,2015
+J.B. Wendelken,Chicago White Sox,Oakland Athletics,605525,Oakland Athletics traded 3B Brett Lawrie to Chicago White Sox for RHP J.B. Wendelken and LHP Zack Erwin.,251546,2015
+Zack Erwin,Chicago White Sox,Oakland Athletics,664116,Oakland Athletics traded 3B Brett Lawrie to Chicago White Sox for RHP J.B. Wendelken and LHP Zack Erwin.,251546,2015
+Shelby Miller,Atlanta Braves,Arizona Diamondbacks,571946,"Atlanta Braves traded RHP Shelby Miller and LHP Gabe Speier to Arizona Diamondbacks for RF Ender Inciarte, RHP Aaron Blair and SS Dansby Swanson.",251466,2015
+Manny Pina,Detroit Tigers,Milwaukee Brewers,444489,Detroit Tigers traded C Manny Pina to Milwaukee Brewers. Completes the November 18 trade,251955,2015
+Myles Jaye,Chicago White Sox,Texas Rangers,594867,Texas Rangers traded LHP Will Lamb to Chicago White Sox for RHP Myles Jaye.,251582,2015
+Michael Brady,Los Angeles Angels,Washington Nationals,572728,Washington Nationals traded cash and 3B Yunel Escobar to Los Angeles Angels for RHP Michael Brady and RHP Trevor Gott.,251636,2015
+Trevor Gott,Los Angeles Angels,Washington Nationals,641627,Washington Nationals traded cash and 3B Yunel Escobar to Los Angeles Angels for RHP Michael Brady and RHP Trevor Gott.,251636,2015
+Yunel Escobar,Washington Nationals,Los Angeles Angels,488862,Washington Nationals traded cash and 3B Yunel Escobar to Los Angeles Angels for RHP Michael Brady and RHP Trevor Gott.,251636,2015
+Garin Cecchini,Boston Red Sox,Milwaukee Brewers,594555,Boston Red Sox traded 3B Garin Cecchini to Milwaukee Brewers for cash.,251566,2015
+Luis Perdomo,Colorado Rockies,San Diego Padres,606131,Colorado Rockies traded RHP Luis Perdomo to San Diego Padres for Future Considerations.,251592,2015
+Casey Kelly,San Diego Padres,Atlanta Braves,543391,Atlanta Braves traded C Christian Bethancourt to San Diego Padres for RHP Casey Kelly and C Ricardo Rodriguez.,251650,2015
+Christian Bethancourt,Atlanta Braves,San Diego Padres,542194,Atlanta Braves traded C Christian Bethancourt to San Diego Padres for RHP Casey Kelly and C Ricardo Rodriguez.,251650,2015
+Ricardo Rodriguez,San Diego Padres,Atlanta Braves,660616,Atlanta Braves traded C Christian Bethancourt to San Diego Padres for RHP Casey Kelly and C Ricardo Rodriguez.,251650,2015
+Jabari Blash,Oakland Athletics,San Diego Padres,518466,Oakland Athletics traded RF Jabari Blash to San Diego Padres. To complete the December 2 trade.,251621,2015
+Will Lamb,Texas Rangers,Chicago White Sox,605327,Texas Rangers traded LHP Will Lamb to Chicago White Sox for RHP Myles Jaye.,251582,2015
+Ryne Harper,Atlanta Braves,Seattle Mariners,607560,Atlanta Braves traded RHP Ryne Harper to Seattle Mariners. PBTN in December 4 trade,251754,2015
+Zach Kapstein,Boston Red Sox,Baltimore Orioles,595275,Boston Red Sox traded C Zach Kapstein to Baltimore Orioles for cash.,252663,2015
+Brett Oberholtzer,Houston Astros,Philadelphia Phillies,519085,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+Thomas Eshelman,Houston Astros,Philadelphia Phillies,664045,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+Vince Velasquez,Houston Astros,Philadelphia Phillies,592826,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+Jonathan Arauz,Philadelphia Phillies,Houston Astros,660620,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+Ken Giles,Philadelphia Phillies,Houston Astros,571704,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+Mark Appel,Houston Astros,Philadelphia Phillies,571446,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+Harold Arauz,Houston Astros,Philadelphia Phillies,622693,"Philadelphia Phillies traded SS Jonathan Arauz and RHP Ken Giles to Houston Astros for LHP Brett Oberholtzer, RHP Harold Arauz, RHP Mark Appel, RHP Thomas Eshelman and RHP Vincent Velasquez.",251775,2015
+David Whitehead,Philadelphia Phillies,Pittsburgh Pirates,592856,Pittsburgh Pirates traded RHP Charlie Morton to Philadelphia Phillies for RHP David Whitehead.,251772,2015
+Charlie Morton,Pittsburgh Pirates,Philadelphia Phillies,450203,Pittsburgh Pirates traded RHP Charlie Morton to Philadelphia Phillies for RHP David Whitehead.,251772,2015
+Scott Schebler,Los Angeles Dodgers,Cincinnati Reds,594988,"Los Angeles Dodgers traded 2B Jose Peraza, LF Scott Schebler and 2B Brandon Dixon to Cincinnati Reds. Part of three-team trade",251999,2015
+Micah Johnson,Chicago White Sox,Los Angeles Dodgers,608672,"Chicago White Sox traded 2B Micah Johnson, RHP Frankie Montas and CF Trayce Thompson to Los Angeles Dodgers. Part of three-team trade",252000,2015
+Trayce Thompson,Chicago White Sox,Los Angeles Dodgers,572204,"Chicago White Sox traded 2B Micah Johnson, RHP Frankie Montas and CF Trayce Thompson to Los Angeles Dodgers. Part of three-team trade",252000,2015
+Frankie Montas,Chicago White Sox,Los Angeles Dodgers,593423,"Chicago White Sox traded 2B Micah Johnson, RHP Frankie Montas and CF Trayce Thompson to Los Angeles Dodgers. Part of three-team trade",252000,2015
+Brandon Dixon,Los Angeles Dodgers,Cincinnati Reds,641525,"Los Angeles Dodgers traded 2B Jose Peraza, LF Scott Schebler and 2B Brandon Dixon to Cincinnati Reds. Part of three-team trade",251999,2015
+Jose Peraza,Los Angeles Dodgers,Cincinnati Reds,606299,"Los Angeles Dodgers traded 2B Jose Peraza, LF Scott Schebler and 2B Brandon Dixon to Cincinnati Reds. Part of three-team trade",251999,2015
+Todd Frazier,Cincinnati Reds,Chicago White Sox,453943,Cincinnati Reds traded 3B Todd Frazier to Chicago White Sox. Part of three-team trade,251998,2015
+Keon Broxton,Pittsburgh Pirates,Milwaukee Brewers,542979,Milwaukee Brewers traded 1B Jason Rogers to Pittsburgh Pirates for CF Keon Broxton and RHP Trey Supak.,252114,2015
+Trey Supak,Pittsburgh Pirates,Milwaukee Brewers,657022,Milwaukee Brewers traded 1B Jason Rogers to Pittsburgh Pirates for CF Keon Broxton and RHP Trey Supak.,252114,2015
+Jason Rogers,Milwaukee Brewers,Pittsburgh Pirates,595386,Milwaukee Brewers traded 1B Jason Rogers to Pittsburgh Pirates for CF Keon Broxton and RHP Trey Supak.,252114,2015
+Brendan Ryan,New York Yankees,Chicago Cubs,453895,New York Yankees traded 2B Brendan Ryan to Chicago Cubs. PTBN in the December 8 trade.,252103,2015
+Dan Otero,Philadelphia Phillies,Cleveland Indians,519096,Philadelphia Phillies traded RHP Dan Otero to Cleveland Indians for cash.,252140,2015
+Tyler Olson,Seattle Mariners,Los Angeles Dodgers,621397,Seattle Mariners traded LHP Tyler Olson to Los Angeles Dodgers for Future Considerations.,252152,2015
+Kyle Lobstein,Detroit Tigers,Pittsburgh Pirates,543456,Detroit Tigers traded LHP Kyle Lobstein to Pittsburgh Pirates for cash.,252283,2015
+Aroldis Chapman,Cincinnati Reds,New York Yankees,547973,New York Yankees Traded RHP Caleb Cotham and RHP Rookie Davis to Cincinnati Reds; Trenton Thunder Traded 3B Eric Jagielo and 2B Tony Renda to Pensacola Blue Wahoos and Cincinnati Reds Traded LHP Aroldis Chapman to New York Yankees.,252625,2015
+Caleb Cotham,New York Yankees,Cincinnati Reds,571584,New York Yankees Traded RHP Caleb Cotham and RHP Rookie Davis to Cincinnati Reds; Trenton Thunder Traded 3B Eric Jagielo and 2B Tony Renda to Pensacola Blue Wahoos and Cincinnati Reds Traded LHP Aroldis Chapman to New York Yankees.,252625,2015
+Rookie Davis,New York Yankees,Cincinnati Reds,606959,New York Yankees Traded RHP Caleb Cotham and RHP Rookie Davis to Cincinnati Reds; Trenton Thunder Traded 3B Eric Jagielo and 2B Tony Renda to Pensacola Blue Wahoos and Cincinnati Reds Traded LHP Aroldis Chapman to New York Yankees.,252625,2015

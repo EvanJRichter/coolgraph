@@ -12,7 +12,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", diameter)
     .attr("class", "bubble");
 
-d3.json("scripts/posts.json", function(error, root) {
+d3.json("static/data/posts.json", function(error, root) {
   if (error) throw error;
 
   var node = svg.selectAll(".node")
@@ -32,7 +32,7 @@ d3.json("scripts/posts.json", function(error, root) {
   node.append("text")
       .attr("dy", ".3em")
       .style("text-anchor", "middle")
-      .text(function(d) { return d.className.substring(0, d.r / 3); });
+      .text(function(d) { return d.className; });
 });
 
 // Returns a flattened hierarchy containing all leaf nodes under the root.

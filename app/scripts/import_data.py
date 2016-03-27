@@ -115,7 +115,7 @@ def analyze(posts):
     for k in sorted(ss):
       if k is "compound":
         entry = {}
-        entry['name'] = ss[k]*len(nustring)
+        entry['name'] = int(ss[k]*len(nustring))
         entry['size'] = len(nustring)
         if ss[k] == 0.0:
           post_json['children'][1]['children'].append(entry)

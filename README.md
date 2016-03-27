@@ -2,7 +2,7 @@
 Attempting to visualize public reception of my personality via facebook comment analysis
 
 How to run:
-
+ 
 1. Install Pip. You'll need this if you ever use Python. https://pip.pypa.io/en/stable/installing/
 2. Run pip install -r requirements.txt
 3. Run python runserver.py

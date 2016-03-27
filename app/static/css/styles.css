@@ -1,119 +1,12 @@
 body {
-  min-height: 100%;
-  width: 100%;
-  font-family: "Dosis", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-weight: 300;
-}
-
-.header {
-  text-align: center;
-}
-
-svg {
-  display: block;
-  margin:auto;
-}
-
-#circle circle {
-  fill: none;
-  pointer-events: all;
-}
-
-path.group {
-  fill-opacity: .8;
-}
-
-path.chord {
-  fill-opacity: .8;
-  stroke: #000;
-  stroke-width: .25px;
-}
-
-#circle:hover path.fade {
-    display: none;
-}
-
-.winning-100 {
-  font-weight: 1000;
-  font-size: 15px !important;
-}
-
-.winning-90 {
-  font-weight: 800;
-  font-size: 14px !important;
-}
-
-.winning-80 {
-  font-weight: 600;
-  font-size: 13px !important;
-}
-
-.winning-70 {
-  font-weight: 400;
-  font-size: 12px !important;
-}
-
-.winning-60 {
-  font-weight: 200;
-  font-size: 11px !important;
-}
-
-.ws {
-  text-transform: uppercase;
-}
-
-.control {
-  position: absolute;
-  bottom: 0;
-  right: 250px;
-  padding-right: 15px;
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
-}
-
-.slider {
-  margin: 5px 0px;
-}
-
-#year {
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
-}
-
-.icon {
-  height: 25px;
-  margin-bottom: 5px;
-  display: block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: auto;
+  position: relative;
+  width: 960px;
 }
 
-#tooltip {
-  color: #454545;
-  opacity: .9;
-  background: #eee;
-  padding: 5px;
-  border: none;
-  border-radius: 5px;
+button {
   position: absolute;
-  z-index: 10;
-  visibility: hidden;
-  max-width : 300px;
-  word-wrap: break-word;
-  pointer-events: none;
-}
-
-#player-1 {
-  position: absolute;
-  left: 0;
-  height: 100%;
-  top: 0;
-  width: 250px;
-}
-
-#player-2 {
-  position: absolute;
-  right: 0;
-  height: 100%;
-  top: 0;
-  width: 250px;
+  right: 10px;
+  top: 10px;
 }

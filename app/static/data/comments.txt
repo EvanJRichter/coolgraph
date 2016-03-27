@@ -1,0 +1,3952 @@
+{
+   "data": [
+      {
+         "text": "FREE IS MY FAVORITE NUMBER!",
+         "time": 1457826529,
+         "likes": 0,
+         "id": "10209317026269184_10209317053669869",
+         "fromid": "10205447514361815"
+      },
+      {
+         "text": "this is presh",
+         "time": 1457311549,
+         "likes": 1,
+         "id": "10204306808068724_10204307493965871",
+         "fromid": "1195439417133367"
+      },
+      {
+         "text": "you look so content",
+         "time": 1457313207,
+         "likes": 2,
+         "id": "10204306808068724_10204307749812267",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "Fraands\ud83d\ude0d\ud83d\ude0d",
+         "time": 1457210974,
+         "likes": 1,
+         "id": "1014370998630622_1014371711963884",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "YOU ROCK EVERS!!!",
+         "time": 1456524339,
+         "likes": 2,
+         "id": "10209182959357595_10209183049119839",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "This is amazing.",
+         "time": 1456527904,
+         "likes": 2,
+         "id": "10209182959357595_10209183383568200",
+         "fromid": "10202172897198645"
+      },
+      {
+         "text": "It's so good!! \"I can speak python!\"",
+         "time": 1456531263,
+         "likes": 1,
+         "id": "10209182959357595_10209183701456147",
+         "fromid": "10204078650262113"
+      },
+      {
+         "text": "YO THIS WAS LITERALLY SO GOOD.",
+         "time": 1456600437,
+         "likes": 1,
+         "id": "10209182959357595_10209191095801001",
+         "fromid": "10152762666193765"
+      },
+      {
+         "text": "I don't hear any applause",
+         "time": 1455726284,
+         "likes": 0,
+         "id": "10209109505001282_10209109527441843",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "Okay I'm watching Netflix and right after I posted that duchovney started clapping",
+         "time": 1455726305,
+         "likes": 1,
+         "id": "10209109505001282_10209109530081909",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "I think its funny how they're using an act passed in the 1700's to apply to iphones...",
+         "time": 1455729153,
+         "likes": 1,
+         "id": "10209109505001282_10209109779528145",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "Counterpoint specific to Apple:\nhttps://twitter.com/pattymo/status/700036912485109760?s=09",
+         "time": 1455741652,
+         "likes": 0,
+         "id": "10209109505001282_10209111231644447",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "For some reason I initially read this as \"I applaud Amanda's strong response\" and was like who is Amanda in the Apple hierarchy and what is Evan's personal relationship with her?",
+         "time": 1455824636,
+         "likes": 0,
+         "id": "10209109505001282_10209118658150105",
+         "fromid": "10152409562384579"
+      },
+      {
+         "text": "\ud83d\ude0d\ud83d\ude0d",
+         "time": 1455079791,
+         "likes": 2,
+         "id": "10209050606448855_10209052122006743",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "",
+         "time": 1455061264,
+         "likes": 3,
+         "id": "10209050593128522_10209050660250200",
+         "fromid": "10152264248931396"
+      },
+      {
+         "text": "s'cute",
+         "time": 1455067076,
+         "likes": 3,
+         "id": "10209050593128522_10209051062700261",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "Omg scouty's  so cute ;)",
+         "time": 1455071684,
+         "likes": 1,
+         "id": "10209050593128522_10209051442429754",
+         "fromid": "10205980546217237"
+      },
+      {
+         "text": "can I interview your dog?",
+         "time": 1455074733,
+         "likes": 2,
+         "id": "10209050593128522_10209051666195348",
+         "fromid": "1054391674571150"
+      },
+      {
+         "text": "You're both bigger then I remember.",
+         "time": 1455076873,
+         "likes": 1,
+         "id": "10209050593128522_10209051796238599",
+         "fromid": "395879660578476"
+      },
+      {
+         "text": "s'more",
+         "time": 1455080040,
+         "likes": 3,
+         "id": "10209050593128522_10209052137647134",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "Wich 1 r u?",
+         "time": 1455080744,
+         "likes": 0,
+         "id": "10209050593128522_10209052176048094",
+         "fromid": "769358793112997"
+      },
+      {
+         "text": "The white one",
+         "time": 1455093440,
+         "likes": 2,
+         "id": "10209050593128522_10209053007828888",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Alright.",
+         "time": 1455093465,
+         "likes": 0,
+         "id": "10209050593128522_10209053008508905",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Why is your dog wearing a sweater?",
+         "time": 1455120886,
+         "likes": 5,
+         "id": "10209050593128522_10209055025279323",
+         "fromid": "10152471726357736"
+      },
+      {
+         "text": "ur pup looks good! whats his #",
+         "time": 1455163185,
+         "likes": 1,
+         "id": "10209050593128522_10209058675490576",
+         "fromid": "10203576100188639"
+      },
+      {
+         "text": "847-iam-adog",
+         "time": 1455164686,
+         "likes": 0,
+         "id": "10209050593128522_10209058780813209",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "thnx u",
+         "time": 1455168458,
+         "likes": 0,
+         "id": "10209050593128522_10209058969537927",
+         "fromid": "10203576100188639"
+      },
+      {
+         "text": "also my pup and *** I",
+         "time": 1455168507,
+         "likes": 0,
+         "id": "10209050593128522_10209058971177968",
+         "fromid": "10203576100188639"
+      },
+      {
+         "text": "Blame him he wrote it, he doesn't even speak English",
+         "time": 1455168991,
+         "likes": 1,
+         "id": "10209050593128522_10209058998618654",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+         "time": 1454890749,
+         "likes": 0,
+         "id": "10207988778339586_10207989191269909",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "This one makes me feel bad",
+         "time": 1453731687,
+         "likes": 4,
+         "id": "10208936385353399_10208938594368623",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "I still smell like whipped creme....",
+         "time": 1453741573,
+         "likes": 1,
+         "id": "10208936385353399_10208939467070440",
+         "fromid": "10203606454663975"
+      },
+      {
+         "text": "uncle habibi you are wonderfull",
+         "time": 1453729051,
+         "likes": 1,
+         "id": "10208936377273197_10208938436924687",
+         "fromid": "248601992141969"
+      },
+      {
+         "text": "thank you uncle George!",
+         "time": 1453733523,
+         "likes": 1,
+         "id": "10208936377273197_10208938732212069",
+         "fromid": "824786010902230"
+      },
+      {
+         "text": "thanks sweet heart we miss you alot",
+         "time": 1453735774,
+         "likes": 0,
+         "id": "10208936377273197_10208938927096941",
+         "fromid": "248601992141969"
+      },
+      {
+         "text": "How do we all look so happy?",
+         "time": 1453741638,
+         "likes": 2,
+         "id": "10208936383833361_10208939473070590",
+         "fromid": "10203606454663975"
+      },
+      {
+         "text": "Tears of a clown",
+         "time": 1453742570,
+         "likes": 1,
+         "id": "10208936375593155_10208939533192093",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "thanks for tagging me bruh",
+         "time": 1453704981,
+         "likes": 0,
+         "id": "10208936385473402_10208936580758284",
+         "fromid": "1071890876160442"
+      },
+      {
+         "text": "Omg this is the best ever.",
+         "time": 1451687662,
+         "likes": 2,
+         "id": "10208766234899744_10208766452105174",
+         "fromid": "10101731239554155"
+      },
+      {
+         "text": "Fite me irl",
+         "time": 1451694292,
+         "likes": 1,
+         "id": "10208766234899744_10208767028519584",
+         "fromid": "10153324040210991"
+      },
+      {
+         "text": "this is good",
+         "time": 1452999162,
+         "likes": 1,
+         "id": "10208766234899744_10208879022359360",
+         "fromid": "10202404397949827"
+      },
+      {
+         "text": "eh",
+         "time": 1450058733,
+         "likes": 0,
+         "id": "10208621338197417_10208622522267018",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "don't give me too many details, kyle",
+         "time": 1450060822,
+         "likes": 0,
+         "id": "10208621338197417_10208622750512724",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "heh",
+         "time": 1450060885,
+         "likes": 0,
+         "id": "10208621338197417_10208622757472898",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "kyle is having a stroke",
+         "time": 1450060925,
+         "likes": 2,
+         "id": "10208621338197417_10208622760072963",
+         "fromid": "10203775520242210"
+      },
+      {
+         "text": "thats the name of r kellys next album",
+         "time": 1450061630,
+         "likes": 1,
+         "id": "10208621338197417_10208622805074088",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "i look like i just peed myself",
+         "time": 1449355502,
+         "likes": 1,
+         "id": "10208571910441754_10208572066485655",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "it's either sadness or shame but I can't tell",
+         "time": 1449355546,
+         "likes": 0,
+         "id": "10208571910441754_10208572068765712",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "Looking sharp!",
+         "time": 1449366035,
+         "likes": 1,
+         "id": "10208571910441754_10208572960147996",
+         "fromid": "10153141510285569"
+      },
+      {
+         "text": "lol this is so awkward",
+         "time": 1449418126,
+         "likes": 2,
+         "id": "10208571905121621_10208576195788885",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "Looks like the guys are all at urinals",
+         "time": 1449418420,
+         "likes": 5,
+         "id": "10208571905121621_10208576214509353",
+         "fromid": "1071890876160442"
+      },
+      {
+         "text": "Including Matt",
+         "time": 1449421463,
+         "likes": 4,
+         "id": "10208571905121621_10208576489156219",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Power stance",
+         "time": 1449426803,
+         "likes": 0,
+         "id": "10208571905121621_10208577029569729",
+         "fromid": "10206673401058383"
+      },
+      {
+         "text": "When did you shave your beard. I thought it looked nice on you. The suit is still fitting you ? You look stunning. Actor agidu Adhu",
+         "time": 1449380307,
+         "likes": 0,
+         "id": "10208571923522081_10208573802689059",
+         "fromid": "10205793891862247"
+      },
+      {
+         "text": "Great photo Tara. Looks like you are having a great year in college",
+         "time": 1449363983,
+         "likes": 1,
+         "id": "10208571920362002_10208572818744461",
+         "fromid": "898125553545599"
+      },
+      {
+         "text": "Mmmmmm, fire",
+         "time": 1449750769,
+         "likes": 2,
+         "id": "10208571924922116_10208599624294583",
+         "fromid": "10152862605638563"
+      },
+      {
+         "text": "You look stunning",
+         "time": 1452299757,
+         "likes": 0,
+         "id": "10208571924922116_10208820332932161",
+         "fromid": "10205793891862247"
+      },
+      {
+         "text": "Damnnn",
+         "time": 1449355447,
+         "likes": 1,
+         "id": "10208571894401353_10208572062725561",
+         "fromid": "1048488131832292"
+      },
+      {
+         "text": "Why is Giri in this",
+         "time": 1449429241,
+         "likes": 2,
+         "id": "10208571898161447_10208577240334998",
+         "fromid": "10152438150491381"
+      },
+      {
+         "text": "",
+         "time": 1449356340,
+         "likes": 15,
+         "id": "10208571917961942_10208572143647584",
+         "fromid": "10202003988220801"
+      },
+      {
+         "text": "Sherry hey there",
+         "time": 1449358060,
+         "likes": 0,
+         "id": "10208571916881915_10208572335252374",
+         "fromid": "10205094251901766"
+      },
+      {
+         "text": "Angie killin the game b!",
+         "time": 1449363249,
+         "likes": 1,
+         "id": "10208571916881915_10208572780183497",
+         "fromid": "941247189230932"
+      },
+      {
+         "text": "Thanks!",
+         "time": 1449364860,
+         "likes": 0,
+         "id": "10208571916881915_10208572862305550",
+         "fromid": "10200135664390894"
+      },
+      {
+         "text": "Our bright future of young professionals ! .. (y)",
+         "time": 1449373251,
+         "likes": 2,
+         "id": "10208571916881915_10208573416999417",
+         "fromid": "838545402866715"
+      },
+      {
+         "text": "You're the best :)",
+         "time": 1449373474,
+         "likes": 1,
+         "id": "10208571916881915_10208573425639633",
+         "fromid": "806408852741626"
+      },
+      {
+         "text": "Cecil Macgregor too hot to handle",
+         "time": 1449385870,
+         "likes": 1,
+         "id": "10208571916881915_10208573997293924",
+         "fromid": "10208538754453156"
+      },
+      {
+         "text": "This needs to be our official TT photo.",
+         "time": 1449414164,
+         "likes": 3,
+         "id": "10208571897161422_10208575784258597",
+         "fromid": "10205319250563041"
+      },
+      {
+         "text": "He has a wide stance for a squirrel",
+         "time": 1449418793,
+         "likes": 3,
+         "id": "10208571895321376_10208576238029941",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "he was not dressed in business professional.",
+         "time": 1449460519,
+         "likes": 1,
+         "id": "10208571895321376_10208579755197868",
+         "fromid": "10152471726357736"
+      },
+      {
+         "text": "well he showed up on time",
+         "time": 1449460547,
+         "likes": 2,
+         "id": "10208571895321376_10208579763478075",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "well he's nuts",
+         "time": 1449460692,
+         "likes": 2,
+         "id": "10208571895321376_10208579771558277",
+         "fromid": "10152471726357736"
+      },
+      {
+         "text": "the beard!!!!!! \ud83d\udc4c",
+         "time": 1449365139,
+         "likes": 1,
+         "id": "10208571896561407_10208572877665934",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "classy af",
+         "time": 1449370125,
+         "likes": 1,
+         "id": "10208571896561407_10208573232034793",
+         "fromid": "916494651723618"
+      },
+      {
+         "text": "casual tortilla plate",
+         "time": 1447173300,
+         "likes": 0,
+         "id": "10208418964818209_10208421236274994",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "LOL",
+         "time": 1447173395,
+         "likes": 0,
+         "id": "10208418964818209_10208421241915135",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "this is so weird",
+         "time": 1447173408,
+         "likes": 1,
+         "id": "10208418964818209_10208421242515150",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "LOL",
+         "time": 1447137681,
+         "likes": 1,
+         "id": "10208418946177743_10208419014899461",
+         "fromid": "10154883904580228"
+      },
+      {
+         "text": "I love this",
+         "time": 1447170490,
+         "likes": 1,
+         "id": "10208418946177743_10208421033269919",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "So white",
+         "time": 1447174236,
+         "likes": 0,
+         "id": "10208418954617954_10208421323317170",
+         "fromid": "10152264248931396"
+      },
+      {
+         "text": "Brittany is holding a very big tortilla",
+         "time": 1447177117,
+         "likes": 4,
+         "id": "10208418954617954_10208421542002637",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "\"This might be the best picture I have ever seen. *cries* It's so funny.\" ~ Taylor Smairat",
+         "time": 1447216975,
+         "likes": 1,
+         "id": "10208418954617954_10208424395233966",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "Ethan Clemmitt making an appearance",
+         "time": 1447137486,
+         "likes": 3,
+         "id": "10208418955497976_10208419009579328",
+         "fromid": "10153208053129346"
+      },
+      {
+         "text": "lol Grace",
+         "time": 1447143080,
+         "likes": 5,
+         "id": "10208418950297846_10208419223624679",
+         "fromid": "1071890876160442"
+      },
+      {
+         "text": "",
+         "time": 1447179150,
+         "likes": 3,
+         "id": "10208418950297846_10208421666005737",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "New profile picture?",
+         "time": 1447167250,
+         "likes": 0,
+         "id": "10208418965858235_10208420844185192",
+         "fromid": "1048488131832292"
+      },
+      {
+         "text": "Already started my transfer application",
+         "time": 1447039332,
+         "likes": 5,
+         "id": "953226874745035_953306031403786",
+         "fromid": "10153070774558082"
+      },
+      {
+         "text": "You look like a rock star buddy",
+         "time": 1446482615,
+         "likes": 1,
+         "id": "506084369561734_507671036069734",
+         "fromid": "10205793891862247"
+      },
+      {
+         "text": "I like the new \"Gordon Freeman\" look",
+         "time": 1444607621,
+         "likes": 2,
+         "id": "10208235122022254_10208235318147157",
+         "fromid": "389532481246690"
+      },
+      {
+         "text": "All I need are some glasses and a crowbar",
+         "time": 1444607799,
+         "likes": 4,
+         "id": "10208235122022254_10208235325947352",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Cuuuute",
+         "time": 1443460799,
+         "likes": 1,
+         "id": "10208153924232360_10208154019154733",
+         "fromid": "10200135664390894"
+      },
+      {
+         "text": "Pumpkin periodical",
+         "time": 1443462463,
+         "likes": 0,
+         "id": "10208153937072681_10208154163598344",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "LOL ITS FUNNY CUZ Cheng Xuan DOESNT HAVE A HEART OMG HAHA",
+         "time": 1443504776,
+         "likes": 2,
+         "id": "10208153954913127_10208157585523890",
+         "fromid": "10200135664390894"
+      },
+      {
+         "text": "wow,",
+         "time": 1443544797,
+         "likes": 1,
+         "id": "10208153954913127_10208160694201605",
+         "fromid": "10152471726357736"
+      },
+      {
+         "text": "boom roasted",
+         "time": 1443562078,
+         "likes": 1,
+         "id": "10208153954913127_10208162609049475",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "bounce back and forth between this pic and the next for a strobe effect",
+         "time": 1443461798,
+         "likes": 4,
+         "id": "10208153931312537_10208154113597094",
+         "fromid": "1071890876160442"
+      },
+      {
+         "text": "Don't tell Josh",
+         "time": 1443550481,
+         "likes": 3,
+         "id": "10208153973353588_10208161187813945",
+         "fromid": "10152438150491381"
+      },
+      {
+         "text": "I LOVE THIS PHOTO",
+         "time": 1443578724,
+         "likes": 1,
+         "id": "10208153927592444_10208163910282005",
+         "fromid": "10200135664390894"
+      },
+      {
+         "text": "It's great, isn't it?",
+         "time": 1443581907,
+         "likes": 1,
+         "id": "10208153927592444_10208164069005973",
+         "fromid": "10207353797187401"
+      },
+      {
+         "text": "SO great! it looks like were in the middle of the soy bean field ;)",
+         "time": 1443587063,
+         "likes": 0,
+         "id": "10208153927592444_10208164372693565",
+         "fromid": "10200135664390894"
+      },
+      {
+         "text": "So fresh",
+         "time": 1440960164,
+         "likes": 1,
+         "id": "10208349614401195_10208349679322818",
+         "fromid": "1071890876160442"
+      },
+      {
+         "text": "So clean",
+         "time": 1440964952,
+         "likes": 1,
+         "id": "10208349614401195_10208350128734053",
+         "fromid": "1521025628199309"
+      },
+      {
+         "text": "So flirty",
+         "time": 1440969572,
+         "likes": 1,
+         "id": "10208349614401195_10208350556344743",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Where are you and your colorful friends?",
+         "time": 1440983944,
+         "likes": 1,
+         "id": "10208349614401195_10208351949379568",
+         "fromid": "10202095144971187"
+      },
+      {
+         "text": "Downtown Champaign :)",
+         "time": 1440985062,
+         "likes": 0,
+         "id": "10208349614401195_10208352027381518",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "",
+         "time": 1440727589,
+         "likes": 0,
+         "id": "919992204735169_920916101309446",
+         "fromid": "817327881721207"
+      },
+      {
+         "text": "I'm assigning myself official fiddler",
+         "time": 1437437851,
+         "likes": 2,
+         "id": "10207606257581036_10207606802874668",
+         "fromid": "10154883904580228"
+      },
+      {
+         "text": "Dad Jeans are best jeans",
+         "time": 1431920838,
+         "likes": 4,
+         "id": "10207051133663285_10207051161023969",
+         "fromid": "10206262205459058"
+      },
+      {
+         "text": "Thanks",
+         "time": 1431923586,
+         "likes": 2,
+         "id": "10207051133663285_10207051268706661",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "This is unbelievably scary",
+         "time": 1427924846,
+         "likes": 3,
+         "id": "842454052488985_842459385821785",
+         "fromid": "10152409562384579"
+      },
+      {
+         "text": "I don't even want to ask.",
+         "time": 1427946538,
+         "likes": 3,
+         "id": "842454052488985_842573515810372",
+         "fromid": "10202095144971187"
+      },
+      {
+         "text": "nice composition",
+         "time": 1427148108,
+         "likes": 3,
+         "id": "10206624979849706_10206626850856480",
+         "fromid": "10204233965106737"
+      },
+      {
+         "text": "thanks. he posed really well for this one",
+         "time": 1427148520,
+         "likes": 0,
+         "id": "10206624979849706_10206626903017784",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "",
+         "time": 1427150858,
+         "likes": 6,
+         "id": "10206624979849706_10206627184784828",
+         "fromid": "10152409562384579"
+      },
+      {
+         "text": "i need to get nikko in some snow",
+         "time": 1427154710,
+         "likes": 2,
+         "id": "10206624979849706_10206627585354842",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "crush your head",
+         "time": 1425220950,
+         "likes": 1,
+         "id": "825608530840204_825988527468871",
+         "fromid": "395879660578476"
+      },
+      {
+         "text": "Whoa, that was crazy cool!",
+         "time": 1424913113,
+         "likes": 1,
+         "id": "10206401772189654_10206401785509987",
+         "fromid": "10201061029008487"
+      },
+      {
+         "text": "hack.exe hahaha",
+         "time": 1424913294,
+         "likes": 2,
+         "id": "10206401772189654_10206401798950323",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "Dang that flammable snow!",
+         "time": 1424989020,
+         "likes": 1,
+         "id": "10206401772189654_10206410409005569",
+         "fromid": "10152916275267709"
+      },
+      {
+         "text": "is my neck really that long",
+         "time": 1423858724,
+         "likes": 4,
+         "id": "10205890755886968_10205890758287028",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "calculator watch",
+         "time": 1423858731,
+         "likes": 5,
+         "id": "10205890755886968_10205890758607036",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "#whyareyousingle",
+         "time": 1423861601,
+         "likes": 2,
+         "id": "10205890755886968_10205890990972845",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "I like the scarf, very classy",
+         "time": 1423865020,
+         "likes": 2,
+         "id": "10205890755886968_10205891315620961",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "Is this a photoshop face-off?",
+         "time": 1423869124,
+         "likes": 2,
+         "id": "10205890755886968_10205891682230126",
+         "fromid": "10153208053129346"
+      },
+      {
+         "text": "\"face-off\" \u003C--- nice",
+         "time": 1423869157,
+         "likes": 2,
+         "id": "10205890755886968_10205891685990220",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "That was my intention",
+         "time": 1423869579,
+         "likes": 4,
+         "id": "10205890755886968_10205891721351104",
+         "fromid": "10153208053129346"
+      },
+      {
+         "text": "when someone tells you they're not watching the Superbowl today",
+         "time": 1422829166,
+         "likes": 1,
+         "id": "10206215317328399_10206215739018941",
+         "fromid": "10204609335094805"
+      },
+      {
+         "text": "evan for president",
+         "time": 1422830495,
+         "likes": 2,
+         "id": "10206215317328399_10206215887342649",
+         "fromid": "10205380177850820"
+      },
+      {
+         "text": "meme material",
+         "time": 1422859762,
+         "likes": 0,
+         "id": "10206215317328399_10206220022286020",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "world war I chic",
+         "time": 1435160873,
+         "likes": 2,
+         "id": "10206215317328399_10207374816075143",
+         "fromid": "10152409562384579"
+      },
+      {
+         "text": "This is the urbana hipster American Gothic",
+         "time": 1422824779,
+         "likes": 5,
+         "id": "1548797282042749_1548803442042133",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "#OBAMAGHANDI",
+         "time": 1422825736,
+         "likes": 2,
+         "id": "1548797282042749_1548806735375137",
+         "fromid": "10154143888725314"
+      },
+      {
+         "text": "Is this the first brunch meeting for Republican Militia Hipsters?",
+         "time": 1422828213,
+         "likes": 2,
+         "id": "1548797282042749_1548814725374338",
+         "fromid": "10202220364380265"
+      },
+      {
+         "text": "This looks so fun!",
+         "time": 1422291513,
+         "likes": 0,
+         "id": "10206164793985347_10206167780099998",
+         "fromid": "10153208053129346"
+      },
+      {
+         "text": "this is actually really cool",
+         "time": 1422245757,
+         "likes": 0,
+         "id": "10206164805705640_10206164912868319",
+         "fromid": "10152862605638563"
+      },
+      {
+         "text": "I ate it then spit it out actually",
+         "time": 1422249424,
+         "likes": 3,
+         "id": "10206164794465359_10206165213675839",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "Hi gold fishies",
+         "time": 1422247409,
+         "likes": 2,
+         "id": "10206164810385757_10206165047391682",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "ARI !",
+         "time": 1418546853,
+         "likes": 0,
+         "id": "10205764732584062_10205764855667139",
+         "fromid": "10204191626463438"
+      },
+      {
+         "text": "probably the teams because there's more of them,  Z fighters are like the only dudes around",
+         "time": 1417713949,
+         "likes": 1,
+         "id": "10205691581675335_10205691665517431",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Thank you for sharing your insightful conversations for all of the facebook world to see. These really are the questions we must be actively asking ourselves.",
+         "time": 1417714406,
+         "likes": 3,
+         "id": "10205691581675335_10205691709158522",
+         "fromid": "10202404397949827"
+      },
+      {
+         "text": "It's 2014. These issues can't be hidden away. That just creates more hate. And you know what? Dan rhymes with MAN so BUTT OUT",
+         "time": 1417720517,
+         "likes": 0,
+         "id": "10205691581675335_10205692331654084",
+         "fromid": "10152409562384579"
+      },
+      {
+         "text": "So wait now I'm lost... is this a disagreement over musical tastes, anime preference, gender roles, or white privilege.",
+         "time": 1417754848,
+         "likes": 0,
+         "id": "10205691581675335_10205695583095368",
+         "fromid": "10202404397949827"
+      },
+      {
+         "text": "This is a debate over whether Maybach Music Group are the Gorons and G.O.O.D. music are Zoras, or if I'm totally off on this theory",
+         "time": 1417755358,
+         "likes": 0,
+         "id": "10205691581675335_10205695687777985",
+         "fromid": "10152409562384579"
+      },
+      {
+         "text": "Lololololol",
+         "time": 1417364426,
+         "likes": 0,
+         "id": "775408655860192_775422562525468",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "int gimme;\nint gimme2;",
+         "time": 1417367991,
+         "likes": 1,
+         "id": "775408655860192_775451725855885",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "return plzgimmeplz;",
+         "time": 1417374423,
+         "likes": 2,
+         "id": "775408655860192_775503112517413",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "Po!!",
+         "time": 1414892686,
+         "likes": 3,
+         "id": "10205904567516551_10205904602117416",
+         "fromid": "10204581120106892"
+      },
+      {
+         "text": "man of many talents Ellis Pollard",
+         "time": 1429417492,
+         "likes": 1,
+         "id": "10205178655012489_10206843679357057",
+         "fromid": "946954308695313"
+      },
+      {
+         "text": "Hahaha just doin ma thang.",
+         "time": 1429417532,
+         "likes": 1,
+         "id": "10205178655012489_10206843680317081",
+         "fromid": "4522206468927"
+      },
+      {
+         "text": "THIS IS THE CUTEST",
+         "time": 1411947499,
+         "likes": 1,
+         "id": "10205178645492251_10205180110928886",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "Zen Master Nikolaeva",
+         "time": 1412091107,
+         "likes": 1,
+         "id": "10205178639412099_10205192933849451",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "This is disgusting lol",
+         "time": 1411945042,
+         "likes": 0,
+         "id": "10205178631891911_10205179932004413",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945600,
+         "likes": 2,
+         "id": "10205178631891911_10205179974205468",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974245469",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974285470",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 1,
+         "id": "10205178631891911_10205179974325471",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974405473",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974445474",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974485475",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974525476",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945601,
+         "likes": 2,
+         "id": "10205178631891911_10205179974565477",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945602,
+         "likes": 2,
+         "id": "10205178631891911_10205179974605478",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945602,
+         "likes": 2,
+         "id": "10205178631891911_10205179974645479",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945602,
+         "likes": 2,
+         "id": "10205178631891911_10205179974685480",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945602,
+         "likes": 2,
+         "id": "10205178631891911_10205179974725481",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411945602,
+         "likes": 2,
+         "id": "10205178631891911_10205179974765482",
+         "fromid": "10152461873337448"
+      },
+      {
+         "text": "What did you think it was, Jenny?",
+         "time": 1411949946,
+         "likes": 0,
+         "id": "10205178631891911_10205180325094240",
+         "fromid": "10204546883046078"
+      },
+      {
+         "text": "Yeah everyone is seeing the like 14 comments by Jenny right?",
+         "time": 1411950639,
+         "likes": 0,
+         "id": "10205178631891911_10205180393335946",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "i thought this was an eye and i was very creeped out but once i realized it was a mouth i was only a little creeped out",
+         "time": 1411950683,
+         "likes": 3,
+         "id": "10205178631891911_10205180437617053",
+         "fromid": "10206262205459058"
+      },
+      {
+         "text": "lol",
+         "time": 1411990039,
+         "likes": 0,
+         "id": "10205178631891911_10205184330794380",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990040,
+         "likes": 0,
+         "id": "10205178631891911_10205184330914383",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990042,
+         "likes": 0,
+         "id": "10205178631891911_10205184330994385",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990042,
+         "likes": 0,
+         "id": "10205178631891911_10205184331074387",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990043,
+         "likes": 0,
+         "id": "10205178631891911_10205184331154389",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "911 was a conspiracy",
+         "time": 1411990051,
+         "likes": 1,
+         "id": "10205178631891911_10205184331594400",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990053,
+         "likes": 0,
+         "id": "10205178631891911_10205184331714403",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990056,
+         "likes": 0,
+         "id": "10205178631891911_10205184331914408",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990057,
+         "likes": 0,
+         "id": "10205178631891911_10205184331994410",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990058,
+         "likes": 0,
+         "id": "10205178631891911_10205184332034411",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990060,
+         "likes": 0,
+         "id": "10205178631891911_10205184332314418",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "lol",
+         "time": 1411990061,
+         "likes": 0,
+         "id": "10205178631891911_10205184332594425",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "Andy for me it hid every single comment *except* for that conspiracy one",
+         "time": 1412000718,
+         "likes": 2,
+         "id": "10205178631891911_10205185253337443",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "This is awesome",
+         "time": 1411941348,
+         "likes": 0,
+         "id": "10205178625091741_10205179497793558",
+         "fromid": "10205319250563041"
+      },
+      {
+         "text": "awesome",
+         "time": 1411942683,
+         "likes": 0,
+         "id": "10205178625091741_10205179709358847",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "pure art",
+         "time": 1412067595,
+         "likes": 0,
+         "id": "10205178625091741_10205191249087333",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "this could be an album cover",
+         "time": 1411420238,
+         "likes": 2,
+         "id": "10205136822926713_10205136848087342",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "idk fonts",
+         "time": 1411423570,
+         "likes": 12,
+         "id": "10205136822926713_10205137157055066",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "Fred is God",
+         "time": 1411423725,
+         "likes": 1,
+         "id": "10205136822926713_10205137166175294",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "jesus",
+         "time": 1411438223,
+         "likes": 0,
+         "id": "10205136822926713_10205138648852360",
+         "fromid": "10152401109334878"
+      },
+      {
+         "text": "Fred who's Stuart Berman",
+         "time": 1411451801,
+         "likes": 0,
+         "id": "10205136822926713_10205139609276370",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Evan he really knows his birthdays",
+         "time": 1411479661,
+         "likes": 1,
+         "id": "10205136822926713_10205141194676004",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "Thanks for the cake!",
+         "time": 1411351362,
+         "likes": 0,
+         "id": "739306006137124_739356182798773",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I mean I knew some of these things, but I guess by midnight tonight I'll forget all of them",
+         "time": 1411351377,
+         "likes": 0,
+         "id": "739306006137124_739356219465436",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Lovelovelovelove",
+         "time": 1410724875,
+         "likes": 0,
+         "id": "10205077022751746_10205077049672419",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "YESSSSS",
+         "time": 1410728992,
+         "likes": 0,
+         "id": "10205077022751746_10205077503923775",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "seamless ;)",
+         "time": 1410729274,
+         "likes": 1,
+         "id": "10205077022751746_10205077542244733",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "It's like you're there",
+         "time": 1410735013,
+         "likes": 4,
+         "id": "10205077022751746_10205078154420037",
+         "fromid": "10200982152155726"
+      },
+      {
+         "text": "Evan Richter did you change her tshirt color too?",
+         "time": 1410735371,
+         "likes": 0,
+         "id": "10205077022751746_10205078182940750",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "A little bit to get it to match our palette more lol",
+         "time": 1410736207,
+         "likes": 3,
+         "id": "10205077022751746_10205078244582291",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "What am I looking at here.",
+         "time": 1408726245,
+         "likes": 1,
+         "id": "10204879848302508_10204883842602363",
+         "fromid": "3675419361125"
+      },
+      {
+         "text": "This song is way too good. I don't know how much I like the live version but it's still sick",
+         "time": 1408652474,
+         "likes": 0,
+         "id": "10204622502906173_10204622632589415",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I like his use of the Lemurian seed crystals. Crazy he didn't use any established charts and just listened to the crystals to build the grid",
+         "time": 1404585902,
+         "likes": 1,
+         "id": "10152267862139912_10152267890879912",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "ELI5 Please",
+         "time": 1404589648,
+         "likes": 0,
+         "id": "10152267862139912_10152267979444912",
+         "fromid": "10205331016102665"
+      },
+      {
+         "text": "masterful.",
+         "time": 1403492002,
+         "likes": 1,
+         "id": "10204424099389070_10204425790391344",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "troubles",
+         "time": 1403208548,
+         "likes": 1,
+         "id": "10204770572647388_10204770582607637",
+         "fromid": "10152264248931396"
+      },
+      {
+         "text": "Cute",
+         "time": 1403222484,
+         "likes": 0,
+         "id": "10204770572647388_10204772006643237",
+         "fromid": "10208014968358040"
+      },
+      {
+         "text": ":'( miss you guys",
+         "time": 1403227069,
+         "likes": 3,
+         "id": "10204770572647388_10204772376812491",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "Amanda Colorado problems",
+         "time": 1403241831,
+         "likes": 1,
+         "id": "10204770572647388_10204773662724638",
+         "fromid": "1071890876160442"
+      },
+      {
+         "text": "Better get yourself one of these\n\nhttp://www.refinedguy.com/wp-content/uploads/2013/02/33-old-fashioned-camera-flask-cool-flasks.jpg",
+         "time": 1400821431,
+         "likes": 2,
+         "id": "677644548969937_677646318969760",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "i am shaq",
+         "time": 1398644979,
+         "likes": 2,
+         "id": "10203987243827954_10203987255868255",
+         "fromid": "10205336354111571"
+      },
+      {
+         "text": "looking fancy guys",
+         "time": 1398645008,
+         "likes": 0,
+         "id": "10203987243827954_10203987259188338",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "Can I have a copy of that?",
+         "time": 1393898489,
+         "likes": 1,
+         "id": "636834949717564_5029550",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "idk why are the questions so vague?",
+         "time": 1393900420,
+         "likes": 0,
+         "id": "636834949717564_5029586",
+         "fromid": "728638497203875"
+      },
+      {
+         "text": "http://youtu.be/MmteIaL0zjY?t=2m29s",
+         "time": 1393900886,
+         "likes": 0,
+         "id": "636834949717564_5029593",
+         "fromid": "10152264248931396"
+      },
+      {
+         "text": "DON'T BALME THE QUESTIONS!",
+         "time": 1393900892,
+         "likes": 2,
+         "id": "636834949717564_5029594",
+         "fromid": "10152264248931396"
+      },
+      {
+         "text": "BALME",
+         "time": 1393913835,
+         "likes": 5,
+         "id": "636834949717564_5029894",
+         "fromid": "10152471726357736"
+      },
+      {
+         "text": "Thanks! I think the rabbit is nice. Except for the holes in his hands",
+         "time": 1392828939,
+         "likes": 1,
+         "id": "630951936972532_1838465",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "jesus bunny",
+         "time": 1392829245,
+         "likes": 1,
+         "id": "630951936972532_1838468",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "congraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaats!",
+         "time": 1392836845,
+         "likes": 0,
+         "id": "630951936972532_1838682",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "Underratedly one of the most beautiful places on campus",
+         "time": 1387052427,
+         "likes": 0,
+         "id": "10202968882609560_4325277",
+         "fromid": "10206236176171290"
+      },
+      {
+         "text": "definitely, it's in a weird place but it's really cool, looked awesome in the snow",
+         "time": 1387056804,
+         "likes": 1,
+         "id": "10202968882609560_4325467",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "\u003C3",
+         "time": 1386562236,
+         "likes": 1,
+         "id": "594633820604344_1708294",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "i so approve this",
+         "time": 1386562286,
+         "likes": 0,
+         "id": "594633820604344_1708295",
+         "fromid": "10204100280249564"
+      },
+      {
+         "text": "Does this only work on androids?",
+         "time": 1386127835,
+         "likes": 0,
+         "id": "10202892566141696_7762732",
+         "fromid": "10205633151209300"
+      },
+      {
+         "text": "Yeah, anything that can get apps off the play store - so no iPhones, sorry.",
+         "time": 1386128392,
+         "likes": 0,
+         "id": "10202892566141696_7762765",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Aww butts. Cool tho",
+         "time": 1386128621,
+         "likes": 0,
+         "id": "10202892566141696_7762780",
+         "fromid": "10205633151209300"
+      },
+      {
+         "text": "WOAH you're awesome. congrats evan!!",
+         "time": 1386128944,
+         "likes": 1,
+         "id": "10202892566141696_7762805",
+         "fromid": "478841438882738"
+      },
+      {
+         "text": "thanks guys! I appreciate it",
+         "time": 1386129430,
+         "likes": 0,
+         "id": "10202892566141696_7762827",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Wow, I wish I could think of names as original as that!",
+         "time": 1386136334,
+         "likes": 2,
+         "id": "10202892566141696_7763254",
+         "fromid": "10206236176171290"
+      },
+      {
+         "text": "But also wish I had an android to check it out",
+         "time": 1386136348,
+         "likes": 0,
+         "id": "10202892566141696_7763255",
+         "fromid": "10206236176171290"
+      },
+      {
+         "text": "I mean, it is your critically acclaimed acting debut",
+         "time": 1381380655,
+         "likes": 1,
+         "id": "10202418385487476_7466653",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "sssssssss",
+         "time": 1381382040,
+         "likes": 2,
+         "id": "10202418385487476_7466710",
+         "fromid": "10204233965106737"
+      },
+      {
+         "text": "hi\nnow we're literally talking",
+         "time": 1379999919,
+         "likes": 0,
+         "id": "10202301463324495_7384873",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "and it begins. Happy Birthday man",
+         "time": 1379999942,
+         "likes": 0,
+         "id": "10202301463324495_7384875",
+         "fromid": "817785691597037"
+      },
+      {
+         "text": "Thanks dude! now I can go to the show that I couldn't go to",
+         "time": 1379999983,
+         "likes": 0,
+         "id": "10202301463324495_7384878",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "you've sold me lol i'm in",
+         "time": 1380000094,
+         "likes": 0,
+         "id": "10202301463324495_7384881",
+         "fromid": "817785691597037"
+      },
+      {
+         "text": "thanks for the art its framed in my desk",
+         "time": 1379994926,
+         "likes": 0,
+         "id": "163670057166268_134587",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "yeah you know you wouldnt expect me to be so in tune with underground art but it looks like you underestimated old rufflecorn once again",
+         "time": 1379994984,
+         "likes": 0,
+         "id": "163670057166268_134588",
+         "fromid": "389532481246690"
+      },
+      {
+         "text": "I wouldn't you're right this belongs in a museum exhibit",
+         "time": 1379995036,
+         "likes": 0,
+         "id": "163670057166268_134589",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "like in the art instittute",
+         "time": 1379995095,
+         "likes": 0,
+         "id": "163670057166268_134590",
+         "fromid": "389532481246690"
+      },
+      {
+         "text": "more like fart institute ha-ha",
+         "time": 1379995578,
+         "likes": 1,
+         "id": "163670057166268_134592",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Thanks man!",
+         "time": 1379912086,
+         "likes": 0,
+         "id": "10202293668009617_7379468",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I didn't see you! what booth were you at?",
+         "time": 1377493347,
+         "likes": 0,
+         "id": "10202078898560515_7232511",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Rube Goldberg right in front of Noyes",
+         "time": 1377526889,
+         "likes": 0,
+         "id": "10202078898560515_7233923",
+         "fromid": "10152916275267709"
+      },
+      {
+         "text": "I'm digging the large Obama head he's carrying around",
+         "time": 1369631793,
+         "likes": 0,
+         "id": "10152850034605191_41358157",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "\"That's Gwar! That's Gwar!\"",
+         "time": 1369631801,
+         "likes": 0,
+         "id": "10152850034605191_41358159",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "did she say yes",
+         "time": 1368412531,
+         "likes": 2,
+         "id": "10201361031734293_6699844",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "yeah",
+         "time": 1368412588,
+         "likes": 0,
+         "id": "10201361031734293_6699846",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "good",
+         "time": 1368414598,
+         "likes": 1,
+         "id": "10201361031734293_6699973",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "That's good with me, I'll mark my calendar! I can ask Wyatt tonight but I don't think it will overlap with anything",
+         "time": 1367449760,
+         "likes": 0,
+         "id": "10201296176472952_6642110",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Joe LaPenz",
+         "time": 1367081994,
+         "likes": 1,
+         "id": "10201271380853077_3685074",
+         "fromid": "716153121808077"
+      },
+      {
+         "text": "http://meganandtimmy.com/wp-content/uploads/2012/09/bored-audience.jpg",
+         "time": 1367083733,
+         "likes": 0,
+         "id": "10201271380853077_3685158",
+         "fromid": "10205014151529015"
+      },
+      {
+         "text": "you guys are great, just, great audience",
+         "time": 1367087089,
+         "likes": 1,
+         "id": "10201271380853077_3685331",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "do you have the video of us in the hallway?",
+         "time": 1366861328,
+         "likes": 0,
+         "id": "10201258309486301_6607288",
+         "fromid": "10207274956496739"
+      },
+      {
+         "text": "I have a couple of pics, I'll put them up too",
+         "time": 1366861371,
+         "likes": 0,
+         "id": "10201258309486301_6607294",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I'm just waiting on my Hand Massage promo vid",
+         "time": 1366866164,
+         "likes": 0,
+         "id": "10201258309486301_6607603",
+         "fromid": "701744149879026"
+      },
+      {
+         "text": "im so jealous",
+         "time": 1366000053,
+         "likes": 0,
+         "id": "10201200090270857_6555216",
+         "fromid": "10205672206056924"
+      },
+      {
+         "text": "who will have more fun\nmamph+evan?\nor\nJenny +me",
+         "time": 1366000137,
+         "likes": 0,
+         "id": "10201200090270857_6555219",
+         "fromid": "10205672206056924"
+      },
+      {
+         "text": "me and evan",
+         "time": 1366000155,
+         "likes": 1,
+         "id": "10201200090270857_6555221",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "that was easy",
+         "time": 1366000157,
+         "likes": 1,
+         "id": "10201200090270857_6555222",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "well youre a little biased",
+         "time": 1366000168,
+         "likes": 1,
+         "id": "10201200090270857_6555223",
+         "fromid": "10205672206056924"
+      },
+      {
+         "text": "http://1.bp.blogspot.com/-o9MGphc_jgw/UVSo11dql8I/AAAAAAAALIo/IWWSBoxTDFg/s1600/thumbs-up.gif",
+         "time": 1366025173,
+         "likes": 1,
+         "id": "10201200090270857_6555919",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I read this just now and thought you said Shrek with joy",
+         "time": 1366850578,
+         "likes": 0,
+         "id": "10201200090270857_6606407",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "no evan I didn't say Shrek",
+         "time": 1366850611,
+         "likes": 0,
+         "id": "10201200090270857_6606409",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "well I said Shrek and really that's all that matters",
+         "time": 1366850756,
+         "likes": 0,
+         "id": "10201200090270857_6606420",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "http://media.tumblr.com/e772022e405b2f8a2e5620e6b71e53fc/tumblr_inline_mi2v1zEyn91qz4rgp.jpg",
+         "time": 1366850772,
+         "likes": 0,
+         "id": "10201200090270857_6606421",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "oh",
+         "time": 1366850789,
+         "likes": 1,
+         "id": "10201200090270857_6606422",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "Shrek will save us all",
+         "time": 1366851289,
+         "likes": 2,
+         "id": "10201200090270857_6606457",
+         "fromid": "389532481246690"
+      },
+      {
+         "text": "oo hey Wyatt Richter too.  I think my company is going to fly me out to chicago to do some work on the datacenter in a month or so.  It would be on a sun-wed deal.  Its not 100\u0025 yet, and I dont know the dates (they picked someone else for chicago, but im talking to him to switch locations with me) but just a heads up.",
+         "time": 1363415330,
+         "likes": 0,
+         "id": "10201015844424826_6429741",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "Yo, let us know! We can hang out, go to Kuma's or something",
+         "time": 1363450404,
+         "likes": 0,
+         "id": "10201015844424826_6431040",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "First one is FREE if you have an activities pass!",
+         "time": 1363318590,
+         "likes": 1,
+         "id": "10201008921331753_6425478",
+         "fromid": "10206275252259981"
+      },
+      {
+         "text": "If you don't come to this you are dumb",
+         "time": 1363319560,
+         "likes": 2,
+         "id": "10201008921331753_6425527",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "Also Zaramela will be performing",
+         "time": 1363320037,
+         "likes": 5,
+         "id": "10201008921331753_6425563",
+         "fromid": "10203418138047918"
+      },
+      {
+         "text": "What are the chances of successfully getting a 8:30 ticket at the door?",
+         "time": 1363320816,
+         "likes": 0,
+         "id": "10201008921331753_6425600",
+         "fromid": "10205414495386820"
+      },
+      {
+         "text": "depends how early you get there, 15 minutes early you probably have a chance",
+         "time": 1363320875,
+         "likes": 0,
+         "id": "10201008921331753_6425603",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "break a leg guys!",
+         "time": 1363394283,
+         "likes": 0,
+         "id": "10201008921331753_6428810",
+         "fromid": "10203061271201212"
+      },
+      {
+         "text": "subtle as a hurricane",
+         "time": 1362454596,
+         "likes": 0,
+         "id": "490663170992861_4723744",
+         "fromid": "849975798384638"
+      },
+      {
+         "text": "Ermergerd who made this nonsense?",
+         "time": 1362454612,
+         "likes": 0,
+         "id": "490663170992861_4723746",
+         "fromid": "10203422876438137"
+      },
+      {
+         "text": "hahahha love it",
+         "time": 1362454799,
+         "likes": 0,
+         "id": "490663170992861_4723753",
+         "fromid": "10203576100188639"
+      },
+      {
+         "text": "Wow what a guy",
+         "time": 1362455237,
+         "likes": 0,
+         "id": "490663170992861_4723774",
+         "fromid": "10206099968442615"
+      },
+      {
+         "text": "Gold",
+         "time": 1362456958,
+         "likes": 0,
+         "id": "490663170992861_4723855",
+         "fromid": "10204393917482412"
+      },
+      {
+         "text": "Are you joking right now.........ARE YOU JOKING",
+         "time": 1362457934,
+         "likes": 1,
+         "id": "490663170992861_4723899",
+         "fromid": "10202080812127936"
+      },
+      {
+         "text": "What did I ever do to you?",
+         "time": 1362458104,
+         "likes": 1,
+         "id": "490663170992861_4723911",
+         "fromid": "10202080812127936"
+      },
+      {
+         "text": "YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES",
+         "time": 1362102980,
+         "likes": 3,
+         "id": "10200895920226796_6363277",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "what program?",
+         "time": 1362103184,
+         "likes": 0,
+         "id": "10200895920226796_6363289",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "Computer science",
+         "time": 1362103295,
+         "likes": 1,
+         "id": "10200895920226796_6363293",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "goood.  just making sure youre still smart.",
+         "time": 1362103315,
+         "likes": 1,
+         "id": "10200895920226796_6363294",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "Thanks cuz hahah",
+         "time": 1362103343,
+         "likes": 0,
+         "id": "10200895920226796_6363296",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Yeah Evsterrrr!",
+         "time": 1362103950,
+         "likes": 1,
+         "id": "10200895920226796_6363361",
+         "fromid": "450432325099234"
+      },
+      {
+         "text": "you are gonna tear it up down there! Have a fantastic time!",
+         "time": 1362106605,
+         "likes": 1,
+         "id": "10200895920226796_6363599",
+         "fromid": "10206606554790861"
+      },
+      {
+         "text": "Yeah Evsterrrr!",
+         "time": 1362109327,
+         "likes": 2,
+         "id": "10200895920226796_6363839",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "go titans!",
+         "time": 1362109546,
+         "likes": 1,
+         "id": "10200895920226796_6363847",
+         "fromid": "10205672206056924"
+      },
+      {
+         "text": "Yeah Evsterrrr!",
+         "time": 1362109745,
+         "likes": 1,
+         "id": "10200895920226796_6363862",
+         "fromid": "10206264152740594"
+      },
+      {
+         "text": "evan please play me rylynn!! :]",
+         "time": 1361252609,
+         "likes": 0,
+         "id": "10200832953892677_3512402",
+         "fromid": "10206381524564385"
+      },
+      {
+         "text": "Eddie and Jamie - http://www.youtube.com/watch?v=JsD6uEZsIsU",
+         "time": 1361312900,
+         "likes": 0,
+         "id": "10200832953892677_3514220",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "read her name dummy",
+         "time": 1361322190,
+         "likes": 0,
+         "id": "10200832953892677_3514534",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "me too dude. See paradox, its Ca$h on ice basically",
+         "time": 1361034995,
+         "likes": 0,
+         "id": "10200816952532653_6306672",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "oh shit i forgot. when is it?",
+         "time": 1361036165,
+         "likes": 0,
+         "id": "10200816952532653_6306727",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "goooot it\nhttp://i.imgur.com/uB4qFwC.png",
+         "time": 1361036399,
+         "likes": 0,
+         "id": "10200816952532653_6306747",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "damn thats like right when my spring break starts. what time are the shows at on the 15th?",
+         "time": 1361036454,
+         "likes": 0,
+         "id": "10200816952532653_6306751",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "lol nice. It's 6pm and 8pm on friday",
+         "time": 1361039255,
+         "likes": 0,
+         "id": "10200816952532653_6306942",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "you talking about the people who work there?",
+         "time": 1359425190,
+         "likes": 0,
+         "id": "10200613948617682_6217403",
+         "fromid": "1560460226"
+      },
+      {
+         "text": "fucking shit hold up",
+         "time": 1359425227,
+         "likes": 0,
+         "id": "10200613948617682_6217409",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "http://www.potashcorp.com/news/1613/",
+         "time": 1359425233,
+         "likes": 1,
+         "id": "10200613948617682_6217410",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "holy shit",
+         "time": 1359425291,
+         "likes": 1,
+         "id": "10200613948617682_6217413",
+         "fromid": "1560460226"
+      },
+      {
+         "text": "the ultimate crossover",
+         "time": 1359425328,
+         "likes": 0,
+         "id": "10200613948617682_6217415",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "josh this was yesterday. we missed it",
+         "time": 1359426826,
+         "likes": 0,
+         "id": "10200613948617682_6217520",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "that dosn't make it not fantastic",
+         "time": 1359426854,
+         "likes": 0,
+         "id": "10200613948617682_6217525",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "whaaa..........",
+         "time": 1359428110,
+         "likes": 0,
+         "id": "10200613948617682_6217609",
+         "fromid": "10203418138047918"
+      },
+      {
+         "text": "This is fucking amazing.",
+         "time": 1358035933,
+         "likes": 1,
+         "id": "129865743845378_177086",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "This is the shit",
+         "time": 1358037328,
+         "likes": 1,
+         "id": "129865743845378_177116",
+         "fromid": "10203518860428161"
+      },
+      {
+         "text": "Excellent",
+         "time": 1358042022,
+         "likes": 0,
+         "id": "129865743845378_177239",
+         "fromid": "10202822305791993"
+      },
+      {
+         "text": "I like Will's toy story reference on the car hood.",
+         "time": 1358042830,
+         "likes": 0,
+         "id": "129865743845378_177261",
+         "fromid": "829810950392890"
+      },
+      {
+         "text": "Brothers, more like",
+         "time": 1357282564,
+         "likes": 0,
+         "id": "10200441898156528_6095035",
+         "fromid": "10206138320680856"
+      },
+      {
+         "text": "Glenbrook Evening",
+         "time": 1357282662,
+         "likes": 2,
+         "id": "10200441898156528_6095040",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "GBE mf",
+         "time": 1357282686,
+         "likes": 0,
+         "id": "10200441898156528_6095044",
+         "fromid": "10206138320680856"
+      },
+      {
+         "text": "Nice richter",
+         "time": 1357317479,
+         "likes": 1,
+         "id": "10200441898156528_6096659",
+         "fromid": "450432325099234"
+      },
+      {
+         "text": "Allie Gross",
+         "time": 1357317484,
+         "likes": 0,
+         "id": "10200441898156528_6096661",
+         "fromid": "450432325099234"
+      },
+      {
+         "text": "Dat piece sign.",
+         "time": 1357269741,
+         "likes": 0,
+         "id": "10200440588483787_3387690",
+         "fromid": "880350485317402"
+      },
+      {
+         "text": "chieff keeff",
+         "time": 1357270014,
+         "likes": 1,
+         "id": "10200440588483787_3387707",
+         "fromid": "10206606554790861"
+      },
+      {
+         "text": "Richter for President",
+         "time": 1357317686,
+         "likes": 0,
+         "id": "10200440588483787_3388848",
+         "fromid": "880461098641261"
+      },
+      {
+         "text": "I like how angry the mug is at being a mug",
+         "time": 1357198062,
+         "likes": 0,
+         "id": "10200434560253085_6090535",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Fuck you I'm just some paperclips",
+         "time": 1357271865,
+         "likes": 0,
+         "id": "10200434560253085_6094733",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "0:45 - Yeah he's pretty good\n1:16 - THERE WE GO",
+         "time": 1357081796,
+         "likes": 0,
+         "id": "487822831261280_87502640",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "3:00 is the best",
+         "time": 1357081929,
+         "likes": 0,
+         "id": "487822831261280_87502647",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "yeah those two measures where it breaks the insane speed sound awesome",
+         "time": 1357082063,
+         "likes": 0,
+         "id": "487822831261280_87502656",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "No they did. We're dead remember?",
+         "time": 1355548967,
+         "likes": 3,
+         "id": "10200310392588971_5994572",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "what the fuck",
+         "time": 1353901792,
+         "likes": 3,
+         "id": "329835350456703_1670189",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "I can tell this show has succeeded when I know less about it after watching.",
+         "time": 1353901877,
+         "likes": 6,
+         "id": "329835350456703_1670193",
+         "fromid": "10206950656558342"
+      },
+      {
+         "text": "Yes. Hands down.",
+         "time": 1352722764,
+         "likes": 0,
+         "id": "295654903867768_1353053",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "(unintelligible)",
+         "time": 1351749053,
+         "likes": 0,
+         "id": "4988760283312_5767132",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "i dont event know....",
+         "time": 1351720003,
+         "likes": 1,
+         "id": "459301534113245_5087274",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "title sequence: what the fuck?",
+         "time": 1351739554,
+         "likes": 0,
+         "id": "459301534113245_5088149",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "you don't even have to click on it! just hold your mouse over the link and hit like. It's that easy!",
+         "time": 1350527007,
+         "likes": 1,
+         "id": "4910214199709_5684725",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "I don't know how to mouse, Matt. I don't even lift",
+         "time": 1350532003,
+         "likes": 0,
+         "id": "4910214199709_5685141",
+         "fromid": "10152748413943272"
+      },
+      {
+         "text": "You are welcome. That's our main goal, making everyone uncomfortable",
+         "time": 1350267799,
+         "likes": 0,
+         "id": "4874031255158_5668481",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "ya np",
+         "time": 1348377329,
+         "likes": 0,
+         "id": "4784201289465_5553583",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "what ^ he said",
+         "time": 1348377390,
+         "likes": 0,
+         "id": "4784201289465_5553586",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "^yup",
+         "time": 1348377425,
+         "likes": 0,
+         "id": "4784201289465_5553587",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "^yea",
+         "time": 1348377438,
+         "likes": 0,
+         "id": "4784201289465_5553590",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "^ha",
+         "time": 1348377455,
+         "likes": 0,
+         "id": "4784201289465_5553592",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "lol^",
+         "time": 1348377470,
+         "likes": 0,
+         "id": "4784201289465_5553593",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "^lulz",
+         "time": 1348377484,
+         "likes": 0,
+         "id": "4784201289465_5553594",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "here, have another",
+         "time": 1348377501,
+         "likes": 0,
+         "id": "4784201289465_5553598",
+         "fromid": "1357035394313629"
+      },
+      {
+         "text": "jew^",
+         "time": 1348377514,
+         "likes": 1,
+         "id": "4784201289465_5553599",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "^jew also",
+         "time": 1348377532,
+         "likes": 0,
+         "id": "4784201289465_5553600",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "i win.",
+         "time": 1348377540,
+         "likes": 1,
+         "id": "4784201289465_5553602",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "^no",
+         "time": 1348377563,
+         "likes": 0,
+         "id": "4784201289465_5553606",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "yes",
+         "time": 1348377634,
+         "likes": 1,
+         "id": "4784201289465_5553608",
+         "fromid": "1047293992008266"
+      },
+      {
+         "text": "^nope",
+         "time": 1348377657,
+         "likes": 0,
+         "id": "4784201289465_5553609",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "^yuppers",
+         "time": 1348377675,
+         "likes": 1,
+         "id": "4784201289465_5553611",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "^yesh",
+         "time": 1348377692,
+         "likes": 0,
+         "id": "4784201289465_5553613",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "Alright guys, go to bed, flashlight time's over",
+         "time": 1348377714,
+         "likes": 4,
+         "id": "4784201289465_5553614",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "hahah",
+         "time": 1348377727,
+         "likes": 0,
+         "id": "4784201289465_5553615",
+         "fromid": "1047293992008266"
+      },
+      {
+         "text": "time to blob",
+         "time": 1348377730,
+         "likes": 0,
+         "id": "4784201289465_5553616",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "yes",
+         "time": 1348377742,
+         "likes": 0,
+         "id": "4784201289465_5553617",
+         "fromid": "1047293992008266"
+      },
+      {
+         "text": "Daniel Milgram",
+         "time": 1348377743,
+         "likes": 0,
+         "id": "4784201289465_5553618",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "pablo",
+         "time": 1348377766,
+         "likes": 0,
+         "id": "4784201289465_5553620",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "henry shut up",
+         "time": 1348377772,
+         "likes": 2,
+         "id": "4784201289465_5553622",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "max turn off ur vibrator",
+         "time": 1348377790,
+         "likes": 1,
+         "id": "4784201289465_5553623",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "stop shaking the bed Ian Omuro",
+         "time": 1348377814,
+         "likes": 1,
+         "id": "4784201289465_5553625",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "come down from he rafters Vlad Berez",
+         "time": 1348377840,
+         "likes": 1,
+         "id": "4784201289465_5553627",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "wake up guys time for breakfast....noooo",
+         "time": 1348377875,
+         "likes": 0,
+         "id": "4784201289465_5553630",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "time to jerk",
+         "time": 1348377895,
+         "likes": 0,
+         "id": "4784201289465_5553632",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "vasoline",
+         "time": 1348377910,
+         "likes": 0,
+         "id": "4784201289465_5553633",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "graham get me my clothes Daniel Milgram",
+         "time": 1348377920,
+         "likes": 0,
+         "id": "4784201289465_5553634",
+         "fromid": "1047293992008266"
+      },
+      {
+         "text": "Ryan Rosen ^",
+         "time": 1348377926,
+         "likes": 0,
+         "id": "4784201289465_5553635",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "throwing clothes in my pile of shit Liam Jt McGhie",
+         "time": 1348377965,
+         "likes": 1,
+         "id": "4784201289465_5553637",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "haha leo u r so messy",
+         "time": 1348377999,
+         "likes": 0,
+         "id": "4784201289465_5553638",
+         "fromid": "1047293992008266"
+      },
+      {
+         "text": "ik ik",
+         "time": 1348378012,
+         "likes": 0,
+         "id": "4784201289465_5553641",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "omg leo ur pile",
+         "time": 1348378076,
+         "likes": 0,
+         "id": "4784201289465_5553644",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "the pile of shit we call our cabin Evan Richter",
+         "time": 1348378088,
+         "likes": 1,
+         "id": "4784201289465_5553647",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "Brian Schmidt",
+         "time": 1348378091,
+         "likes": 0,
+         "id": "4784201289465_5553648",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "Pablo",
+         "time": 1348378105,
+         "likes": 0,
+         "id": "4784201289465_5553649",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "Leo: \"Where's my Ipod!!?!?!?!\" Me: \"under your pile of things\" Leo: \"No it's not I checked there!\" Me: \"Is it under your other pile?\" Leo: \"Yup found it!\"",
+         "time": 1348378119,
+         "likes": 4,
+         "id": "4784201289465_5553650",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "^hahahahaha",
+         "time": 1348378134,
+         "likes": 0,
+         "id": "4784201289465_5553651",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "i did lose my charger though",
+         "time": 1348378142,
+         "likes": 0,
+         "id": "4784201289465_5553652",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "leo remember when u spilled soda and u used ur dress shirt to wipe it u?",
+         "time": 1348378169,
+         "likes": 1,
+         "id": "4784201289465_5553653",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "oh gosh",
+         "time": 1348378187,
+         "likes": 1,
+         "id": "4784201289465_5553654",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "tag everyone involved in our cabin haah",
+         "time": 1348378221,
+         "likes": 0,
+         "id": "4784201289465_5553656",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "we pretty much did",
+         "time": 1348378234,
+         "likes": 0,
+         "id": "4784201289465_5553658",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "Matthew White",
+         "time": 1348378249,
+         "likes": 0,
+         "id": "4784201289465_5553659",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "Nicole Ostro",
+         "time": 1348378252,
+         "likes": 0,
+         "id": "4784201289465_5553660",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "Ryan Rosen",
+         "time": 1348378259,
+         "likes": 0,
+         "id": "4784201289465_5553661",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "Josh Kaufman",
+         "time": 1348378270,
+         "likes": 0,
+         "id": "4784201289465_5553662",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "you kids are crazy. go to bed before super OD comes",
+         "time": 1348378578,
+         "likes": 1,
+         "id": "4784201289465_5553668",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "Mamph, get outta here before Max shows up",
+         "time": 1348378657,
+         "likes": 2,
+         "id": "4784201289465_5553673",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "are we gonna go on a sneakkout???",
+         "time": 1348378672,
+         "likes": 1,
+         "id": "4784201289465_5553674",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "im pink panther",
+         "time": 1348378933,
+         "likes": 0,
+         "id": "4784201289465_5553695",
+         "fromid": "867285839989155"
+      },
+      {
+         "text": "go titans",
+         "time": 1348389296,
+         "likes": 1,
+         "id": "4784201289465_5554016",
+         "fromid": "10205672206056924"
+      },
+      {
+         "text": "haha this is great!",
+         "time": 1347208968,
+         "likes": 0,
+         "id": "4712642220533_3060880",
+         "fromid": "10206528579033917"
+      },
+      {
+         "text": "If you want an explanation... Check out the fan page: http://www.facebook.com/CASHDOLLARSMONEY",
+         "time": 1347506870,
+         "likes": 0,
+         "id": "4712642220533_3071138",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "nice",
+         "time": 1348458079,
+         "likes": 0,
+         "id": "4712642220533_3101528",
+         "fromid": "10202959570404673"
+      },
+      {
+         "text": "It was Eric Manpool.",
+         "time": 1346807368,
+         "likes": 0,
+         "id": "4689262996067_5464934",
+         "fromid": "803751623021723"
+      },
+      {
+         "text": "If it's gonna be fake I need a more creative answer",
+         "time": 1346808060,
+         "likes": 0,
+         "id": "4689262996067_5465001",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Well when i searched Eric M on facebook, that was the first result",
+         "time": 1346808101,
+         "likes": 0,
+         "id": "4689262996067_5465004",
+         "fromid": "803751623021723"
+      },
+      {
+         "text": "Alright. Want a book?",
+         "time": 1346808118,
+         "likes": 0,
+         "id": "4689262996067_5465005",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Not even a little bit. haha",
+         "time": 1346808155,
+         "likes": 0,
+         "id": "4689262996067_5465006",
+         "fromid": "803751623021723"
+      },
+      {
+         "text": "Damnit. My problems are finding where the book came from, and getting rid of the book. Neither have been solved.",
+         "time": 1346808228,
+         "likes": 0,
+         "id": "4689262996067_5465010",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "There's always the garbage...",
+         "time": 1346808321,
+         "likes": 0,
+         "id": "4689262996067_5465017",
+         "fromid": "803751623021723"
+      },
+      {
+         "text": "no more dead dogs!",
+         "time": 1346808531,
+         "likes": 2,
+         "id": "4689262996067_5465037",
+         "fromid": "10201967686177016"
+      },
+      {
+         "text": "cry the beloved country?",
+         "time": 1346810536,
+         "likes": 0,
+         "id": "4689262996067_5465180",
+         "fromid": "10203308421905635"
+      },
+      {
+         "text": "stop it",
+         "time": 1346810835,
+         "likes": 0,
+         "id": "4689262996067_5465201",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "http://www.huffingtonpost.com/2012/08/31/eric-mcgowen-suspect-texas-gang-rape-trial-fled-courtroom_n_1846112.html\nHim.",
+         "time": 1346812940,
+         "likes": 0,
+         "id": "4689262996067_5465368",
+         "fromid": "10206264152740594"
+      },
+      {
+         "text": "oh no... I better send it to him, he's gonna need something to read in there",
+         "time": 1346813009,
+         "likes": 0,
+         "id": "4689262996067_5465377",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "well it is his, so he probably wants it back",
+         "time": 1346813098,
+         "likes": 0,
+         "id": "4689262996067_5465384",
+         "fromid": "10206264152740594"
+      },
+      {
+         "text": "I'm just so content right there",
+         "time": 1345092967,
+         "likes": 1,
+         "id": "4134818581698_2501474",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "this is sucha  great fucking picture",
+         "time": 1350011614,
+         "likes": 0,
+         "id": "4134818581698_2642431",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "Andy you've got Daffy Ducks tail coming out of the back of our head :P",
+         "time": 1357498786,
+         "likes": 0,
+         "id": "4553649245808_3395092",
+         "fromid": "10207611771079363"
+      },
+      {
+         "text": "Our head...?",
+         "time": 1357499877,
+         "likes": 1,
+         "id": "4553649245808_3395142",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "Haha I meant your head",
+         "time": 1357499991,
+         "likes": 0,
+         "id": "4553649245808_3395150",
+         "fromid": "10207611771079363"
+      },
+      {
+         "text": "But you said our",
+         "time": 1357500269,
+         "likes": 0,
+         "id": "4553649245808_3395182",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "Yeah but you're the one with the messed up hair",
+         "time": 1357500306,
+         "likes": 0,
+         "id": "4553649245808_3395187",
+         "fromid": "10207611771079363"
+      },
+      {
+         "text": "sweet dude!!!!!!",
+         "time": 1430419378,
+         "likes": 1,
+         "id": "4553702487139_10206936623880612",
+         "fromid": "10205932340016274"
+      },
+      {
+         "text": "this is so beautiful",
+         "time": 1344955298,
+         "likes": 1,
+         "id": "4553651165856_2985376",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "actually, this is gross.",
+         "time": 1348539357,
+         "likes": 1,
+         "id": "4553651165856_3104380",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "this is still fuckin disgusting",
+         "time": 1352955787,
+         "likes": 1,
+         "id": "4553651165856_3249199",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "ew why?",
+         "time": 1366344546,
+         "likes": 1,
+         "id": "4553651165856_3664868",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "disgusting.",
+         "time": 1394733662,
+         "likes": 2,
+         "id": "4553651165856_4596044",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "I am proud.",
+         "time": 1344708740,
+         "likes": 0,
+         "id": "4553711487364_2976649",
+         "fromid": "10207657151813388"
+      },
+      {
+         "text": "piercings!",
+         "time": 1345531032,
+         "likes": 0,
+         "id": "4553701727120_3005272",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "HOT",
+         "time": 1344690373,
+         "likes": 1,
+         "id": "4553633325410_2975830",
+         "fromid": "10207611771079363"
+      },
+      {
+         "text": "Phil Levine",
+         "time": 1344694730,
+         "likes": 0,
+         "id": "4553664006177_2976001",
+         "fromid": "10152029325896332"
+      },
+      {
+         "text": "livin the life",
+         "time": 1344690905,
+         "likes": 0,
+         "id": "4553706887249_2975852",
+         "fromid": "10204879285852374"
+      },
+      {
+         "text": "Thanks! Have a good 2nd session!",
+         "time": 1342321903,
+         "likes": 0,
+         "id": "4420778604125_5218624",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Thanks will do and i still can not get over how great of a dancer you are",
+         "time": 1342322138,
+         "likes": 0,
+         "id": "4420778604125_5218648",
+         "fromid": "10204935071678832"
+      },
+      {
+         "text": "Neither can I",
+         "time": 1342322159,
+         "likes": 1,
+         "id": "4420778604125_5218651",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "How about I say that I'm going back to camp but we keep *just* missing each other for the whole month",
+         "time": 1342322085,
+         "likes": 0,
+         "id": "4420755323543_5218642",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "...fair enough",
+         "time": 1342322170,
+         "likes": 0,
+         "id": "4420755323543_5218655",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "Then I'll see you there!",
+         "time": 1342322195,
+         "likes": 0,
+         "id": "4420755323543_5218656",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "k perfect!!!!!!!!",
+         "time": 1342322212,
+         "likes": 0,
+         "id": "4420755323543_5218659",
+         "fromid": "10153541520868690"
+      },
+      {
+         "text": "Chience forever",
+         "time": 1342295252,
+         "likes": 1,
+         "id": "4419383529249_5217137",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "THERE WILL BE T-SHIRTS. COMMEMORATING THE CHIENCE.",
+         "time": 1342295315,
+         "likes": 0,
+         "id": "4419383529249_5217139",
+         "fromid": "464210940377571"
+      },
+      {
+         "text": "she wants your d",
+         "time": 1337651929,
+         "likes": 2,
+         "id": "4119090982123_4939510",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "Clearly",
+         "time": 1337652720,
+         "likes": 2,
+         "id": "4119090982123_4939577",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "i want your d",
+         "time": 1337653172,
+         "likes": 1,
+         "id": "4119090982123_4939604",
+         "fromid": "10204879285852374"
+      },
+      {
+         "text": "I really like that and hate it at the same time. Why were we not friends?",
+         "time": 1337566023,
+         "likes": 0,
+         "id": "2766199333644_1369104",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "i dont know! at least we are now i guess hahah",
+         "time": 1337566491,
+         "likes": 0,
+         "id": "2766199333644_1369113",
+         "fromid": "10202018115533944"
+      },
+      {
+         "text": "Done",
+         "time": 1337488442,
+         "likes": 0,
+         "id": "394364563935966_4588172",
+         "fromid": "10152029325896332"
+      },
+      {
+         "text": "Thanks dude",
+         "time": 1337488807,
+         "likes": 0,
+         "id": "394364563935966_4588197",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I took your damn survey, I expect payment in the blood of any hoofed mammal, preferably lamb, a liter at least.",
+         "time": 1337564744,
+         "likes": 0,
+         "id": "394364563935966_4591198",
+         "fromid": "10208859070178488"
+      },
+      {
+         "text": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias\u00253Daps&field-keywords=lamb+blood\n\nAll I could find were books",
+         "time": 1337565425,
+         "likes": 0,
+         "id": "394364563935966_4591240",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "We'll blend and mix them with water, filling a liter with the thick mixture. I can dig it.",
+         "time": 1337565526,
+         "likes": 0,
+         "id": "394364563935966_4591243",
+         "fromid": "10208859070178488"
+      },
+      {
+         "text": "spend 42 minutes watching it, thats what",
+         "time": 1336829058,
+         "likes": 0,
+         "id": "3061882796970_3084943",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "together",
+         "time": 1336839606,
+         "likes": 0,
+         "id": "3061882796970_3085501",
+         "fromid": "10203418138047918"
+      },
+      {
+         "text": "I miss that place so much . . .",
+         "time": 1335509046,
+         "likes": 0,
+         "id": "3909641506017_4802573",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "I'm going to get emotional now",
+         "time": 1335509056,
+         "likes": 0,
+         "id": "3909641506017_4802576",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "Why are they closing?? I don't even eat meat and im sad:(",
+         "time": 1335539415,
+         "likes": 0,
+         "id": "3909641506017_4804325",
+         "fromid": "10203308421905635"
+      },
+      {
+         "text": "They closed like, over a year ago",
+         "time": 1335587344,
+         "likes": 1,
+         "id": "3909641506017_4807978",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "True fan right here...",
+         "time": 1335618847,
+         "likes": 0,
+         "id": "3909641506017_4809321",
+         "fromid": "10203308421905635"
+      },
+      {
+         "text": "hi dad",
+         "time": 1334461615,
+         "likes": 1,
+         "id": "3805851791339_2628756",
+         "fromid": "10203418138047918"
+      },
+      {
+         "text": "lol this picture",
+         "time": 1334465026,
+         "likes": 0,
+         "id": "3805851791339_2628951",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "noice stache",
+         "time": 1334466810,
+         "likes": 0,
+         "id": "3805851791339_2628985",
+         "fromid": "10152424461109878"
+      },
+      {
+         "text": "1800-DAD-FACE",
+         "time": 1334509682,
+         "likes": 1,
+         "id": "3805851791339_2630029",
+         "fromid": "10152742278159714"
+      },
+      {
+         "text": "even though you cant see it, i know exactly how mitchell is standing",
+         "time": 1344747468,
+         "likes": 2,
+         "id": "3805851791339_2978187",
+         "fromid": "10152781123209966"
+      },
+      {
+         "text": "Thank you sir, much appreciated! \u003C3 \u003C3",
+         "time": 1333420477,
+         "likes": 0,
+         "id": "3725793069921_4662474",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Oh god. It isn't freaky when you see that it's just GMan, but when he's running from it in the beginning... I was dying",
+         "time": 1333386723,
+         "likes": 0,
+         "id": "3722703392681_4659452",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Haha he never really explains the camp thing, but that was pretty funny. Though I'm not sure if the explanation about Japan really would cover all of the weird stuff that comes out of there... http://www.youtube.com/watch?v=HvygYwpdR-8",
+         "time": 1332601117,
+         "likes": 0,
+         "id": "197604350349435_703724",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "some things just dont need explinations.",
+         "time": 1332601244,
+         "likes": 0,
+         "id": "197604350349435_703729",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "Rollin!!!",
+         "time": 1332128260,
+         "likes": 1,
+         "id": "320766411309769_3475205",
+         "fromid": "10205210039993458"
+      },
+      {
+         "text": "So good.",
+         "time": 1332128265,
+         "likes": 0,
+         "id": "320766411309769_3475207",
+         "fromid": "10205453200675322"
+      },
+      {
+         "text": "Oh I'm so flattered and in a school bathroom",
+         "time": 1332162039,
+         "likes": 0,
+         "id": "320766411309769_3476315",
+         "fromid": "10203418138047918"
+      },
+      {
+         "text": "duude tell bosac i need some front brow alum seating",
+         "time": 1331779072,
+         "likes": 0,
+         "id": "3604921968219_4551799",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "I will, last show on friday I assume?",
+         "time": 1331779117,
+         "likes": 0,
+         "id": "3604921968219_4551803",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "of course amigo",
+         "time": 1331779230,
+         "likes": 0,
+         "id": "3604921968219_4551815",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "Got it. Yo lo tengo.",
+         "time": 1331779277,
+         "likes": 0,
+         "id": "3604921968219_4551817",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "GRACIS MAH HOMIE. also that list you told fred about, supply it.",
+         "time": 1331779463,
+         "likes": 0,
+         "id": "3604921968219_4551828",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "before the show, just give me your copy of the brochure with the skit list",
+         "time": 1331779545,
+         "likes": 0,
+         "id": "3604921968219_4551837",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "ok lol",
+         "time": 1331779637,
+         "likes": 1,
+         "id": "3604921968219_4551844",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "I think ms. bosack said something about a special section for graduated paradox people or something.",
+         "time": 1331779710,
+         "likes": 0,
+         "id": "3604921968219_4551850",
+         "fromid": "10206264152740594"
+      },
+      {
+         "text": "oh hey will. long time bro see. #jksawyousaturday",
+         "time": 1331779742,
+         "likes": 0,
+         "id": "3604921968219_4551854",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "#yeahthatwasahugeawesomecoincidence",
+         "time": 1331779843,
+         "likes": 0,
+         "id": "3604921968219_4551863",
+         "fromid": "10206264152740594"
+      },
+      {
+         "text": "The headline makes it sound like we're a bunch of scaredy cats. \"Schools closed after small fire near Glenbrook Hospital\" nice and emasculating",
+         "time": 1331744073,
+         "likes": 0,
+         "id": "391161694228532_5267015",
+         "fromid": "10209310738349971"
+      },
+      {
+         "text": "And yours is ohcrapohcrap. Eeeeeenteresting",
+         "time": 1330239738,
+         "likes": 0,
+         "id": "3484320033246_4440257",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Mine is a Family Guy reference lol",
+         "time": 1330239848,
+         "likes": 0,
+         "id": "3484320033246_4440258",
+         "fromid": "10152426294134602"
+      },
+      {
+         "text": "really? I thought I heard it much more often",
+         "time": 1329877444,
+         "likes": 1,
+         "id": "3457130073514_4412255",
+         "fromid": "10205453200675322"
+      },
+      {
+         "text": "nice shot camera 1",
+         "time": 1329882238,
+         "likes": 0,
+         "id": "3457130073514_4412819",
+         "fromid": "10203576100188639"
+      },
+      {
+         "text": "2:16",
+         "time": 1328839168,
+         "likes": 0,
+         "id": "3356102307883_4335556",
+         "fromid": "10205362821893241"
+      },
+      {
+         "text": "BOOBS!",
+         "time": 1328839170,
+         "likes": 0,
+         "id": "3356102307883_4335557",
+         "fromid": "10205362821893241"
+      },
+      {
+         "text": "Woah, what?",
+         "time": 1328839194,
+         "likes": 0,
+         "id": "3356102307883_4335560",
+         "fromid": "10204519946252885"
+      },
+      {
+         "text": "there's also a little pictogram on the desk of the doctor",
+         "time": 1328839543,
+         "likes": 1,
+         "id": "3356102307883_4335586",
+         "fromid": "10201645308372760"
+      },
+      {
+         "text": "it has like 6 or 7",
+         "time": 1328839550,
+         "likes": 0,
+         "id": "3356102307883_4335587",
+         "fromid": "10201645308372760"
+      },
+      {
+         "text": "awwwwwww \u003C3",
+         "time": 1328499756,
+         "likes": 0,
+         "id": "3318479767343_2440729",
+         "fromid": "10203576100188639"
+      },
+      {
+         "text": "me.",
+         "time": 1328143734,
+         "likes": 0,
+         "id": "3287205465505_4278927",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "I have to say, the acting and audio far exceeds that of birdemic",
+         "time": 1327631745,
+         "likes": 1,
+         "id": "3235943423986_4236997",
+         "fromid": "10206236176171290"
+      },
+      {
+         "text": "I think by simply existing, it does that by defualt",
+         "time": 1327631829,
+         "likes": 2,
+         "id": "3235943423986_4237011",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "took ya  long enough bud",
+         "time": 1327635620,
+         "likes": 1,
+         "id": "3236391955199_4237396",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "Is she collecting it tomorrow?",
+         "time": 1327272436,
+         "likes": 0,
+         "id": "3201384440033_4208118",
+         "fromid": "10202942313100185"
+      },
+      {
+         "text": "idk if she's collecting it but the draft is due tomorrow",
+         "time": 1327272619,
+         "likes": 0,
+         "id": "3201384440033_4208142",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Okay then. Crap essay, here we go",
+         "time": 1327272820,
+         "likes": 2,
+         "id": "3201384440033_4208169",
+         "fromid": "10202942313100185"
+      },
+      {
+         "text": "nice dude im totally about to do this",
+         "time": 1327274422,
+         "likes": 1,
+         "id": "3201384440033_4208417",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "I think a lot of people are about to do that haha",
+         "time": 1327275050,
+         "likes": 0,
+         "id": "3201384440033_4208508",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "worse than the speech that completely lied about our habo summer?",
+         "time": 1327281847,
+         "likes": 0,
+         "id": "3201384440033_4209224",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "That was a good speech. A 5 minute long lie, but a decent one.",
+         "time": 1327289760,
+         "likes": 0,
+         "id": "3201384440033_4209978",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "\"it was really challenging and took a long time\"",
+         "time": 1327290008,
+         "likes": 0,
+         "id": "3201384440033_4210021",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "Like I said, a lie",
+         "time": 1327290330,
+         "likes": 0,
+         "id": "3201384440033_4210069",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "feelsgoodman.jpg",
+         "time": 1327355713,
+         "likes": 0,
+         "id": "3201384440033_4215041",
+         "fromid": "10206236176171290"
+      },
+      {
+         "text": "http://www.youtube.com/watch?v=LeG-6bpeUkA Love? it",
+         "time": 1327123877,
+         "likes": 1,
+         "id": "3187824701048_2398371",
+         "fromid": "10204519946252885"
+      },
+      {
+         "text": "devin townsend is a god and dont you forget it.",
+         "time": 1327152450,
+         "likes": 2,
+         "id": "3187824701048_2398853",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "Sure you post this, but not the rad video",
+         "time": 1327167918,
+         "likes": 0,
+         "id": "3187824701048_2399369",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "Josh Reabel is a cowboy in a stable. Sitting at a table where he is able to see the tv and watch cable. His farm is like the one in Anne and Green Gables. But more risque because he's doing some chick named Mable. She is unstable and should be in a mental instatution. Josh does not care because he thinks his life is a fable.",
+         "time": 1327464292,
+         "likes": 0,
+         "id": "3187824701048_2408961",
+         "fromid": "10205453200675322"
+      },
+      {
+         "text": "p.s. I'm pumped http://www.morewords.com/ends-with/able/",
+         "time": 1327464302,
+         "likes": 1,
+         "id": "3187824701048_2408962",
+         "fromid": "10205453200675322"
+      },
+      {
+         "text": "1478 words.....",
+         "time": 1327464392,
+         "likes": 0,
+         "id": "3187824701048_2408964",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "why can't i see my post?",
+         "time": 1327464524,
+         "likes": 0,
+         "id": "3187824701048_2408968",
+         "fromid": "10205453200675322"
+      },
+      {
+         "text": "Seriously Richter, where's the rad video?",
+         "time": 1327533005,
+         "likes": 0,
+         "id": "3187824701048_2410819",
+         "fromid": "10203418138047918"
+      },
+      {
+         "text": "Hahahaha. ",
+         "time": 1328973830,
+         "likes": 0,
+         "id": "3187824701048_2455098",
+         "fromid": "10207645248642266"
+      },
+      {
+         "text": "rhyming fuck up with fuck up 3 times in a row.... god that song rules",
+         "time": 1326165911,
+         "likes": 1,
+         "id": "3104652821803_4116374",
+         "fromid": "10202379720352225"
+      },
+      {
+         "text": "The unholy trinity applies to my feelings about this",
+         "time": 1326063078,
+         "likes": 1,
+         "id": "3094797775433_4106991",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Did the video come out in 2010 or 2011?",
+         "time": 1326063178,
+         "likes": 0,
+         "id": "3094797775433_4107002",
+         "fromid": "10202942313100185"
+      },
+      {
+         "text": "july 2010",
+         "time": 1326063226,
+         "likes": 0,
+         "id": "3094797775433_4107007",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "oh.",
+         "time": 1326063239,
+         "likes": 0,
+         "id": "3094797775433_4107008",
+         "fromid": "10202942313100185"
+      },
+      {
+         "text": "Haven't seen either, but I only enjoyed the first one. You win.",
+         "time": 1325220248,
+         "likes": 1,
+         "id": "3022829176263_4036369",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "in a hurry once i remembered, i just blindly clicked a few of the first image links i saw. didn't even really look at them first",
+         "time": 1325220296,
+         "likes": 0,
+         "id": "3022829176263_4036372",
+         "fromid": "10201061029008487"
+      },
+      {
+         "text": "and that's why i posted 2 muahahah",
+         "time": 1325220320,
+         "likes": 0,
+         "id": "3022829176263_4036377",
+         "fromid": "10201061029008487"
+      },
+      {
+         "text": "Reddit?! STAY AWAY BEFORE ITS TOO LATE",
+         "time": 1325225706,
+         "likes": 1,
+         "id": "3022829176263_4036689",
+         "fromid": "759462584127399"
+      },
+      {
+         "text": "Oh it's far far too late for me, Charlie.",
+         "time": 1325226747,
+         "likes": 0,
+         "id": "3022829176263_4036758",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "http://i.imgur.com/lCdEw.jpg look at that! can you believe that?",
+         "time": 1325132738,
+         "likes": 0,
+         "id": "3016060607053_4028738",
+         "fromid": "10201061029008487"
+      },
+      {
+         "text": "I've actually seen this before",
+         "time": 1325133456,
+         "likes": 0,
+         "id": "3016060607053_4028859",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "both? i hate you. i'll get you next time.",
+         "time": 1325133520,
+         "likes": 2,
+         "id": "3016060607053_4028869",
+         "fromid": "10201061029008487"
+      },
+      {
+         "text": "evan im quite concerned for your brother",
+         "time": 1324958538,
+         "likes": 0,
+         "id": "10151093504270191_13741765",
+         "fromid": "10206574719793294"
+      },
+      {
+         "text": "Me too Andy. And not only is it a man purse, it is a carrying bag for a vintage camera he found in our aunt's basement.  The hipsterness is unbearable.",
+         "time": 1324960582,
+         "likes": 1,
+         "id": "10151093504270191_13742122",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "double team him.  ill hold him down while you work on the abs.",
+         "time": 1324960664,
+         "likes": 0,
+         "id": "10151093504270191_13742137",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "swag",
+         "time": 1323833633,
+         "likes": 0,
+         "id": "2046477941059_1094696",
+         "fromid": "10205884756381721"
+      },
+      {
+         "text": "When did Sean Connery get to the wimbledon match? Tennish.",
+         "time": 1323835094,
+         "likes": 1,
+         "id": "2046477941059_1094717",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Omg hahahahhahhahahahaha",
+         "time": 1323926539,
+         "likes": 0,
+         "id": "2046477941059_1096307",
+         "fromid": "10202018115533944"
+      },
+      {
+         "text": "Wonder no longer.",
+         "time": 1323387118,
+         "likes": 1,
+         "id": "2872885427763_3877023",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "gonna be a good 4 days",
+         "time": 1323318292,
+         "likes": 0,
+         "id": "2867391850427_3871267",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "if only it could be in a row. Winter break maybe lol",
+         "time": 1323318336,
+         "likes": 0,
+         "id": "2867391850427_3871272",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "do it dude",
+         "time": 1323318355,
+         "likes": 0,
+         "id": "2867391850427_3871277",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "I think all of it might *just* fit into my ipod. this could work.",
+         "time": 1323318385,
+         "likes": 0,
+         "id": "2867391850427_3871284",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "why dont you just put 4 days worth of \"rollin\" on your iPod?",
+         "time": 1323318438,
+         "likes": 0,
+         "id": "2867391850427_3871294",
+         "fromid": "10205592587480985"
+      },
+      {
+         "text": "what type of music?",
+         "time": 1323318439,
+         "likes": 0,
+         "id": "2867391850427_3871295",
+         "fromid": "10206236176171290"
+      },
+      {
+         "text": "Will: That's the best question anyone has ever asked me.\nKarlin: All the kinds.",
+         "time": 1323318620,
+         "likes": 0,
+         "id": "2867391850427_3871320",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "if it's going to be 4 days straight, why would you need to put it on your ipod?",
+         "time": 1323319535,
+         "likes": 0,
+         "id": "2867391850427_3871437",
+         "fromid": "1560460226"
+      },
+      {
+         "text": "To sleep/travel with. I mean I guess I could just lay down in my bed with the speakers on.",
+         "time": 1323319602,
+         "likes": 0,
+         "id": "2867391850427_3871444",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "well yeah, if you're travelling anywhere, you'll have to stop listening to your ipod at some point, whether it's to hear people speak or in between pulling your headphones out and plugging it into your car sound system\nso if you wanna go hardcore, a bed/hammock is a must",
+         "time": 1323319777,
+         "likes": 0,
+         "id": "2867391850427_3871475",
+         "fromid": "1560460226"
+      },
+      {
+         "text": "No dude I meant like travel to my kitchen to eat. If I'm gonna stay awake for 4 days straight I am not going to devote energy to anything other than laying down or getting food.",
+         "time": 1323319864,
+         "likes": 0,
+         "id": "2867391850427_3871487",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "or I could sleep I guess, but then I'd miss like 8 hours of music.",
+         "time": 1323319896,
+         "likes": 0,
+         "id": "2867391850427_3871490",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "getting up to get food? my, my, you haven't really thought this through.\nthree words: system of tubes, dude... system. of. tubes.",
+         "time": 1323319996,
+         "likes": 1,
+         "id": "2867391850427_3871502",
+         "fromid": "1560460226"
+      },
+      {
+         "text": "Genius. Flawless genius right there.",
+         "time": 1323320576,
+         "likes": 0,
+         "id": "2867391850427_3871577",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "17 hours in",
+         "time": 1324360238,
+         "likes": 0,
+         "id": "2867391850427_3962695",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "What a big caterpillar she has on her face. And look at the size of those squash!",
+         "time": 1323025956,
+         "likes": 1,
+         "id": "1999669410875_1081403",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "9gag is everywhere!",
+         "time": 1323027798,
+         "likes": 0,
+         "id": "1999669410875_1081440",
+         "fromid": "10206528579033917"
+      },
+      {
+         "text": "Maybe... if you can properly pitch \"Awkward Boy Goes To A Train Station\"",
+         "time": 1322534481,
+         "likes": 1,
+         "id": "2801137354106_3799073",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "You missed us leaving about 10 minutes in, so nothing lol",
+         "time": 1322021491,
+         "likes": 0,
+         "id": "2759207625889_3752824",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Just sent it man. Enjoy.",
+         "time": 1321915868,
+         "likes": 0,
+         "id": "2749346739373_3742151",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "lol so much fun",
+         "time": 1321746894,
+         "likes": 0,
+         "id": "295676767129950_4102316",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Nice! thanks!",
+         "time": 1321727947,
+         "likes": 0,
+         "id": "2732651321998_3724530",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Rest in peace, sweet prince",
+         "time": 1320803839,
+         "likes": 0,
+         "id": "2668905048381_3640673",
+         "fromid": "10205014151529015"
+      },
+      {
+         "text": "stop its not true",
+         "time": 1320803860,
+         "likes": 1,
+         "id": "2668905048381_3640677",
+         "fromid": "10209194854217414"
+      },
+      {
+         "text": "Evan if it's not true, you are going to rest in peace",
+         "time": 1320804366,
+         "likes": 0,
+         "id": "2668905048381_3640729",
+         "fromid": "757432340986462"
+      },
+      {
+         "text": "damnit evan",
+         "time": 1320805657,
+         "likes": 0,
+         "id": "2668905048381_3640916",
+         "fromid": "10203308421905635"
+      },
+      {
+         "text": "jus playin",
+         "time": 1320806710,
+         "likes": 0,
+         "id": "2668905048381_3641025",
+         "fromid": "10202796224202688"
+      },
+      {
+         "text": "not that much apparently",
+         "time": 1320729717,
+         "likes": 0,
+         "id": "2665451762051_3633767",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "http://www.youtube.com/watch?v=bP24FTERC2M - me being nice to you",
+         "time": 1320729786,
+         "likes": 1,
+         "id": "2665451762051_3633773",
+         "fromid": "10201061029008487"
+      },
+      {
+         "text": "daaawwwww",
+         "time": 1319347321,
+         "likes": 1,
+         "id": "2600760264804_2162740",
+         "fromid": "10154767199355191"
+      },
+      {
+         "text": "In the GaGa pits I assume",
+         "time": 1320371718,
+         "likes": 0,
+         "id": "2648939629258_3603151",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "I was just about to start actually, I just finished my homework",
+         "time": 1320104291,
+         "likes": 0,
+         "id": "2636054867147_3579126",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Don't forget my photoshop!!",
+         "time": 1320104358,
+         "likes": 0,
+         "id": "2636054867147_3579133",
+         "fromid": "10152029325896332"
+      },
+      {
+         "text": "too easy alex, too easy",
+         "time": 1320104437,
+         "likes": 0,
+         "id": "2636054867147_3579136",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "Please!",
+         "time": 1320104452,
+         "likes": 0,
+         "id": "2636054867147_3579139",
+         "fromid": "10152029325896332"
+      },
+      {
+         "text": "maybe",
+         "time": 1320104464,
+         "likes": 0,
+         "id": "2636054867147_3579142",
+         "fromid": "10204952231232036"
+      },
+      {
+         "text": "ari levy american hero i want that to be to be the title",
+         "time": 1320105326,
+         "likes": 0,
+         "id": "2636054867147_3579222",
+         "fromid": "10205380177850820"
+      },
+      {
+         "text": "genius",
+         "time": 1320032131,
+         "likes": 0,
+         "id": "2632443696870_3573400",
+         "fromid": "10204393917482412"
+      },
+      {
+         "text": "I think I might just do it with a sweatshirt, it'll be easier than carrying a basketball around all day",
+         "time": 1320032286,
+         "likes": 1,
+         "id": "2632443696870_3573422",
+         "fromid": "10204952231232036"
+      }
+   ]
+}

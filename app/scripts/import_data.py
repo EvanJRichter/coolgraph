@@ -2,51 +2,152 @@ import urllib2
 import json
 import calendar
 import csv
+import requests
+import nltk
+import nltk.classify.util
+from nltk.classify import NaiveBayesClassifier
+from nltk.corpus import movie_reviews
+from nltk.sentiment import SentimentAnalyzer
+from nltk.sentiment.util import *
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
-header = ['name', 'from_team', 'team', 'player_id', 'note', 'transaction_id', 'year']
+def scrapetojson():
+  file_name = 'posts.json'
+  fout = open(file_name,'w')
 
-teams = ["Atlanta Braves","Miami Marlins","New York Mets","Philadelphia Phillies","Washington Nationals","Chicago Cubs","Cincinnati Reds","Milwaukee Brewers","Pittsburgh Pirates","St. Louis Cardinals","Arizona Diamondbacks","Colorado Rockies","Los Angeles Dodgers","San Diego Padres","San Francisco Giants","Baltimore Orioles","Boston Red Sox","New York Yankees","Tampa Bay Rays","Toronto Blue Jays","Chicago White Sox","Cleveland Indians","Detroit Tigers","Kansas City Royals","Minnesota Twins","Houston Astros","Los Angeles Angels","Oakland Athletics","Seattle Mariners","Texas Rangers"]
+  with open('../static/data/comments.txt', 'r') as data_file:
+    data = json.load(data_file)
 
-def scrapetocsv():
-  for year in range(2013,2016):
-    file_name = str(year) + '.csv'
-    fout = csv.DictWriter(open(file_name,'w'), header)
-    fout.writeheader()
-    for month in range(1,13):
-      getmonth(year,month,fout)
+  #first step, organize comments by post and time
 
-def getmonth(year,month, fout):
-  print year, month
-  maxday = calendar.monthrange(year,month)[1]
-  monthstr = str(month)
-  if len(monthstr) < 2:
-    monthstr = '0' + monthstr
-  start = '%s%s01' % (year,monthstr)
-  end = '%s%s%02d' % (year,monthstr,maxday)
-  url = "http://mlb.mlb.com/lookup/json/named.transaction_all.bam?start_date=%s&end_date=%s&sport_code='mlb'" % (start,end)
+  #hash post id -> tuple (child comments in array, earliest time)
+  posts = {}
 
-  response = urllib2.urlopen(url).read()
-  data = json.loads(response)['transaction_all']['queryResults']
+  rows = data['data']
 
-  if 'row' in data.keys():
-    if type(data['row']) is dict:
-      rows = [data['row'], ]
+  for row in rows:
+    if row['fromid'] not in posts:
+      entry = ([row['text']], row['time'])  
+      posts[row['fromid']]= entry
     else:
-      rows = data['row']
-      for row in rows:
-        descrip = row['note'].lower()
-        if 'trade' in descrip and len(row['player']) > 0:
-          write_row = "{0},{1},{2},{3}".format(str(row['player']), str(row['from_team']), str(row['team']), str(row['player_id']), str(row['note']), str(row['transaction_id']), year)
-          fout.writerow(
-            {
-              'name' : row['player'],
-              'from_team' : row['from_team'],
-              'team' : row['team'],
-              'player_id' : row['player_id'],
-              'note' : row['note'],
-              'transaction_id' : row['transaction_id'],
-              'year' : year
-            }
-          )
-scrapetocsv()
+      entry = (posts[row['fromid']][0] + [row['text']] , posts[row['fromid']][1])
+      if posts[row['fromid']][1] > row['time']:
+        entry = (posts[row['fromid']][0] + [row['text']] , row['time'])
+      posts[row['fromid']] = entry
+
+  #second step, sentiment analysis on each post's replies
+  post_json = analyze(posts)
+  print post_json
+  fout.write(json.dumps(post_json))
+
+def setup_json():
+  #Want to make json like this
+  #'name': 'pos',
+  #'children': [
+    #more
+    #'children': [
+      #'name': ID, "size": compound_val
+    #]
+    #mid
+    #less
+  #]
+  #neg
+    #more
+    #mid
+    #less
+
+  post_json = {}
+  post_json['name'] = 'posts'
+  post_json['children'] = []
+  positive = {}
+  neutral = {}
+  negative = {}
+  positive['name'] = 'positive'
+  neutral['name'] = 'neutral'
+  negative['name'] = 'negative'
+  positive['children'] = []
+  neutral['children'] = []
+  negative['children'] = []
+
+  min_pos = {}
+  min_pos['name'] = 'min_pos'
+  min_pos['children'] = []
+  mid_pos = {}
+  mid_pos['name'] = 'mid_pos'
+  mid_pos['children'] = []
+  max_pos = {}  
+  max_pos['name'] = 'max_pos'
+  max_pos['children'] = []
+  min_neg = {}
+  min_neg['name'] = 'min_neg'
+  min_neg['children'] = []
+  mid_neg = {}
+  mid_neg['name'] = 'mid_neg'
+  mid_neg['children'] = []
+  max_neg = {}
+  max_neg['name'] = 'max_neg'
+  max_neg['children'] = []
+
+  positive['children'].append(min_pos)
+  positive['children'].append(mid_pos)
+  positive['children'].append(max_pos)
+
+  negative['children'].append(min_neg)
+  negative['children'].append(mid_neg)
+  negative['children'].append(max_neg)
+
+  post_json['children'].append(positive)
+  post_json['children'].append(neutral)
+  post_json['children'].append(negative)
+
+  print json.dumps(post_json)
+  return post_json
+
+def analyze(posts):
+  post_json = setup_json()
+  #for post, replies in posts.iteritems()
+
+  sid = SentimentIntensityAnalyzer()
+  for key, value in posts.iteritems():
+    nustring = ' '.join(value[0]).replace("u'", "")
+    ss = sid.polarity_scores(nustring)
+    for k in sorted(ss):
+      if k is "compound":
+        entry = {}
+        entry['name'] = ss[k]*len(nustring)
+        entry['size'] = len(nustring)
+        if ss[k] == 0.0:
+          post_json['children'][1]['children'].append(entry)
+        elif ss[k] < -0.8:
+          post_json['children'][2]['children'][2]['children'].append(entry)
+        elif ss[k] < -0.4:
+          post_json['children'][2]['children'][1]['children'].append(entry)
+        elif ss[k] < -0.0:
+          post_json['children'][2]['children'][0]['children'].append(entry)
+        elif ss[k] < 0.4:
+          post_json['children'][0]['children'][0]['children'].append(entry)
+        elif ss[k] < 0.8:
+          post_json['children'][0]['children'][1]['children'].append(entry)
+        else:
+          post_json['children'][0]['children'][2]['children'].append(entry)
+  return post_json
+
+
+scrapetojson()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
